@@ -149,3 +149,6 @@
 * Fuad Jamour, Ibrahim Abdelaziz, Yuanzhao Chen, Panos Kalnis: [Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs](https://dl.acm.org/citation.cfm?doid=3302424.3303962), EuroSys 2019
 * Fuad Jamour: [Algorithms and Frameworks for Graph Analytics at Scale](https://repository.kaust.edu.sa/bitstream/handle/10754/631280/FuadJamourThesis.pdf?sequence=3), PhD thesis, 2019
 
+## Related papers
+
+* Daniele G. Spampinato et al.: [Linear Algebraic Depth-First Search](https://dl.acm.org/citation.cfm?doid=3315454.3329962), ARRAY workshop at PLDI, 2019
