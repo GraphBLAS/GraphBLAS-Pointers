@@ -10,7 +10,8 @@
 * Jeremy Kepner et al.: [Mathematical Foundations of the GraphBLAS](https://people.eecs.berkeley.edu/~aydin/GraphBLAS-Math.pdf), HPEC 2016
 * A more detailed version was included in the ["GraphBLAS Mathematics - Provisional Release 1.0"](http://www.mit.edu/~kepner/GraphBLAS/GraphBLAS-Math-release.pdf) (2017) specification document 
 * An updated version of this paper is also reprinted in the [Mathematics of Big Data](https://mitpress.mit.edu/books/mathematics-big-data) (2018) as Chapter 6, p81-113.
-* Aydin Buluc, Tim Mattson, Scott McMillan, Jose Moreira, Carl Yang: [The GraphBLAS C API Specification (version 1.2.0)](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C.pdf)
+* Aydin Buluc, Tim Mattson, Scott McMillan, Jose Moreira, Carl Yang: [The GraphBLAS C API Specification (version 1.2.0)](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v12.pdf)
+* Aydin Buluc, Tim Mattson, Scott McMillan, Jose Moreira, Carl Yang: [The GraphBLAS C API Specification (version 1.3.0)](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v13.pdf)
 
 ### Implementation details
 
@@ -79,7 +80,7 @@
 
 ### Tutorials
 
-* Scott McMillan, Timothy G. Mattson: [Hands-on tutorial for GraphBLAS](https://github.com/tgmattso/GraphBLAS), HPEC 2018
+* Scott McMillan, Timothy G. Mattson: [Hands-on tutorial for GraphBLAS](https://github.com/tgmattso/GraphBLAS), HPEC 2018, 2019
 
 ### GraphBLAS
 
