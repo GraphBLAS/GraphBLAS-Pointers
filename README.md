@@ -89,7 +89,7 @@
 * John R. Gilbert: [Building Blocks for Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/GilbertCIMI7July2015.pdf)
 * John R. Gilbert: [Graph Algorithms in the Language of Linear Algebra: How did we get here, where do we go next?](https://pdfs.semanticscholar.org/e0e3/a850ca03f5092aaa45152e53bd77af689567.pdf), IPDPS Graph Algorithms Building Blocks 2018
 * Jeremy Kepner, Vijay Gadepally, Ben Miller: [Graph Analytics expressed in GraphBLAS](http://www.mit.edu/~kepner/Graphulo/141222-GraphuloInGraphBLAS.pptx), 2014
-* Timothy A. Davis: [SuiteSparse:GraphBLAS: graph algorithms via sparse matrix operations on semirings](https://docplayer.net/57315429-Suitesparse-graphblas-graph-algorithms-via-sparse-matrix-operations-on-semirings.html), CSCE seminar at Texas A&M University, 2017
+* Timothy A. Davis: [SuiteSparse:GraphBLAS: graph algorithms via sparse matrix operations on semirings](https://cerfacs.fr/wp-content/uploads/2017/09/S02E04-Davis.pdf), Sparse Days 2017 at CERFACS
 * Scott McMillan: [Graph Algorithms on Future Architectures](https://resources.sei.cmu.edu/asset_files/Presentation/2015_017_001_446303.pdf), CMU SEI Research Review 2015
     * [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2015_020_001_446691.pdf)
     * [Video](https://www.youtube.com/watch?v=-sIdS4cz7-4)
