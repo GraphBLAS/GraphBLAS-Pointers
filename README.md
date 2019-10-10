@@ -84,6 +84,7 @@
 
 ### GraphBLAS
 
+* Aydın Buluç: [GraphBLAS: concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318), June 2019
 * John R. Gilbert: [GraphBLAS: Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/Gilbert-27Jun2019.pdf), June 2019
 * John R. Gilbert: [Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/cs240a/slides/old/cs240a-GALA.pdf), CS 240A presentation adapted from Intel Non-Numeric Computing Workshop, 2014
 * John R. Gilbert: [Building Blocks for Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/GilbertCIMI7July2015.pdf)
