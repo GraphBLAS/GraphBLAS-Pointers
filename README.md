@@ -67,7 +67,7 @@
 ## Algorithms
 
 * LAGraph: library of algorithms for GraphBLAS (similarly to LAPACK for BLAS)
-    * Paper - Timothy G. Mattson, Timothy A. Davis, Manoj Kumar, Aydın Buluç, Scott McMillan, Jose Moreira and Carl Yang: [LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the GraphBLAS](http://home.mit.bme.hu/~szarnyas/papers/lagraph-grapl19.pdf), GrAPL @ IPDPS 2019 ([source](https://github.com/GraphBLAS/GrAPL19))
+    * Paper - Timothy G. Mattson, Timothy A. Davis, Manoj Kumar, Aydın Buluç, Scott McMillan, Jose Moreira and Carl Yang: [LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/lagraph-grapl19.pdf), GrAPL @ IPDPS 2019 ([source](https://github.com/GraphBLAS/GrAPL19))
     * [LAGraph repository on GitHub](https://github.com/GraphBLAS/LAGraph)
 * Ariful Azad, Aydın Buluç: [LACC: A Linear-Algebraic Algorithm for Finding Connected Components in Distributed Memory](https://people.eecs.berkeley.edu/~aydin/LACC.pdf), IPDPS 2019
 * Timothy A. Davis: [Graph algorithms via SuiteSparse:GraphBLAS: triangle counting and K-truss](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/Davis_HPEC18.pdf), HPEC 2018
