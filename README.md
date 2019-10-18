@@ -3,15 +3,23 @@
 * [GraphBLAS.org](http://graphblas.org/)
 * [HPC Graph Analysis](http://www.graphanalysis.org/)
 
+If you're new to GraphBLAS, I suggest reading the starred items first :star:.
+
 ## Readings
 
 ### Papers and specifications
 
 * Jeremy Kepner et al.: [Mathematical Foundations of the GraphBLAS](https://people.eecs.berkeley.edu/~aydin/GraphBLAS-Math.pdf), HPEC 2016
-* A more detailed version was included in the ["GraphBLAS Mathematics - Provisional Release 1.0"](http://www.mit.edu/~kepner/GraphBLAS/GraphBLAS-Math-release.pdf) (2017) specification document 
-* An updated version of this paper is also reprinted in the [Mathematics of Big Data](https://mitpress.mit.edu/books/mathematics-big-data) (2018) as Chapter 6, p81-113.
-* Aydin Buluc, Tim Mattson, Scott McMillan, Jose Moreira, Carl Yang: [The GraphBLAS C API Specification (version 1.2.0)](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v12.pdf)
-* Aydin Buluc, Tim Mattson, Scott McMillan, Jose Moreira, Carl Yang: [The GraphBLAS C API Specification (version 1.3.0)](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v13.pdf)
+  * :star: A more detailed version of this paper is part of the ["GraphBLAS Mathematics - Provisional Release 1.0"](http://www.mit.edu/~kepner/GraphBLAS/GraphBLAS-Math-release.pdf) specification document (2017)
+  * An updated version of this paper is also reprinted in the [Mathematics of Big Data](https://mitpress.mit.edu/books/mathematics-big-data) (2018) as Chapter 6, p81-113.
+* Aydin Buluc, Tim Mattson, Scott McMillan, Jose Moreira, Carl Yang: [The GraphBLAS C API Specification (version 1.3.0)](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v13.pdf) (deprecated: [version 1.2.0](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v12.pdf))
+
+### GraphBLAS design papers
+
+* Timothy G. Mattson et al.: [Standards for graph algorithm primitives](https://arxiv.org/abs/1408.0393), HPEC 2013
+* Jeremy Kepner, David A. Bader, Aydın Buluç, John R. Gilbert, Timothy G. Mattson, Henning Meyerhenke: [Graphs, Matrices, and the GraphBLAS: Seven Good Reasons](https://arxiv.org/ftp/arxiv/papers/1504/1504.01039.pdf), ICCS 2015
+* Jeremy Kepner et al.: [Mathematical Foundations of the GraphBLAS](https://people.eecs.berkeley.edu/~aydin/GraphBLAS-Math.pdf), HPEC 2016
+* Timothy G. Mattson, Carl Yang, Scott McMillan, Aydın Buluç, José E. Moreira: [GraphBLAS C API: Ideas for future versions of the specification](https://people.eecs.berkeley.edu/~aydin/GrB_futures_hpec17.pdf), HPEC 2017
 
 ### Implementation details
 
@@ -25,12 +33,6 @@
     * Note that GraphBLAS was on the drawing board at this time – neither the notation, nor the API was finalized.
 * Jeremy Kepner, Hayden Jananthan: [Mathematics of Big Data: Spreadsheets, Databases, Matrices, and Graphs](https://mitpress.mit.edu/books/mathematics-big-data), MIT Press, 2018
     * This book is currently the latest detailed reference on semiring-based computations, including graph algorithms. That said, the book is aimed at a broader audience and covers many other topics as well including associative arrays. The book is not intended to be a GraphBLAS refernece (it only mentions GraphBLAS once), but it can be used for providing a background in linear algebra (see e.g. Chapter 8, "Visualizing the Algebra of Associative Arrays").
-
-### GraphBLAS design papers
-
-* Timothy G. Mattson et al.: [Standards for graph algorithm primitives](https://arxiv.org/abs/1408.0393), HPEC 2013
-* Jeremy Kepner, David A. Bader, Aydın Buluç, John R. Gilbert, Timothy G. Mattson, Henning Meyerhenke: [Graphs, Matrices, and the GraphBLAS: Seven Good Reasons](https://arxiv.org/ftp/arxiv/papers/1504/1504.01039.pdf), ICCS 2015
-* Timothy G. Mattson, Carl Yang, Scott McMillan, Aydın Buluç, José E. Moreira: [GraphBLAS C API: Ideas for future versions of the specification](https://people.eecs.berkeley.edu/~aydin/GrB_futures_hpec17.pdf), HPEC 2017
 
 ## Implementations
 
@@ -84,14 +86,14 @@
 
 ### GraphBLAS
 
-* Aydın Buluç: [GraphBLAS: concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318), June 2019
+* :star: Aydın Buluç: [GraphBLAS: concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318), June 2019
 * John R. Gilbert: [GraphBLAS: Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/Gilbert-27Jun2019.pdf), June 2019
 * John R. Gilbert: [Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/cs240a/slides/old/cs240a-GALA.pdf), CS 240A presentation adapted from Intel Non-Numeric Computing Workshop, 2014
 * John R. Gilbert: [Building Blocks for Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/GilbertCIMI7July2015.pdf)
 * John R. Gilbert: [Graph Algorithms in the Language of Linear Algebra: How did we get here, where do we go next?](https://pdfs.semanticscholar.org/e0e3/a850ca03f5092aaa45152e53bd77af689567.pdf), IPDPS Graph Algorithms Building Blocks 2018
 * Jeremy Kepner, Vijay Gadepally, Ben Miller: [Graph Analytics expressed in GraphBLAS](http://www.mit.edu/~kepner/Graphulo/141222-GraphuloInGraphBLAS.pptx), 2014
 * Timothy A. Davis: [SuiteSparse:GraphBLAS: graph algorithms via sparse matrix operations on semirings](https://cerfacs.fr/wp-content/uploads/2017/09/S02E04-Davis.pdf), Sparse Days 2017 at CERFACS
-* Scott McMillan: [Graph Algorithms on Future Architectures](https://resources.sei.cmu.edu/asset_files/Presentation/2015_017_001_446303.pdf), CMU SEI Research Review 2015
+* :star: Scott McMillan: [Graph Algorithms on Future Architectures](https://resources.sei.cmu.edu/asset_files/Presentation/2015_017_001_446303.pdf), CMU SEI Research Review 2015
     * [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2015_020_001_446691.pdf)
     * [Video](https://www.youtube.com/watch?v=-sIdS4cz7-4)
 * Scott McMillan: [GraphBLAS: A Programming Specification for Graph Analysis](https://resources.sei.cmu.edu/asset_files/Presentation/2016_017_001_474272.pdf), SEI Research Review 2016
@@ -128,8 +130,8 @@
 
 ## Events
 
-| year | HPEC | IPDPS workshop |
-| ---- | ---- | -------------- |
+| year | HPEC                                                       | IPDPS workshop                                         |
+| ---- | ---------------------------------------------------------- | ------------------------------------------------------ |
 | 2019 | [HPEC](http://www.ieee-hpec.org/)                          | [GrAPL](https://github.com/GraphBLAS/GrAPL19)          |
 | 2018 | [HPEC](http://www.ieee-hpec.org/2018/)                     | [GABB](http://graphanalysis.org/workshop2018.html)     |
 | 2017 | [HPEC](http://ieee-hpec.org/2017/techprog2017/sept13.htm)  | [GABB](http://graphanalysis.org/workshop2017.html)     |
