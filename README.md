@@ -1,9 +1,11 @@
 # GraphBLAS pointers
 
+If you're new to GraphBLAS, we recommend reading the starred items first :star:. Detailed technical documentats are denoted with :gear:.
+
+## Community sites
+
 * [GraphBLAS.org](http://graphblas.org/)
 * [HPC Graph Analysis](http://www.graphanalysis.org/)
-
-If you're new to GraphBLAS, I suggest reading the starred items first :star:. Detailed technical documentats are denoted with :gear:.
 
 ## Readings
 
@@ -25,13 +27,13 @@ If you're new to GraphBLAS, I suggest reading the starred items first :star:. De
 * Jeremy Kepner, David A. Bader, Aydın Buluç, John R. Gilbert, Timothy G. Mattson, Henning Meyerhenke: [Graphs, Matrices, and the GraphBLAS: Seven Good Reasons](https://arxiv.org/ftp/arxiv/papers/1504/1504.01039.pdf), ICCS 2015
 * :gear: Timothy G. Mattson, Carl Yang, Scott McMillan, Aydın Buluç, José E. Moreira: [GraphBLAS C API: Ideas for future versions of the specification](https://people.eecs.berkeley.edu/~aydin/GrB_futures_hpec17.pdf), HPEC 2017
 
+## Presentations
+
 ### Tutorials
 
 * :star: Scott McMillan, Timothy G. Mattson: [Hands-on tutorial for GraphBLAS](https://github.com/tgmattso/GraphBLAS), HPEC 2018, 2019
 
-## Presentations
-
-### GraphBLAS
+### Overviews on GraphBLAS and linear algebra-based graph processing
 
 * :star: Aydın Buluç: [GraphBLAS: concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318), June 2019
 * :star: John R. Gilbert's talks
