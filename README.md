@@ -18,7 +18,7 @@ If you're new to GraphBLAS, we recommend reading the starred items first :star:.
   * [version 1.3.0](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v13.pdf)
   * [version 1.2.0](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v12.pdf) (deprecated)
 * :gear: SuiteSparse:GraphBLAS User Guide
-  * [version 2.2.2](https://fossies.org/linux/SuiteSparse/GraphBLAS/Doc/GraphBLAS_UserGuide.pdf)
+  * [version 3.1.1](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/GraphBLAS_UserGuide.pdf)
 * Timothy A. Davis: [Algorithm 9xx: SuiteSparse:GraphBLAS: graph algorithms in the language of sparse linear algebra](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/toms_graphblas.pdf), ACM Transactions on Mathematical Software (TOMS), 2019
 
 ### GraphBLAS design papers
