@@ -41,10 +41,10 @@ If you're new to GraphBLAS, we recommend reading the starred items first :star:.
   * [Graph Algorithms in the Language of Linear Algebra: How did we get here, where do we go next?](https://pdfs.semanticscholar.org/e0e3/a850ca03f5092aaa45152e53bd77af689567.pdf), IPDPS Graph Algorithms Building Blocks 2018
   * [Building Blocks for Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/GilbertCIMI7July2015.pdf)
   * [Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/cs240a/slides/old/cs240a-GALA.pdf), CS 240A presentation adapted from Intel Non-Numeric Computing Workshop, 2014
-* :gear: Timothy A. Davis: [SuiteSparse:GraphBLAS: graph algorithms via sparse matrix operations on semirings](https://cerfacs.fr/wp-content/uploads/2017/09/S02E04-Davis.pdf), Sparse Days 2017 at CERFACS
 * :star: Scott McMillan: [Graph Algorithms on Future Architectures](https://resources.sei.cmu.edu/asset_files/Presentation/2015_017_001_446303.pdf), CMU SEI Research Review 2015
     * [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2015_020_001_446691.pdf)
     * [Video](https://www.youtube.com/watch?v=-sIdS4cz7-4)
+* :gear: Timothy A. Davis: [SuiteSparse:GraphBLAS: graph algorithms via sparse matrix operations on semirings](https://cerfacs.fr/wp-content/uploads/2017/09/S02E04-Davis.pdf), Sparse Days 2017 at CERFACS
 * Scott McMillan: [GraphBLAS: A Programming Specification for Graph Analysis](https://resources.sei.cmu.edu/asset_files/Presentation/2016_017_001_474272.pdf), SEI Research Review 2016
     * [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2016_020_001_484268.pdf)
 * Scott McMillan: [Design and Implementation of the GraphBLAS Template Library (GBTL)](https://resources.sei.cmu.edu/asset_files/Presentation/2016_017_001_494328.pdf), SIAM Annual Meeting 2016
