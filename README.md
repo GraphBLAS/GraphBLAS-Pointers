@@ -57,7 +57,7 @@ If you're new to GraphBLAS, we recommend reading the starred items first :star:.
 * Aydın Buluç: [Faster parallel GraphBLAS kernels](https://people.eecs.berkeley.edu/~aydin/UCB_October2016.pdf), EECS, UC Berkeley, 2016
 * Aydın Buluç: [The Graph BLAS effort and its implications for Exascale](https://people.eecs.berkeley.edu/~aydin/ex14_graph_blas.pdf), SIAM Workshop on Exascale Applied Mathematics Challenges and Opportunities (EX14), 2014
 * Michael Wolf: [Task Parallel Approach to the Linear Algebra-Based Implementation of miniTri Michael Wolf](https://www.osti.gov/servlets/purl/1369523), SIAM Annual Meeting, 2016
-* Albert-Jan Yzelman: [Efficient sparse matrix computations and their generalization to graph computing applications](http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=59277315), Linked Data Benchmark Council, Technical User Community meeting, 2017
+* Albert-Jan Yzelman: [Efficient sparse matrix computations and their generalization to graph computing applications](http://wiki.ldbcouncil.org/download/attachments/59277315/walldorf17.pdf?version=1&modificationDate=1486938217000&api=v2&download=true), Linked Data Benchmark Council, Technical User Community meeting, 2017
 * Gábor Szárnyas: [Multiplex graph analysis with GraphBLAS](https://fosdem.org/2019/schedule/event/graph_multiplex_analysis_graphblas/), Graph Developer room at FOSDEM 2019
 
 ### Accumulo
