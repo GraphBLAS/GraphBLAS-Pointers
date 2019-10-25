@@ -62,7 +62,6 @@ If you're new to GraphBLAS, we recommend reading the starred items first :star:.
 
 ### Accumulo
 
-
 * Vijay Gadepally, Timothy Weale, Dylan Hutchison, Jeremy Kepner: [Graphulo: Graph Analytics in Apache Accumulo](http://accumulosummit.com/2016/program/talks/graphulo/), Accumulo Summit 2016
 * Lauren Milechin, Hayden Jananthan, Vijay Gadepally, Jeremy Kepner: [Interacting with Accumulo and Graphulo using Julia/Python D4M](http://accumulosummit.com/2018/program/talks/accumulo-and-graphulo-using-julia-python-d4m/), Accumulo Summit 2018
 * Jeremy Kepner: [Accumulo and the Convergence of Machine Learning, Big Data, and Supercomputing](http://accumulosummit.com/2017/program/talks/convergence-of-machine-learning-big-data-and-supercomputing/), Accumulo Summit 2017
@@ -92,8 +91,8 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 ### Core implementations
 
 * [SuiteSparse:GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS.html)
-    * This is released both as an individual package and (less frequently) as part of [SuiteSparse](http://faculty.cse.tamu.edu/davis/suitesparse.html).
-    * There are also some (often outdated) [mirror](https://github.com/sergiud/SuiteSparse/tree/master/GraphBLAS) [repositories](https://github.com/jluttine/suitesparse/) on GitHub.
+    * [GitHub repository](https://github.com/DrTimothyAldenDavis/SuiteSparse/tree/master/GraphBLAS)
+    * This library is released both as an individual package and (less frequently) as part of [SuiteSparse](http://faculty.cse.tamu.edu/davis/suitesparse.html).
 * [GraphBLAS Template Library (GBTL)](https://github.com/cmu-sei/gbtl): C++ implementation
 * [IBM GraphBLAS](https://github.com/IBM/ibmgraphblas)
 * [GraphBLAST](https://github.com/gunrock/graphblast)
