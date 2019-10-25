@@ -133,15 +133,16 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 
 ## Events
 
-| year | HPEC                                                       | IPDPS workshop                                         |
-| ---- | ---------------------------------------------------------- | ------------------------------------------------------ |
-| 2019 | [HPEC](http://www.ieee-hpec.org/)                          | [GrAPL](https://github.com/GraphBLAS/GrAPL19)          |
-| 2018 | [HPEC](http://www.ieee-hpec.org/2018/)                     | [GABB](http://graphanalysis.org/workshop2018.html)     |
-| 2017 | [HPEC](http://ieee-hpec.org/2017/techprog2017/sept13.htm)  | [GABB](http://graphanalysis.org/workshop2017.html)     |
-| 2016 | [HPEC](http://ieee-hpec.org/2016/techprog2016/sept14.htm)  | [GABB](http://graphanalysis.org/workshop2016.html)     |
-| 2015 | [HPEC](http://www.ieee-hpec.org/2015/)                     | [GABB](http://www.graphanalysis.org/workshop2015.html) |
-| 2014 | [HPEC](http://www.ieee-hpec.org/2014/copy/agendatext.html) | [GABB](http://www.graphanalysis.org/workshop2014.html) |
-| 2013 | [HPEC](http://ieee-hpec.org/2013/agenda.htm)               | -                                                      |
+| year | IPDPS workshop                                              | HPEC                                                       |
+| ---- | ----------------------------------------------------------- | ---------------------------------------------------------- |
+| 2020 | [GrAPL](https://hpc.pnl.gov/grapl/)                         | TBA                          |
+| 2019 | [GrAPL](https://hpc.pnl.gov/grapl/previous/2019/index.html) | [HPEC](http://www.ieee-hpec.org/)                          |
+| 2018 | [GABB](http://graphanalysis.org/workshop2018.html)          | [HPEC](http://www.ieee-hpec.org/2018/)                     |
+| 2017 | [GABB](http://graphanalysis.org/workshop2017.html)          | [HPEC](http://ieee-hpec.org/2017/techprog2017/sept13.htm)  |
+| 2016 | [GABB](http://graphanalysis.org/workshop2016.html)          | [HPEC](http://ieee-hpec.org/2016/techprog2016/sept14.htm)  |
+| 2015 | [GABB](http://www.graphanalysis.org/workshop2015.html)      | [HPEC](http://www.ieee-hpec.org/2015/)                     |
+| 2014 | [GABB](http://www.graphanalysis.org/workshop2014.html)      | [HPEC](http://www.ieee-hpec.org/2014/copy/agendatext.html) |
+| 2013 | -                                                           | [HPEC](http://ieee-hpec.org/2013/agenda.htm)               |
 
 ## News, blogs, interviews
 
