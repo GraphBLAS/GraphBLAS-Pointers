@@ -160,3 +160,4 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 ## Related papers
 
 * Daniele G. Spampinato et al.: [Linear Algebraic Depth-First Search](https://dl.acm.org/citation.cfm?doid=3315454.3329962), ARRAY workshop at PLDI, 2019
+  * [Video](https://www.youtube.com/watch?v=fKim6IKdr8U)
