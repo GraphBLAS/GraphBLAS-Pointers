@@ -84,6 +84,8 @@ If you're new to GraphBLAS, we recommend reading the starred items first :star:.
 
 ## Algorithms
 
+### GraphBLAS
+
 * :star: LAGraph: library of algorithms for GraphBLAS (similarly to LAPACK for BLAS)
     * Paper - Timothy G. Mattson, Timothy A. Davis, Manoj Kumar, Aydın Buluç, Scott McMillan, Jose Moreira and Carl Yang: [LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/lagraph-grapl19.pdf), GrAPL @ IPDPS 2019 ([source](https://github.com/GraphBLAS/GrAPL19))
     * [LAGraph repository on GitHub](https://github.com/GraphBLAS/LAGraph)
@@ -92,11 +94,17 @@ If you're new to GraphBLAS, we recommend reading the starred items first :star:.
 * Ariful Azad, Aydın Buluç: [LACC: A Linear-Algebraic Algorithm for Finding Connected Components in Distributed Memory](https://people.eecs.berkeley.edu/~aydin/LACC.pdf), IPDPS 2019
 * Timothy A. Davis: [Graph algorithms via SuiteSparse:GraphBLAS: triangle counting and K-truss](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/Davis_HPEC18.pdf), HPEC 2018
 * Tze Meng Low, Varun Nagaraj Rao, Matthew Lee, Doru-Thom Popovici, Franz Franchetti, Scott McMillan: [First look: Linear algebra-based triangle counting without matrix multiplication](http://spiral.ece.cmu.edu:8080/pub-spiral/pubfile/hpec_2017_low_289.pdf), HPEC 2017
-* Michael M. Wolf, Jonathan W. Berry, Dylan T. Stark: [A task-based linear algebra building blocks approach for scalable graph analytics](https://docs.inf.mit.bme.hu/graph-generation-papers/hpec15-wolf.pdf), HPEC 2015
+* Michael M. Wolf, Jonathan W. Berry, Dylan T. Stark: [A task-based linear algebra building blocks approach for scalable graph analytics](https://www.osti.gov/servlets/purl/1531050), HPEC 2015
+    * Related presentation - Michael M. Wolf: [Task Parallel Approach to the Linear Algebra-Based Implementation of miniTri](https://www.osti.gov/servlets/purl/1369523), SIAM Annual Meeting
 * Ariful Azad, Aydın Buluç, John R. Gilbert: [Parallel Triangle Counting and Enumeration Using Matrix Algebra](https://crd.lbl.gov/assets/pubs_presos/triangles-gabb.pdf), GABB @ IPDPS 2015
 * Carl Yang, Aydın Buluç, John D. Owens: [Implementing Push-Pull Efficiently in GraphBLAS](https://arxiv.org/pdf/1804.03327.pdf), ICPP 2018
 
-### Related libraries
+### Linear algebra-based graph computation
+
+* Daniele G. Spampinato et al.: [Linear Algebraic Depth-First Search](https://dl.acm.org/citation.cfm?doid=3315454.3329962), ARRAY workshop at PLDI, 2019
+  * [Video](https://www.youtube.com/watch?v=fKim6IKdr8U)
+
+## Related libraries
 
 * [RedisGraph](https://redislabs.com/redis-enterprise/redis-modules/redis-enterprise-modules/redisgraph/)
     * More pointers below
@@ -116,7 +124,7 @@ If you're new to GraphBLAS, we recommend reading the starred items first :star:.
 * Viral B. Shah, Alan Edelman, Stefan Karpinski, Jeff Bezanson, Jeremy Kepner: [Novel algebras for advanced analytics in Julia](https://dspace.mit.edu/handle/1721.1/115964), HPEC 2013
     * [Repository](https://github.com/JuliaComputing/SemiringAlgebra.jl)
 
-#### RedisGraph
+### RedisGraph
 
 * Roi Lipman: [Deep Dive into RedisGraph](https://www.youtube.com/watch?v=4KS2MRccQX4), 2019
     * [Slides](https://www.slideshare.net/RedisLabs/redisgraph-internals-roi-lipman)
@@ -124,7 +132,7 @@ If you're new to GraphBLAS, we recommend reading the starred items first :star:.
     * [GraphBLAS section](https://www.youtube.com/watch?v=xnez6tloNSQ?t=304)
     * [Slides](https://www.slideshare.net/RedisLabs/redisconf18-lower-latency-graph-queries-in-cypher-with-redis-graph)
 
-#### Accumulo
+### Accumulo
 
 * Vijay Gadepally, Timothy Weale, Dylan Hutchison, Jeremy Kepner: [Graphulo: Graph Analytics in Apache Accumulo](http://accumulosummit.com/2016/program/talks/graphulo/), Accumulo Summit 2016
 * Lauren Milechin, Hayden Jananthan, Vijay Gadepally, Jeremy Kepner: [Interacting with Accumulo and Graphulo using Julia/Python D4M](http://accumulosummit.com/2018/program/talks/accumulo-and-graphulo-using-julia-python-d4m/), Accumulo Summit 2018
@@ -160,8 +168,3 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 * Fuad Jamour, Ibrahim Abdelaziz, Panos Kalnis: [A Demonstration of MAGiQ: Matrix Algebra Approach for Solving RDF Graph Queries](http://www.vldb.org/pvldb/vol11/p1978-jamour.pdf), VLDB demonstration, 2018
 * Fuad Jamour, Ibrahim Abdelaziz, Yuanzhao Chen, Panos Kalnis: [Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs](https://dl.acm.org/citation.cfm?doid=3302424.3303962), EuroSys 2019
 * Fuad Jamour: [Algorithms and Frameworks for Graph Analytics at Scale](https://repository.kaust.edu.sa/bitstream/handle/10754/631280/FuadJamourThesis.pdf?sequence=3), PhD thesis, 2019
-
-## Related papers
-
-* Daniele G. Spampinato et al.: [Linear Algebraic Depth-First Search](https://dl.acm.org/citation.cfm?doid=3315454.3329962), ARRAY workshop at PLDI, 2019
-  * [Video](https://www.youtube.com/watch?v=fKim6IKdr8U)
