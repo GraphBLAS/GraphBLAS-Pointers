@@ -60,25 +60,6 @@ If you're new to GraphBLAS, we recommend reading the starred items first :star:.
 * Albert-Jan Yzelman: [Efficient sparse matrix computations and their generalization to graph computing applications](http://wiki.ldbcouncil.org/download/attachments/59277315/walldorf17.pdf?version=1&modificationDate=1486938217000&api=v2&download=true), Linked Data Benchmark Council, Technical User Community meeting, 2017
 * Gábor Szárnyas: [Multiplex graph analysis with GraphBLAS](https://fosdem.org/2019/schedule/event/graph_multiplex_analysis_graphblas/), Graph Developer room at FOSDEM 2019
 
-### Accumulo
-
-* Vijay Gadepally, Timothy Weale, Dylan Hutchison, Jeremy Kepner: [Graphulo: Graph Analytics in Apache Accumulo](http://accumulosummit.com/2016/program/talks/graphulo/), Accumulo Summit 2016
-* Lauren Milechin, Hayden Jananthan, Vijay Gadepally, Jeremy Kepner: [Interacting with Accumulo and Graphulo using Julia/Python D4M](http://accumulosummit.com/2018/program/talks/accumulo-and-graphulo-using-julia-python-d4m/), Accumulo Summit 2018
-* Jeremy Kepner: [Accumulo and the Convergence of Machine Learning, Big Data, and Supercomputing](http://accumulosummit.com/2017/program/talks/convergence-of-machine-learning-big-data-and-supercomputing/), Accumulo Summit 2017
-* Dylan Hutchison, Jeremy Kepner, Vijay Gadepally, Adam Fuchs: [Server-side Sparse Matrix Multiply in the Accumulo Database](http://www.ieee-hpec.org/2015/Final_Presentations/19_Paper862015-08-10-graphulo-tablemult.pdf), HPEC 2015
-* Vijay Gadepally, Lauren Edwards, Jeremy Kepner: [Using D4M for rapid prototyping of analytics for Apache Accumulo](http://accumulosummit.com/2015/program/talks/using-d4m-for-rapid-prototyping-of-analytics-for-apache-accumulo/), Accumulo Summit 2015
-* Jeremy Kepner, Vijay Gadepally, Ben Miller: [Graph Analytics expressed in GraphBLAS](http://www.mit.edu/~kepner/Graphulo/141222-GraphuloInGraphBLAS.pptx), 2014
-
-You can also find many papers, posters, and presentations in the [Accumulo repository](https://github.com/Accla/graphulo/tree/master/docs)
-
-### RedisGraph
-
-* Roi Lipman: [Deep Dive into RedisGraph](https://www.youtube.com/watch?v=4KS2MRccQX4), 2019
-    * [Slides](https://www.slideshare.net/RedisLabs/redisgraph-internals-roi-lipman)
-* Roi Lipman, Timothy A. Davis: [Lower Latency Graph Queries in Cypher with Redis Graph](https://www.youtube.com/watch?v=xnez6tloNSQ), RedisConf 2018
-    * [GraphBLAS section](https://www.youtube.com/watch?v=xnez6tloNSQ?t=304)
-    * [Slides](https://www.slideshare.net/RedisLabs/redisconf18-lower-latency-graph-queries-in-cypher-with-redis-graph)
-
 ### Books
 
 * Jeremy Kepner, John R. Gilbert: [Graph Algorithms in the Language of Linear Algebra](https://epubs.siam.org/doi/book/10.1137/1.9780898719918), SIAM, 2011
@@ -101,24 +82,6 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
     * Narayanan Sundaram: [GraphMat: High performance graph analytics made productive](http://www.vldb.org/pvldb/vol8/p1214-sundaram.pdf), VLDB 2015
     * Michael J. Anderson et al.: [GraphPad: Optimized Graph Primitives for Parallel and Distributed Platforms](https://ieeexplore.ieee.org/abstract/document/7516027), IPDPS 2016
 
-### Related libraries
-
-* [Graphulo](https://graphulo.mit.edu/) (in [Apache Accumulo](https://accumulo.apache.org/))
-    * [Repository](https://github.com/Accla/graphulo)
-* [D4M](http://www.mit.edu/~kepner/D4M/)
-    * [Repository](https://github.com/Accla/d4m)
-    * [D4M.jl](https://github.com/Accla/D4M.jl): Julia implementation
-    * [D4M.py](https://github.com/Accla/D4M.py): Python implementation
-* [pggraphblas](https://github.com/michelp/pggraphblas): Postgres extension for using GraphBLAS
-* [pygraphblas](https://github.com/michelp/pygraphblas): Python wrapper
-* [RedisGraph](https://redislabs.com/redis-enterprise/redis-modules/redis-enterprise-modules/redisgraph/)
-* Combinatorial BLAS (CombBLAS): "An extensible distributed-memory library offering a small but powerful set of linear algebraic operations specifically targeting graph analytics." _Influences the development of GraphBLAS._
-    * Paper - Aydın Buluç, John R. Gilbert: [The Combinatorial BLAS: design, implementation, and applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.916.6801&rep=rep1&type=pdf), Int. J. High Perform. Comput. Appl. 2011 ([paper entry at the publisher's site](https://journals.sagepub.com/doi/10.1177/1094342011403516)). This paper is referred to as a "strawman proposal" on GraphBLAS.org
-    * [Documentation](https://people.eecs.berkeley.edu/~aydin/CombBLAS/html/)
-    * [Slides](https://people.eecs.berkeley.edu/~aydin/talks/CombBLAS_Nov11.pdf)
-* Viral B. Shah, Alan Edelman, Stefan Karpinski, Jeff Bezanson, Jeremy Kepner: [Novel algebras for advanced analytics in Julia](https://dspace.mit.edu/handle/1721.1/115964), HPEC 2013
-    * [Repository](https://github.com/JuliaComputing/SemiringAlgebra.jl)
-
 ## Algorithms
 
 * :star: LAGraph: library of algorithms for GraphBLAS (similarly to LAPACK for BLAS)
@@ -132,6 +95,45 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 * Michael M. Wolf, Jonathan W. Berry, Dylan T. Stark: [A task-based linear algebra building blocks approach for scalable graph analytics](https://docs.inf.mit.bme.hu/graph-generation-papers/hpec15-wolf.pdf), HPEC 2015
 * Ariful Azad, Aydın Buluç, John R. Gilbert: [Parallel Triangle Counting and Enumeration Using Matrix Algebra](https://crd.lbl.gov/assets/pubs_presos/triangles-gabb.pdf), GABB @ IPDPS 2015
 * Carl Yang, Aydın Buluç, John D. Owens: [Implementing Push-Pull Efficiently in GraphBLAS](https://arxiv.org/pdf/1804.03327.pdf), ICPP 2018
+
+### Related libraries
+
+* [RedisGraph](https://redislabs.com/redis-enterprise/redis-modules/redis-enterprise-modules/redisgraph/)
+    * More pointers below
+* [Graphulo](https://graphulo.mit.edu/) (in [Apache Accumulo](https://accumulo.apache.org/))
+    * [Repository](https://github.com/Accla/graphulo)
+    * More pointers below
+* [D4M](http://www.mit.edu/~kepner/D4M/)
+    * [Repository](https://github.com/Accla/d4m)
+    * [D4M.jl](https://github.com/Accla/D4M.jl): Julia implementation
+    * [D4M.py](https://github.com/Accla/D4M.py): Python implementation
+* [pggraphblas](https://github.com/michelp/pggraphblas): Postgres extension for using GraphBLAS
+* [pygraphblas](https://github.com/michelp/pygraphblas): Python wrapper
+* Combinatorial BLAS (CombBLAS): "An extensible distributed-memory library offering a small but powerful set of linear algebraic operations specifically targeting graph analytics." _Influences the development of GraphBLAS._
+    * Paper - Aydın Buluç, John R. Gilbert: [The Combinatorial BLAS: design, implementation, and applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.916.6801&rep=rep1&type=pdf), Int. J. High Perform. Comput. Appl. 2011 ([paper entry at the publisher's site](https://journals.sagepub.com/doi/10.1177/1094342011403516)). This paper is referred to as a "strawman proposal" on GraphBLAS.org
+    * [Documentation](https://people.eecs.berkeley.edu/~aydin/CombBLAS/html/)
+    * [Slides](https://people.eecs.berkeley.edu/~aydin/talks/CombBLAS_Nov11.pdf)
+* Viral B. Shah, Alan Edelman, Stefan Karpinski, Jeff Bezanson, Jeremy Kepner: [Novel algebras for advanced analytics in Julia](https://dspace.mit.edu/handle/1721.1/115964), HPEC 2013
+    * [Repository](https://github.com/JuliaComputing/SemiringAlgebra.jl)
+
+#### RedisGraph
+
+* Roi Lipman: [Deep Dive into RedisGraph](https://www.youtube.com/watch?v=4KS2MRccQX4), 2019
+    * [Slides](https://www.slideshare.net/RedisLabs/redisgraph-internals-roi-lipman)
+* Roi Lipman, Timothy A. Davis: [Lower Latency Graph Queries in Cypher with Redis Graph](https://www.youtube.com/watch?v=xnez6tloNSQ), RedisConf 2018
+    * [GraphBLAS section](https://www.youtube.com/watch?v=xnez6tloNSQ?t=304)
+    * [Slides](https://www.slideshare.net/RedisLabs/redisconf18-lower-latency-graph-queries-in-cypher-with-redis-graph)
+
+#### Accumulo
+
+* Vijay Gadepally, Timothy Weale, Dylan Hutchison, Jeremy Kepner: [Graphulo: Graph Analytics in Apache Accumulo](http://accumulosummit.com/2016/program/talks/graphulo/), Accumulo Summit 2016
+* Lauren Milechin, Hayden Jananthan, Vijay Gadepally, Jeremy Kepner: [Interacting with Accumulo and Graphulo using Julia/Python D4M](http://accumulosummit.com/2018/program/talks/accumulo-and-graphulo-using-julia-python-d4m/), Accumulo Summit 2018
+* Jeremy Kepner: [Accumulo and the Convergence of Machine Learning, Big Data, and Supercomputing](http://accumulosummit.com/2017/program/talks/convergence-of-machine-learning-big-data-and-supercomputing/), Accumulo Summit 2017
+* Dylan Hutchison, Jeremy Kepner, Vijay Gadepally, Adam Fuchs: [Server-side Sparse Matrix Multiply in the Accumulo Database](http://www.ieee-hpec.org/2015/Final_Presentations/19_Paper862015-08-10-graphulo-tablemult.pdf), HPEC 2015
+* Vijay Gadepally, Lauren Edwards, Jeremy Kepner: [Using D4M for rapid prototyping of analytics for Apache Accumulo](http://accumulosummit.com/2015/program/talks/using-d4m-for-rapid-prototyping-of-analytics-for-apache-accumulo/), Accumulo Summit 2015
+* Jeremy Kepner, Vijay Gadepally, Ben Miller: [Graph Analytics expressed in GraphBLAS](http://www.mit.edu/~kepner/Graphulo/141222-GraphuloInGraphBLAS.pptx), 2014
+
+You can also find many papers, posters, and presentations in the [Accumulo repository](https://github.com/Accla/graphulo/tree/master/docs)
 
 ## Events
 
