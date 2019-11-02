@@ -168,3 +168,7 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 * Fuad Jamour, Ibrahim Abdelaziz, Panos Kalnis: [A Demonstration of MAGiQ: Matrix Algebra Approach for Solving RDF Graph Queries](http://www.vldb.org/pvldb/vol11/p1978-jamour.pdf), VLDB demonstration, 2018
 * Fuad Jamour, Ibrahim Abdelaziz, Yuanzhao Chen, Panos Kalnis: [Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs](https://dl.acm.org/citation.cfm?doid=3302424.3303962), EuroSys 2019
 * Fuad Jamour: [Algorithms and Frameworks for Graph Analytics at Scale](https://repository.kaust.edu.sa/bitstream/handle/10754/631280/FuadJamourThesis.pdf?sequence=3), PhD thesis, 2019
+
+## Related work
+
+* Weifeng Liu: [Parallel and Scalable Sparse Basic Linear Algebra Subprograms](https://folk.idi.ntnu.no/weifengl/thesis/phdthesis_liu.pdf), PhD thesis, University of Copenhagen, 2015
