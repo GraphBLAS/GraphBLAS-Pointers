@@ -32,7 +32,7 @@ If you're new to GraphBLAS, we recommend reading the starred items first :star:.
 ### Tutorials
 
 * :star: Scott McMillan, Timothy G. Mattson: [Hands-on tutorial for GraphBLAS](https://github.com/tgmattso/GraphBLAS), HPEC 2018, 2019
-* Michel Pelletier: [Introduction to GraphBLAS with Python](https://www.youtube.com/watch?v=JUbXW_f03W0), 2019
+* :star: Michel Pelletier: [Introduction to GraphBLAS with Python](https://www.youtube.com/watch?v=JUbXW_f03W0), 2019
 
 ### Overviews on GraphBLAS and linear algebra-based graph processing
 
