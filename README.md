@@ -95,6 +95,8 @@ If you're new to GraphBLAS, we recommend reading the starred items first :star:.
 * Ariful Azad, Aydın Buluç: [LACC: A Linear-Algebraic Algorithm for Finding Connected Components in Distributed Memory](https://people.eecs.berkeley.edu/~aydin/LACC.pdf), IPDPS 2019
 * Timothy A. Davis: [Graph algorithms via SuiteSparse:GraphBLAS: triangle counting and K-truss](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/Davis_HPEC18.pdf), HPEC 2018
 * Tze Meng Low, Varun Nagaraj Rao, Matthew Lee, Doru-Thom Popovici, Franz Franchetti, Scott McMillan: [First look: Linear algebra-based triangle counting without matrix multiplication](http://spiral.ece.cmu.edu:8080/pub-spiral/pubfile/hpec_2017_low_289.pdf), HPEC 2017
+* Upasana Sridhar, Mark Blanco, Rahul Mayuranath, Daniele G. Spampinato, Tze Meng Low, Scott McMillan: [Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations](https://ieeexplore.ieee.org/abstract/document/8778222), GrAPL @ IPDPS 2019
+* Manoj Kumar, José E. Moreira, Pratap Pattnaik: [GraphBLAS: handling performance concerns in large graph analytics](https://dl.acm.org/citation.cfm?doid=3203217.3205342), Computing Frontiers 2018
 * Michael M. Wolf, Jonathan W. Berry, Dylan T. Stark: [A task-based linear algebra building blocks approach for scalable graph analytics](https://www.osti.gov/servlets/purl/1531050), HPEC 2015
     * Related presentation - Michael M. Wolf: [Task Parallel Approach to the Linear Algebra-Based Implementation of miniTri](https://www.osti.gov/servlets/purl/1369523), SIAM Annual Meeting
 * Ariful Azad, Aydın Buluç, John R. Gilbert: [Parallel Triangle Counting and Enumeration Using Matrix Algebra](https://crd.lbl.gov/assets/pubs_presos/triangles-gabb.pdf), GABB @ IPDPS 2015
