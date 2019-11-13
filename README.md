@@ -2,9 +2,9 @@
 
 Notation:
 * :star: if you're new to GraphBLAS, read these first
-* :hammer: theory
-* :wrench: implementation (with minimal theory)
-* :hammer_and_wrench: theory and implementation
+* :hammer: theory-focused
+* :wrench: implementation-focused
+* :hammer_and_wrench: mix of theory and implementation
 * :book: detailed specification
 
 ## Community sites
