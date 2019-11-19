@@ -48,7 +48,7 @@ Notation:
 
 ### Traversals and shortest paths
 
-* :hammer_and_wrench: [Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations](https://ieeexplore.ieee.org/abstract/document/8778222) (GrAPL @ IPDPS 2019) by Upasana Sridhar et al.
+* :hammer_and_wrench: [Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations](https://arxiv.org/pdf/1911.06895.pdf) (GrAPL @ IPDPS 2019) by Upasana Sridhar et al.
 * :hammer: [Linear Algebraic Depth-First Search](https://dl.acm.org/citation.cfm?doid=3315454.3329962) (ARRAY workshop @ PLDI 2019), Daniele G. Spampinato et al.
   * [Video](https://www.youtube.com/watch?v=fKim6IKdr8U)
 * :hammer_and_wrench: [Implementing Push-Pull Efficiently in GraphBLAS](https://arxiv.org/pdf/1804.03327.pdf) (ICPP 2018) by Carl Yang, Aydın Buluç, John D. Owens
