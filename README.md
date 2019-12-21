@@ -44,7 +44,7 @@ Notation:
 ### Generic
 
 * :wrench: [Parallel GraphBLAS with OpenMP](http://faculty.cse.tamu.edu/davis/publications_files/CSC20_OpenMP_GraphBLAS.pdf) (SIAM Workshop on Combinatorial Scientific Computing, CSC 2020, accepted) by Mohsen Aznaveh et al.
-* :hammer: [GraphBLAS: handling performance concerns in large graph analytics](https://dl.acm.org/citation.cfm?doid=3203217.3205342) (Computing Frontiers 2018) by Manoj Kumar, José Moreira, Pratap Pattnaik
+* :hammer: [GraphBLAS: handling performance concerns in large graph analytics](https://www.ibm.com/university/power/images/CF2018.pdf) (Computing Frontiers 2018) by Manoj Kumar, José Moreira, Pratap Pattnaik
 
 ### Traversals and shortest paths
 
