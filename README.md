@@ -116,7 +116,7 @@ Notation:
 
 * [SuiteSparse:GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS.html)
     * [GitHub repository](https://github.com/DrTimothyAldenDavis/SuiteSparse/tree/master/GraphBLAS)
-    * :hammer_and_wrench: [Algorithm 1000: SuiteSparse:GraphBLAS: graph algorithms in the language of sparse linear algebra](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/toms_graphblas.pdf) (ACM Transactions on Mathematical Software, 2019) by Tim Davis
+    * :hammer_and_wrench: [Algorithm 1000: SuiteSparse:GraphBLAS: graph algorithms in the language of sparse linear algebra](https://dl.acm.org/citation.cfm?id=3322125) ([preprint](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/toms_graphblas.pdf)) (ACM Transactions on Mathematical Software, 2019) by Tim Davis
     * The SuiteSparse:GraphBLAS library is released both as an individual package and (less frequently) as part of [SuiteSparse](http://faculty.cse.tamu.edu/davis/suitesparse.html).
 * [GraphBLAS Template Library (GBTL)](https://github.com/cmu-sei/gbtl): C++ implementation
 * [IBM GraphBLAS](https://github.com/IBM/ibmgraphblas)
