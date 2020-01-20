@@ -125,10 +125,15 @@ Notation:
 * [GraphBLAS Template Library (GBTL)](https://github.com/cmu-sei/gbtl): C++ implementation
 * [IBM GraphBLAS](https://github.com/IBM/ibmgraphblas)
 * [GraphBLAST](https://github.com/gunrock/graphblast)
-* [PyGB](https://github.com/jessecoleman/gbtl-python-bindings)
 * [GraphMat](https://github.com/narayanan2004/GraphMat/)
     * [GraphMat: High performance graph analytics made productive](http://www.vldb.org/pvldb/vol8/p1214-sundaram.pdf) (VLDB 2015) by Narayanan Sundaram
     * [GraphPad: Optimized Graph Primitives for Parallel and Distributed Platforms](https://ieeexplore.ieee.org/abstract/document/7516027) (IPDPS 2016) by Michael J. Anderson et al.
+
+## Wrappers
+
+* [pygraphblas](https://github.com/michelp/pygraphblas): a Python wrapper for SuiteSparse:GraphBLAS (not to be confused with PyGB)
+* [PyGB](https://github.com/jessecoleman/gbtl-python-bindings): a Python wrapper for GBTL
+* [SuiteSparseGraphBLAS.jl](https://github.com/abhinavmehndiratta/SuiteSparseGraphBLAS.jl): a Julia wrapper for SuiteSparse:GraphBLAS
 
 ## Related libraries
 
@@ -141,7 +146,6 @@ Notation:
     * [D4M.jl](https://github.com/Accla/D4M.jl): Julia implementation
     * [D4M.py](https://github.com/Accla/D4M.py): Python implementation
 * [pggraphblas](https://github.com/michelp/pggraphblas): Postgres extension for using GraphBLAS
-* [pygraphblas](https://github.com/michelp/pygraphblas): Python wrapper
 * Combinatorial BLAS (CombBLAS): "An extensible distributed-memory library offering a small but powerful set of linear algebraic operations specifically targeting graph analytics." _Influences the development of GraphBLAS._
     * Paper - Aydın Buluç, John R. Gilbert: [The Combinatorial BLAS: design, implementation, and applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.916.6801&rep=rep1&type=pdf), Int. J. High Perform. Comput. Appl. 2011 ([paper entry at the publisher's site](https://journals.sagepub.com/doi/10.1177/1094342011403516)). This paper is referred to as a "strawman proposal" on GraphBLAS.org
     * [Documentation](https://people.eecs.berkeley.edu/~aydin/CombBLAS/html/)
