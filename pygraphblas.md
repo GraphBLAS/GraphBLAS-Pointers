@@ -1,5 +1,7 @@
 ## pygraphblas installation guide
 
+On Ubuntu 18.04, install pygraphblas as follows:
+
 1. Install the required versions of SuiteSparse:GraphBLAS and LAGraph.
 
     ```bash
