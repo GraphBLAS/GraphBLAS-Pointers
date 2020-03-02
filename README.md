@@ -26,7 +26,7 @@ Notation:
 
 ### Tutorials
 
-* :hammer: :star: Gábor Szárnyas: [GraphBLAS: A linear algebraic approach for high-performance graph algorithms](http://mit.bme.hu/~szarnyas/grb/graphblas-introduction.pdf) (2020): introduction to GraphBLAS, 200+ slides
+* :hammer: :star: [GraphBLAS: A linear algebraic approach for high-performance graph algorithms](http://mit.bme.hu/~szarnyas/grb/graphblas-introduction.pdf) (2020) by Gábor Szárnyas: introduction to GraphBLAS, 200+ slides
 * :hammer_and_wrench: :star: [Hands-on tutorial for GraphBLAS](https://github.com/tgmattso/GraphBLAS) (HPEC 2018-) by Scott McMillan and Tim Mattson
 * :wrench: :star: [Introduction to GraphBLAS with Python](https://www.youtube.com/watch?v=JUbXW_f03W0) (2019) by Michel Pelletier
 
