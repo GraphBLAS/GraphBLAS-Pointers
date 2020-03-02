@@ -194,6 +194,8 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 
 ## Related work
 
+* [graphblas-verif](https://github.com/jennalwise/graphblas-verif): Formal verification of the GraphBLAS C API implementation by Tim Davis using Frama-C/WP.
+
 ### MAGiQ: a GraphBLAS-based RDF query engine
 
 * [A Demonstration of MAGiQ: Matrix Algebra Approach for Solving RDF Graph Queries](http://www.vldb.org/pvldb/vol11/p1978-jamour.pdf) (demo at VLDB 2018) by Fuad Jamour, Ibrahim Abdelaziz, Panos Kalnis
