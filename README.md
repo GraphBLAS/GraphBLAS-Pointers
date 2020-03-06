@@ -51,7 +51,7 @@ Notation:
 
 * :hammer_and_wrench: [Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations](https://arxiv.org/pdf/1911.06895.pdf) (GrAPL @ IPDPS 2019) by Upasana Sridhar et al.
 * :hammer: [Linear Algebraic Depth-First Search](https://dl.acm.org/citation.cfm?doid=3315454.3329962) (ARRAY workshop @ PLDI 2019), Daniele G. Spampinato et al.
-  * [Video](https://www.youtube.com/watch?v=fKim6IKdr8U)
+  * :movie_camera: [Video](https://www.youtube.com/watch?v=fKim6IKdr8U)
 * :hammer_and_wrench: [Implementing Push-Pull Efficiently in GraphBLAS](https://arxiv.org/pdf/1804.03327.pdf) (ICPP 2018) by Carl Yang, Aydın Buluç, John D. Owens
 
 ### Connected components
@@ -80,7 +80,7 @@ Notation:
 
 ### Overviews on GraphBLAS and linear algebra-based graph processing
 
-* :star: Gábor Szárnyas: [GraphBLAS: A linear algebraic approach for high-performance graph algorithms](http://mit.bme.hu/~szarnyas/grb/graphblas-introduction.pdf) (introduction to GraphBLAS, 200+ slides)
+* :star: Gábor Szárnyas: [GraphBLAS: A linear algebraic approach for high-performance graph algorithms](http://mit.bme.hu/~szarnyas/grb/graphblas-introduction.pdf) (introduction to GraphBLAS, 200+ slides), :movie_camera: [Talk at FOSDEM 2020's HPC room](https://fosdem.org/2020/schedule/event/graphblas/) (abridged version)
 * John R. Gilbert's talks
   * :star: [GraphBLAS: Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/Gilbert-27Jun2019.pdf) (2019)
   * [Graph Algorithms in the Language of Linear Algebra: How did we get here, where do we go next?](https://pdfs.semanticscholar.org/e0e3/a850ca03f5092aaa45152e53bd77af689567.pdf) (GABB @ IPDPS 2018)
@@ -89,13 +89,13 @@ Notation:
 * Scott McMillan's talks
   * :star: [Graph Algorithms on Future Architectures](https://resources.sei.cmu.edu/asset_files/Presentation/2015_017_001_446303.pdf) (CMU SEI Research Review 2015)
     * [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2015_020_001_446691.pdf)
-    * [Video](https://www.youtube.com/watch?v=-sIdS4cz7-4)
+    * :movie_camera: [Video](https://www.youtube.com/watch?v=-sIdS4cz7-4)
   * [GraphBLAS: A Programming Specification for Graph Analysis](https://resources.sei.cmu.edu/asset_files/Presentation/2016_017_001_474272.pdf), SEI Research Review 2016
     * [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2016_020_001_484268.pdf)
   * [Design and Implementation of the GraphBLAS Template Library (GBTL)](https://resources.sei.cmu.edu/asset_files/Presentation/2016_017_001_494328.pdf), SIAM Annual Meeting 2016
   * [Automated Code Generation for High-Performance, Future-Compatible Graph Libraries](https://resources.sei.cmu.edu/asset_files/Presentation/2017_017_001_506482.pdf), SEI Research Review 2017
     * [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2017_020_001_506622.pdf)
-    * [Video](https://www.youtube.com/watch?v=tiKrQrYarmA)
+    * :movie_camera: [Video](https://www.youtube.com/watch?v=tiKrQrYarmA)
 * Aydın Buluç's talks:
   * :star: [GraphBLAS: concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318) (Scheduling Workshop 2019)
   * [Graph algorithms, computational motifs, and GraphBLAS](https://people.eecs.berkeley.edu/~aydin/ECP_GraphBLAS_Buluc.pdf) (ECP Annual Meeting 2018)
