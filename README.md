@@ -1,7 +1,7 @@
 # GraphBLAS pointers
 
 Notation:
-* :star: if you're new to GraphBLAS, read these first
+* :star: if you're new to GraphBLAS, read/watch these first
 * :hammer: theory-focused
 * :wrench: implementation-focused
 * :hammer_and_wrench: mix of theory and implementation
@@ -14,8 +14,8 @@ Notation:
 
 ## Selected readings and presentations
 
-* [Graph Analytics: A Foundational Building Block for the Data Analytics World](https://techdecoded.intel.io/big-picture/graph-analytics-a-foundational-building-block-for-the-data-analytics-world/), Tim Mattson, Henry Gabb (2020)
-* [GraphBLAS Wikipedia page](https://en.wikipedia.org/wiki/GraphBLAS)
+* :star: [GraphBLAS Wikipedia page](https://en.wikipedia.org/wiki/GraphBLAS)
+* :star: [Graph Analytics: A Foundational Building Block for the Data Analytics World](https://techdecoded.intel.io/big-picture/graph-analytics-a-foundational-building-block-for-the-data-analytics-world/), Tim Mattson, Henry Gabb (2020)
 
 ### GraphBLAS design papers
 
