@@ -12,7 +12,10 @@ Notation:
 * [GraphBLAS.org](http://graphblas.org/)
 * [HPC Graph Analysis](http://www.graphanalysis.org/)
 
-## Selected readings
+## Selected readings and presentations
+
+* [Graph Analytics: A Foundational Building Block for the Data Analytics World](https://techdecoded.intel.io/big-picture/graph-analytics-a-foundational-building-block-for-the-data-analytics-world/), Tim Mattson, Henry Gabb (2020)
+* [GraphBLAS Wikipedia page](https://en.wikipedia.org/wiki/GraphBLAS)
 
 ### GraphBLAS design papers
 
