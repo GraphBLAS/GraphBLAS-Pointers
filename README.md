@@ -24,7 +24,7 @@ Notation:
 * :hammer: :star: [Mathematical Foundations of the GraphBLAS](https://people.eecs.berkeley.edu/~aydin/GraphBLAS-Math.pdf) (HPEC 2016) by Jeremy Kepner et al.
   * Extended version: [GraphBLAS Mathematics - Provisional Release 1.0](http://www.mit.edu/~kepner/GraphBLAS/GraphBLAS-Math-release.pdf) (2017)
 * :hammer_and_wrench: [Design of the GraphBLAS API for C](https://people.eecs.berkeley.edu/~aydin/GABB17.pdf) (GABB @ IPDPS 2017) by Aydın Buluç et al.
-* :: [GraphBLAS C API: Ideas for future versions of the specification](https://people.eecs.berkeley.edu/~aydin/GrB_futures_hpec17.pdf) (HPEC 2017) by Tim Mattson et al.
+* :hammer_and_wrench: [GraphBLAS C API: Ideas for future versions of the specification](https://people.eecs.berkeley.edu/~aydin/GrB_futures_hpec17.pdf) (HPEC 2017) by Tim Mattson et al.
 * :wrench: [Implementing the GraphBLAS C API](https://ieeexplore.ieee.org/document/8425425) (GABB @ IPDPS 2018) by José E. Moreira, Manoj Kumar, William P. Horn
 
 ### Tutorials
