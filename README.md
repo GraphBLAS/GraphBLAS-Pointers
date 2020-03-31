@@ -99,6 +99,7 @@ Notation:
   * :hammer_and_wrench: [Automated Code Generation for High-Performance, Future-Compatible Graph Libraries](https://resources.sei.cmu.edu/asset_files/Presentation/2017_017_001_506482.pdf), SEI Research Review 2017
     * [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2017_020_001_506622.pdf)
     * :movie_camera: [Video](https://www.youtube.com/watch?v=tiKrQrYarmA)
+  * :hammer_and_wrench: [GraphBLAS Updates](https://apps.dtic.mil/sti/pdfs/AD1088909.pdf), presented at the "SC BoF: HPC Graph Toolkits and GraphBLAS Forum", 2019
 * Aydın Buluç's talks:
   * :star: :hammer_and_wrench: [GraphBLAS: concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318) (Scheduling Workshop 2019)
   * [Graph algorithms, computational motifs, and GraphBLAS](https://people.eecs.berkeley.edu/~aydin/ECP_GraphBLAS_Buluc.pdf) (ECP Annual Meeting 2018)
