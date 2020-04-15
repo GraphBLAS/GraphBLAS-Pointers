@@ -140,6 +140,7 @@ Notation:
 * [pygraphblas](https://github.com/michelp/pygraphblas): a Python wrapper for SuiteSparse:GraphBLAS (not to be confused with PyGB)
 * [PyGB](https://github.com/jessecoleman/gbtl-python-bindings): a Python wrapper for GBTL
 * [SuiteSparseGraphBLAS.jl](https://github.com/abhinavmehndiratta/SuiteSparseGraphBLAS.jl): a Julia wrapper for SuiteSparse:GraphBLAS
+* [rustgraphblas](https://github.com/fabianmurariu/rustgraphblas): a Rust wrapper
 
 ## Related libraries
 
