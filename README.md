@@ -56,6 +56,7 @@ Notation:
 * :hammer: [Linear Algebraic Depth-First Search](https://dl.acm.org/citation.cfm?doid=3315454.3329962) (ARRAY workshop @ PLDI 2019), Daniele G. Spampinato et al.
   * :movie_camera: [Video](https://www.youtube.com/watch?v=fKim6IKdr8U)
 * :hammer_and_wrench: [Implementing Push-Pull Efficiently in GraphBLAS](https://arxiv.org/pdf/1804.03327.pdf) (ICPP 2018) by Carl Yang, Aydın Buluç, John D. Owens
+  * [Presentation](https://www.ece.ucdavis.edu/~ctcyang/pub/icpp-slides2018.pdf)
 
 ### Connected components
 
