@@ -37,7 +37,7 @@ Notation:
 
 * :hammer_and_wrench: :book: [The GraphBLAS C API Specification](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v13.pdf) by Aydın Buluç, Tim Mattson, Scott McMillan, José Moreira, Carl Yang
   * Summary paper: [Design of the GraphBLAS API for C](https://people.eecs.berkeley.edu/~aydin/GABB17.pdf) (GABB @ IPDPS 2017)
-* :hammer_and_wrench: :book: [SuiteSparse:GraphBLAS User Guide](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/GraphBLAS_UserGuide.pdf) by Tim Davis
+* :hammer_and_wrench: :book: [SuiteSparse:GraphBLAS User Guide](https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/GraphBLAS_UserGuide.pdf) by Tim Davis
 
 ## Algorithms
 
@@ -186,8 +186,8 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 
 | year | IPDPS workshop                                              | HPEC                                                       |
 | ---- | ----------------------------------------------------------- | ---------------------------------------------------------- |
-| 2020 | [GrAPL](https://hpc.pnl.gov/grapl/)                         | TBA                          |
-| 2019 | [GrAPL](https://hpc.pnl.gov/grapl/previous/2019/index.html) | [HPEC](http://www.ieee-hpec.org/)                          |
+| 2020 | [GrAPL](https://hpc.pnl.gov/grapl/)                         | [HPEC](http://www.ieee-hpec.org/)
+| 2019 | [GrAPL](https://hpc.pnl.gov/grapl/previous/2019/index.html) | [HPEC](http://www.ieee-hpec.org/2019/)                          |
 | 2018 | [GABB](http://graphanalysis.org/workshop2018.html)          | [HPEC](http://www.ieee-hpec.org/2018/)                     |
 | 2017 | [GABB](http://graphanalysis.org/workshop2017.html)          | [HPEC](http://ieee-hpec.org/2017/techprog2017/sept13.htm)  |
 | 2016 | [GABB](http://graphanalysis.org/workshop2016.html)          | [HPEC](http://ieee-hpec.org/2016/techprog2016/sept14.htm)  |
