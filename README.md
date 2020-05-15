@@ -1,4 +1,4 @@
-# GraphBLAS pointers
+# GraphBLAS Pointers
 
 Notation:
 * :star: if you're new to GraphBLAS, read/watch these first
