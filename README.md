@@ -1,7 +1,7 @@
 # GraphBLAS Pointers
 
 Notation:
-* :star: if you're new to GraphBLAS, read/watch these first
+* :star: if you're new to GraphBLAS, check out these pointers first
 * :hammer: theory-focused
 * :wrench: implementation-focused
 * :hammer_and_wrench: mix of theory and implementation
@@ -29,7 +29,7 @@ Notation:
 
 ### Tutorials
 
-* :hammer: :star: Gábor Szárnyas: [GraphBLAS: A linear algebraic approach for high-performance graph algorithms](http://mit.bme.hu/~szarnyas/grb/graphblas-introduction.pdf) (introduction to GraphBLAS, 200+ slides), :movie_camera: [Talk at FOSDEM 2020's HPC room](https://fosdem.org/2020/schedule/event/graphblas/) (abridged version)
+* :hammer: :star: Gábor Szárnyas: [GraphBLAS: A linear algebraic approach for high-performance graph algorithms](http://mit.bme.hu/~szarnyas/grb/graphblas-introduction.pdf), an introduction to GraphBLAS with 200+ slides, :movie_camera: [Talk at FOSDEM 2020's HPC room](https://fosdem.org/2020/schedule/event/graphblas/) (abridged version)
 * :hammer_and_wrench: :star: [Hands-on tutorial for GraphBLAS](https://github.com/tgmattso/GraphBLAS) (HPEC 2018-) by Scott McMillan and Tim Mattson
 * :wrench: :star: [Introduction to GraphBLAS with Python](https://www.youtube.com/watch?v=JUbXW_f03W0) (2019) by Michel Pelletier
 
@@ -88,21 +88,21 @@ Notation:
 * John R. Gilbert's talks
   * :hammer_and_wrench: :star: [GraphBLAS: Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/Gilbert-27Jun2019.pdf) (2019)
   * :hammer: [Graph Algorithms in the Language of Linear Algebra: How did we get here, where do we go next?](https://pdfs.semanticscholar.org/e0e3/a850ca03f5092aaa45152e53bd77af689567.pdf) (GABB @ IPDPS 2018)
-  * :hammer_and_wrench: [Building Blocks for Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/GilbertCIMI7July2015.pdf)
+  * :hammer_and_wrench: [Building Blocks for Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/GilbertCIMI7July2015.pdf) (CIMI Workshop on Innovative Clustering Methods 2015)
   * :hammer_and_wrench: [Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/cs240a/slides/old/cs240a-GALA.pdf) (originally at Intel Non-Numeric Computing Workshop 2014)
 * Scott McMillan's talks
-  * :hammer_and_wrench: :star: [Graph Algorithms on Future Architectures](https://resources.sei.cmu.edu/asset_files/Presentation/2015_017_001_446303.pdf) (CMU SEI Research Review 2015)
-    * [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2015_020_001_446691.pdf)
-    * :movie_camera: [Video](https://www.youtube.com/watch?v=-sIdS4cz7-4)
-  * :hammer_and_wrench: [GraphBLAS: A Programming Specification for Graph Analysis](https://resources.sei.cmu.edu/asset_files/Presentation/2016_017_001_474272.pdf), SEI Research Review 2016
-    * [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2016_020_001_484268.pdf)
-  * :hammer_and_wrench: [Design and Implementation of the GraphBLAS Template Library (GBTL)](https://resources.sei.cmu.edu/asset_files/Presentation/2016_017_001_494328.pdf), SIAM Annual Meeting 2016
-  * :hammer_and_wrench: [Automated Code Generation for High-Performance, Future-Compatible Graph Libraries](https://resources.sei.cmu.edu/asset_files/Presentation/2017_017_001_506482.pdf), SEI Research Review 2017
-    * [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2017_020_001_506622.pdf)
-    * :movie_camera: [Video](https://www.youtube.com/watch?v=tiKrQrYarmA)
+  * :hammer_and_wrench: :star: [Graph Algorithms on Future Architectures](https://resources.sei.cmu.edu/asset_files/Presentation/2015_017_001_446303.pdf) (CMU SEI Research Review 2015),
+    :scroll: [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2015_020_001_446691.pdf),
+    :movie_camera: [Video](https://www.youtube.com/watch?v=-sIdS4cz7-4)
+  * :hammer_and_wrench: [GraphBLAS: A Programming Specification for Graph Analysis](https://resources.sei.cmu.edu/asset_files/Presentation/2016_017_001_474272.pdf) (SEI Research Review 2016),
+    :scroll:[Poster](https://resources.sei.cmu.edu/asset_files/Poster/2016_020_001_484268.pdf)    
+  * :hammer_and_wrench: [Design and Implementation of the GraphBLAS Template Library (GBTL)](https://resources.sei.cmu.edu/asset_files/Presentation/2016_017_001_494328.pdf) (SIAM Annual Meeting 2016)
+  * :hammer_and_wrench: [Automated Code Generation for High-Performance, Future-Compatible Graph Libraries](https://resources.sei.cmu.edu/asset_files/Presentation/2017_017_001_506482.pdf) (SEI Research Review 2017),
+    :scroll: [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2017_020_001_506622.pdf),
+    :movie_camera: [Video](https://www.youtube.com/watch?v=tiKrQrYarmA)
   * :hammer_and_wrench: [GraphBLAS Updates](https://apps.dtic.mil/sti/pdfs/AD1088909.pdf), SC BoF: HPC Graph Toolkits and GraphBLAS Forum, 2019
 * Aydın Buluç's talks:
-  * :star: :hammer_and_wrench: [GraphBLAS: concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318) (Scheduling Workshop 2019)
+  * :hammer_and_wrench: :star: [GraphBLAS: concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318) (Scheduling Workshop 2019)
   * [Graph algorithms, computational motifs, and GraphBLAS](https://people.eecs.berkeley.edu/~aydin/ECP_GraphBLAS_Buluc.pdf) (ECP Annual Meeting 2018)
   * [Concepts in the GraphBLAS C API](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_March2017.pdf) (2017)
   * [Parallel Algorithms across the GraphBLAS Stack](https://people.eecs.berkeley.edu/~aydin/Buluc-ACS-June2017-web.pdf) (ACS HPC and Data Analytics Workshop 2017) co-authored by Ariful Azad
@@ -141,11 +141,13 @@ Notation:
 ## Wrappers
 
 * Python:
-    * [pygraphblas](https://github.com/michelp/pygraphblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a Pythonic API
+    * :star: [pygraphblas](https://github.com/michelp/pygraphblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a Pythonic API
     * [grblas](https://github.com/jim22k/grblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a 1:1 mapping from the C API to Python
     * [PyGB](https://github.com/jessecoleman/gbtl-python-bindings): a Python wrapper for GBTL
 * [SuiteSparseGraphBLAS.jl](https://github.com/abhinavmehndiratta/SuiteSparseGraphBLAS.jl): a Julia wrapper for SuiteSparse:GraphBLAS
 * [rustgraphblas](https://github.com/fabianmurariu/rustgraphblas): a Rust wrapper
+
+See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berkeley.edu/~demmel/ma221_Spr20/GraphBLASCppAPI20.pdf).
 
 ## Related libraries
 
@@ -182,14 +184,14 @@ Notation:
 * [Using D4M for rapid prototyping of analytics for Apache Accumulo](http://accumulosummit.com/2015/program/talks/using-d4m-for-rapid-prototyping-of-analytics-for-apache-accumulo/) (Accumulo Summit 2015) by Vijay Gadepally, Lauren Edwards, Jeremy Kepner
 * [Graph Analytics expressed in GraphBLAS](http://www.mit.edu/~kepner/Graphulo/141222-GraphuloInGraphBLAS.pptx) (2014) by Jeremy Kepner, Vijay Gadepally, Ben Miller
 
-You can also find many papers, posters, and presentations in the [Accumulo repository](https://github.com/Accla/graphulo/tree/master/docs)
+You can also find many papers, posters, and presentations in the [Accumulo repository](https://github.com/Accla/graphulo/tree/master/docs).
 
 ## Events
 
 | year | IPDPS workshop                                              | HPEC                                                       |
 | ---- | ----------------------------------------------------------- | ---------------------------------------------------------- |
-| 2020 | [GrAPL](https://hpc.pnl.gov/grapl/)                         | [HPEC](http://www.ieee-hpec.org/)
-| 2019 | [GrAPL](https://hpc.pnl.gov/grapl/previous/2019/index.html) | [HPEC](http://www.ieee-hpec.org/2019/)                          |
+| 2020 | [GrAPL](https://hpc.pnl.gov/grapl/)                         | [HPEC](http://www.ieee-hpec.org/)                          |
+| 2019 | [GrAPL](https://hpc.pnl.gov/grapl/previous/2019/index.html) | [HPEC](http://www.ieee-hpec.org/2019/)                     |
 | 2018 | [GABB](http://graphanalysis.org/workshop2018.html)          | [HPEC](http://www.ieee-hpec.org/2018/)                     |
 | 2017 | [GABB](http://graphanalysis.org/workshop2017.html)          | [HPEC](http://ieee-hpec.org/2017/techprog2017/sept13.htm)  |
 | 2016 | [GABB](http://graphanalysis.org/workshop2016.html)          | [HPEC](http://ieee-hpec.org/2016/techprog2016/sept14.htm)  |
