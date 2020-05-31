@@ -48,7 +48,7 @@ Notation:
 ### Generic
 
 * :wrench: [Parallel GraphBLAS with OpenMP](http://faculty.cse.tamu.edu/davis/publications_files/CSC20_OpenMP_GraphBLAS.pdf) (SIAM Workshop on Combinatorial Scientific Computing, CSC 2020, accepted) by Mohsen Aznaveh et al.
-* :hammer: [GraphBLAS: handling performance concerns in large graph analytics](https://www.ibm.com/university/power/images/CF2018.pdf) (Computing Frontiers 2018) by Manoj Kumar, José Moreira, Pratap Pattnaik
+* :hammer: [GraphBLAS: Handling performance concerns in large graph analytics](https://www.ibm.com/university/power/images/CF2018.pdf) (Computing Frontiers 2018) by Manoj Kumar, José Moreira, Pratap Pattnaik
 
 ### Traversals and shortest paths
 
@@ -65,7 +65,7 @@ Notation:
 
 ### Triangle counting, k-truss, clustering coefficient
 
-* :wrench: [Graph algorithms via SuiteSparse:GraphBLAS: triangle counting and K-truss](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/Davis_HPEC18.pdf) (HPEC 2018) by Tim Davis
+* :wrench: [Graph algorithms via SuiteSparse:GraphBLAS: Triangle counting and K-truss](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/Davis_HPEC18.pdf) (HPEC 2018) by Tim Davis
 * :hammer_and_wrench: Tze Meng Low et al.'s work on triangle counting
     * [First look: Linear algebra-based triangle counting without matrix multiplication](http://spiral.ece.cmu.edu:8080/pub-spiral/pubfile/hpec_2017_low_289.pdf) (HPEC 2017) by Tze Meng Low et al.
     * [A Family of Provably Correct Algorithms for Exact Triangle Counting](https://dl.acm.org/citation.cfm?id=3145484) (Correctness @ SC 2017) by Matthew Lee and Tze Meng Low
@@ -102,7 +102,7 @@ Notation:
     :movie_camera: [Video](https://www.youtube.com/watch?v=tiKrQrYarmA)
   * :hammer_and_wrench: [GraphBLAS Updates](https://apps.dtic.mil/sti/pdfs/AD1088909.pdf), SC BoF: HPC Graph Toolkits and GraphBLAS Forum, 2019
 * Aydın Buluç's talks:
-  * :hammer_and_wrench: :star: [GraphBLAS: concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318) (Scheduling Workshop 2019)
+  * :hammer_and_wrench: :star: [GraphBLAS: Concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318) (Scheduling Workshop 2019)
   * [Graph algorithms, computational motifs, and GraphBLAS](https://people.eecs.berkeley.edu/~aydin/ECP_GraphBLAS_Buluc.pdf) (ECP Annual Meeting 2018)
   * [Concepts in the GraphBLAS C API](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_March2017.pdf) (2017)
   * [Parallel Algorithms across the GraphBLAS Stack](https://people.eecs.berkeley.edu/~aydin/Buluc-ACS-June2017-web.pdf) (ACS HPC and Data Analytics Workshop 2017) co-authored by Ariful Azad
@@ -110,7 +110,7 @@ Notation:
   * [The Graph BLAS effort and its implications for Exascale](https://people.eecs.berkeley.edu/~aydin/ex14_graph_blas.pdf) (SIAM Workshop on Exascale Applied Mathematics Challenges and Opportunities, 2014)
 * :hammer_and_wrench: [Task Parallel Approach to the Linear Algebra-Based Implementation of miniTri Michael Wolf](https://www.osti.gov/servlets/purl/1369523) (SIAM Annual Meeting, 2016) by Michael Wolf
 * :hammer_and_wrench: [Efficient sparse matrix computations and their generalization to graph computing applications](http://wiki.ldbcouncil.org/download/attachments/59277315/walldorf17.pdf?version=1&modificationDate=1486938217000&api=v2&download=true) (Linked Data Benchmark Council, Technical User Community meeting, 2017) by Albert-Jan Yzelman
-* :hammer_and_wrench: [SuiteSparse:GraphBLAS: graph algorithms via sparse matrix operations on semirings](https://cerfacs.fr/wp-content/uploads/2017/09/S02E04-Davis.pdf) (Sparse Days @ CERFACS 2017) by Tim Davis
+* :hammer_and_wrench: [SuiteSparse:GraphBLAS: Graph algorithms via sparse matrix operations on semirings](https://cerfacs.fr/wp-content/uploads/2017/09/S02E04-Davis.pdf) (Sparse Days @ CERFACS 2017) by Tim Davis
 * :hammer_and_wrench: [Multiplex graph analysis with GraphBLAS](https://fosdem.org/2019/schedule/event/graph_multiplex_analysis_graphblas/) (Graph Developer room @ FOSDEM 2019) by Gábor Szárnyas
 
 ### Books
@@ -127,7 +127,7 @@ Notation:
 
 * [SuiteSparse:GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS.html)
     * [GitHub repository](https://github.com/DrTimothyAldenDavis/SuiteSparse/tree/master/GraphBLAS)
-    * :hammer_and_wrench: [Algorithm 1000: SuiteSparse:GraphBLAS: graph algorithms in the language of sparse linear algebra](https://dl.acm.org/citation.cfm?id=3322125) ([preprint](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/toms_graphblas.pdf)) (ACM Transactions on Mathematical Software, 2019) by Tim Davis
+    * :hammer_and_wrench: [Algorithm 1000: SuiteSparse:GraphBLAS: Graph algorithms in the language of sparse linear algebra](https://dl.acm.org/citation.cfm?id=3322125) ([preprint](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/toms_graphblas.pdf)) (ACM Transactions on Mathematical Software, 2019) by Tim Davis
     * The SuiteSparse:GraphBLAS library is released both as an individual package and (less frequently) as part of [SuiteSparse](http://faculty.cse.tamu.edu/davis/suitesparse.html).
 * [GraphBLAS Template Library (GBTL)](https://github.com/cmu-sei/gbtl): C++ implementation
 * [IBM GraphBLAS](https://github.com/IBM/ibmgraphblas)
