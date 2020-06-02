@@ -140,12 +140,13 @@ Notation:
 
 ## Wrappers
 
-* Python:
+* Python wrappers:
     * :star: [pygraphblas](https://github.com/michelp/pygraphblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a Pythonic API
     * [grblas](https://github.com/jim22k/grblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a 1:1 mapping from the C API to Python
     * [PyGB](https://github.com/jessecoleman/gbtl-python-bindings): a Python wrapper for GBTL
 * [SuiteSparseGraphBLAS.jl](https://github.com/abhinavmehndiratta/SuiteSparseGraphBLAS.jl): a Julia wrapper for SuiteSparse:GraphBLAS
 * [rustgraphblas](https://github.com/fabianmurariu/rustgraphblas): a Rust wrapper
+* [graphblas-java-native](https://github.com/fabianmurariu/graphblas-java-native): a Java wrapper
 
 See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berkeley.edu/~demmel/ma221_Spr20/GraphBLASCppAPI20.pdf).
 
