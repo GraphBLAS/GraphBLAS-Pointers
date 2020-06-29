@@ -212,16 +212,15 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 * [ACM's interview with Tim Davis](https://www.acm.org/articles/people-of-acm/2019/tim-davis)
 * [First Person: Tim Davis](https://www.americanscientist.org/article/first-person-tim-davis), American Scientist
 
+## Typesetting
+
+The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be used to typeset block matrices. [Example TeX code](http://mit.bme.hu/~szarnyas/grb/tricount.tex)
+
 ## Related work
 
 * [graphblas-verif](https://github.com/jennalwise/graphblas-verif): Formal verification of the GraphBLAS C API implementation by Tim Davis using Frama-C/WP.
-
-### MAGiQ: a GraphBLAS-based RDF query engine
-
-* [A Demonstration of MAGiQ: Matrix Algebra Approach for Solving RDF Graph Queries](http://www.vldb.org/pvldb/vol11/p1978-jamour.pdf) (demo at VLDB 2018) by Fuad Jamour, Ibrahim Abdelaziz, Panos Kalnis
-* [Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs](https://dl.acm.org/doi/10.1145/3302424.3303962) (EuroSys 2019) by Fuad Jamour, Ibrahim Abdelaziz, Yuanzhao Chen, Panos Kalnis
-* [Algorithms and Frameworks for Graph Analytics at Scale](https://repository.kaust.edu.sa/bitstream/handle/10754/631280/FuadJamourThesis.pdf?sequence=3) (PhD thesis, 2019) by Fuad Jamour
-
-### Related work
-
+* MAGiQ: a GraphBLAS-based RDF query engine
+  * [A Demonstration of MAGiQ: Matrix Algebra Approach for Solving RDF Graph Queries](http://www.vldb.org/pvldb/vol11/p1978-jamour.pdf) (demo at VLDB 2018) by Fuad Jamour, Ibrahim Abdelaziz, Panos Kalnis
+  * [Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs](https://dl.acm.org/doi/10.1145/3302424.3303962) (EuroSys 2019) by Fuad Jamour, Ibrahim Abdelaziz, Yuanzhao Chen, Panos Kalnis
+  * [Algorithms and Frameworks for Graph Analytics at Scale](https://repository.kaust.edu.sa/bitstream/handle/10754/631280/FuadJamourThesis.pdf?sequence=3) (PhD thesis, 2019) by Fuad Jamour
 * [Parallel and Scalable Sparse Basic Linear Algebra Subprograms](https://folk.idi.ntnu.no/weifengl/thesis/phdthesis_liu.pdf) (PhD thesis, 2015) by Weifeng Liu
