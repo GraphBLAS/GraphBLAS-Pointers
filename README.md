@@ -180,6 +180,7 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
 * [Lower Latency Graph Queries in Cypher with Redis Graph](https://www.youtube.com/watch?v=xnez6tloNSQ) (RedisConf 2018) by Roi Lipman and Tim Davis
     * [GraphBLAS section](https://www.youtube.com/watch?v=xnez6tloNSQ?t=304)
     * [Slides](https://www.slideshare.net/RedisLabs/redisconf18-lower-latency-graph-queries-in-cypher-with-redis-graph)
+* [Evaluating Cypher queries and procedures as algebraic operations within RedisGraph](http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=106233859&preview=/106233859/111706128/LDBC-July-2019.pdf)
 
 ### Accumulo
 
