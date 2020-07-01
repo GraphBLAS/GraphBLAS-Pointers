@@ -136,7 +136,7 @@ Notation:
 * [GraphBLAS Template Library (GBTL)](https://github.com/cmu-sei/gbtl): C++ implementation (version 3.0 has been release in June 2020)
 * [IBM GraphBLAS](https://github.com/IBM/ibmgraphblas)
 * [GraphBLAST](https://github.com/gunrock/graphblast)
-    * [GraphBLAST: A High-Performance Linear Algebra-based Graph Framework on the GPU](https://arxiv.org/pdf/1908.01407.pdf), preprint by Carl Yang, Aydin Buluç, John D. Owens
+    * [GraphBLAST: A High-Performance Linear Algebra-based Graph Framework on the GPU](https://arxiv.org/pdf/1908.01407.pdf), preprint by Carl Yang, Aydın Buluç, John D. Owens
     * [High-Performance Linear Algebra-based Graph Framework on the GPU](https://escholarship.org/content/qt37j8j27d/qt37j8j27d.pdf) (PhD dissertation, 2019) by Carl Yang
 * [GraphMat](https://github.com/narayanan2004/GraphMat/)
     * [GraphMat: High performance graph analytics made productive](http://www.vldb.org/pvldb/vol8/p1214-sundaram.pdf) (VLDB 2015) by Narayanan Sundaram
