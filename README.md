@@ -47,7 +47,7 @@ Notation:
 
 ### Generic
 
-* :wrench: [Parallel GraphBLAS with OpenMP](http://faculty.cse.tamu.edu/davis/publications_files/CSC20_OpenMP_GraphBLAS.pdf) (SIAM Workshop on Combinatorial Scientific Computing, CSC 2020, accepted) by Mohsen Aznaveh et al.
+* :wrench: [Parallel GraphBLAS with OpenMP](http://faculty.cse.tamu.edu/davis/publications_files/CSC20_OpenMP_GraphBLAS.pdf) (SIAM Workshop on Combinatorial Scientific Computing, CSC 2020) by Mohsen Aznaveh et al.
 * :hammer: [GraphBLAS: Handling performance concerns in large graph analytics](https://www.ibm.com/university/power/images/CF2018.pdf) (Computing Frontiers 2018) by Manoj Kumar, José Moreira, Pratap Pattnaik
 
 ### Traversals and shortest paths
@@ -72,7 +72,7 @@ Notation:
     * [First look: Linear algebra-based triangle counting without matrix multiplication](http://spiral.ece.cmu.edu:8080/pub-spiral/pubfile/hpec_2017_low_289.pdf) (HPEC 2017) by Tze Meng Low et al.
     * [A Family of Provably Correct Algorithms for Exact Triangle Counting](https://dl.acm.org/doi/10.1145/3145344.3145484) (Correctness @ SC 2017) by Matthew Lee and Tze Meng Low
         * [Presentation](https://correctness-workshop.github.io/2017/papers/low.pdf)
-    * If you're interested in this work, it's recommended to read both papers. If you can only read one, here's how to choose. For a quick overview on how to compute triangle count without matrix multiplication, the HPEC 2017 paper is better as it contains an actual implementation in C. That said, the presentation of the triangle count algorithm is a bit more polished in the Correctness 2017 paper which discusses the algorithm in the context of the FLAME (Formal	Linear	Algebra	Methods	Environment) API. A followup to this work is the [HPEC 2018 paper on computing k-truss](https://users.ece.cmu.edu/~franzf/papers/hpec_2018_tml.pdf) (sharing many authors with the papers above).
+    * If you're interested in this work, it's recommended to read both papers. If you only have time to read one, here's how to choose. For a quick overview on how to compute triangle count without matrix multiplication, the HPEC 2017 paper is better as it contains an actual implementation in C. However, the presentation of the triangle count algorithm is a bit more polished in the Correctness 2017 paper which discusses the algorithm in the context of the FLAME (Formal	Linear	Algebra	Methods	Environment) API. A followup to this work is the [HPEC 2018 paper on computing k-truss](https://users.ece.cmu.edu/~franzf/papers/hpec_2018_tml.pdf) (sharing many authors with the papers above).
 * :hammer: [Parallel Triangle Counting and Enumeration Using Matrix Algebra](https://crd.lbl.gov/assets/pubs_presos/triangles-gabb.pdf) (GABB @ IPDPS 2015) by Ariful Azad, Aydın Buluç, John R. Gilbert
 * :hammer: [A task-based linear algebra building blocks approach for scalable graph analytics](https://www.osti.gov/servlets/purl/1531050) (HPEC 2015) by Michael M. Wolf, Jonathan W. Berry, Dylan T. Stark
     * Related presentation: [Task Parallel Approach to the Linear Algebra-Based Implementation of miniTri](https://www.osti.gov/servlets/purl/1369523) (SIAM Annual Meeting 2016) by Michael M. Wolf
