@@ -172,6 +172,8 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
     * [Slides](https://people.eecs.berkeley.edu/~aydin/talks/CombBLAS_Nov11.pdf)
 * Viral B. Shah, Alan Edelman, Stefan Karpinski, Jeff Bezanson, Jeremy Kepner: [Novel algebras for advanced analytics in Julia](https://dspace.mit.edu/handle/1721.1/115964), HPEC 2013
     * [Repository](https://github.com/JuliaComputing/SemiringAlgebra.jl)
+* [A work-in-progress distributed C++11 GraphBLAS implementation](A Hybrid GraphBLAS in C++11: specification, design, implementation, and performance)
+    * [Poster](http://albert-jan.yzelman.net/slides/siam-pp20-poster.pdf) by Albert-Jan Yzelman and W. J. Suijlen
 
 ### RedisGraph
 
