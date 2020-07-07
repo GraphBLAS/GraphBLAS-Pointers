@@ -217,7 +217,8 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 
 ## Typesetting
 
-The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be used to typeset block matrices. [Example TeX code](http://mit.bme.hu/~szarnyas/grb/tricount.tex)
+The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be used to typeset block matrices.
+* [Example TeX code](http://mit.bme.hu/~szarnyas/grb/tricount.tex)
 
 ## Related work
 
