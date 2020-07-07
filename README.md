@@ -177,7 +177,7 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
 
 ### RedisGraph
 
-* [Deep Dive into RedisGraph](https://www.youtube.com/watch?v=4KS2MRccQX4), (RedisConf 2019) by Roi Lipman
+* [Deep Dive into RedisGraph](https://www.youtube.com/watch?v=4KS2MRccQX4) (RedisConf 2019) by Roi Lipman
     * [Slides](https://www.slideshare.net/RedisLabs/redisgraph-internals-roi-lipman)
 * [Lower Latency Graph Queries in Cypher with Redis Graph](https://www.youtube.com/watch?v=xnez6tloNSQ) (RedisConf 2018) by Roi Lipman and Tim Davis
     * [GraphBLAS section](https://www.youtube.com/watch?v=xnez6tloNSQ?t=304)
