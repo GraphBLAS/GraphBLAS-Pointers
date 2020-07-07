@@ -161,9 +161,9 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
 ## Related libraries
 
 * [RedisGraph](https://redislabs.com/redis-enterprise/redis-modules/redis-enterprise-modules/redisgraph/)
-    * More pointers below
+    * More pointers [below](#RedisGraph)
 * [Graphulo](https://graphulo.mit.edu/) (built for [Apache Accumulo](https://accumulo.apache.org/))
-    * More pointers below
+    * More pointers [below](#Graphulo)
 * [D4M](http://www.mit.edu/~kepner/D4M/)
     * [Repository](https://github.com/Accla/d4m)
     * [D4M.jl](https://github.com/Accla/D4M.jl): Julia implementation
@@ -187,7 +187,7 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
     * [Slides](https://www.slideshare.net/RedisLabs/redisconf18-lower-latency-graph-queries-in-cypher-with-redis-graph)
 * [Evaluating Cypher queries and procedures as algebraic operations within RedisGraph](http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=106233859&preview=/106233859/111706128/LDBC-July-2019.pdf) (12th LDBC TUC, 2019) by Roi Lipman
 
-### Accumulo
+### Graphulo
 
 * [Graphulo: Graph Analytics in Apache Accumulo](http://accumulosummit.com/2016/program/talks/graphulo/) (Accumulo Summit 2016) by Vijay Gadepally, Timothy Weale, Dylan Hutchison, Jeremy Kepner
 * [Interacting with Accumulo and Graphulo using Julia/Python D4M](http://accumulosummit.com/2018/program/talks/accumulo-and-graphulo-using-julia-python-d4m/) (Accumulo Summit 2018) by Lauren Milechin, Hayden Jananthan, Vijay Gadepally, Jeremy Kepner
