@@ -74,8 +74,10 @@ Notation:
         * [Presentation](https://correctness-workshop.github.io/2017/papers/low.pdf)
     * If you're interested in this work, it's recommended to read both papers. If you only have time to read one, here's how to choose. For a quick overview on how to compute triangle count without matrix multiplication, the HPEC 2017 paper is better as it contains an actual implementation in C. However, the presentation of the triangle count algorithm is a bit more polished in the Correctness 2017 paper which discusses the algorithm in the context of the FLAME (Formal	Linear	Algebra	Methods	Environment) API. A followup to this work is the [HPEC 2018 paper on computing k-truss](https://users.ece.cmu.edu/~franzf/papers/hpec_2018_tml.pdf) (sharing many authors with the papers above).
 * :hammer: [Parallel Triangle Counting and Enumeration Using Matrix Algebra](https://crd.lbl.gov/assets/pubs_presos/triangles-gabb.pdf) (GABB @ IPDPS 2015) by Ariful Azad, Aydın Buluç, John R. Gilbert
+    * This paper introduced _masked matrix multiplication_ as a primitive.
 * :hammer: [A task-based linear algebra building blocks approach for scalable graph analytics](https://www.osti.gov/servlets/purl/1531050) (HPEC 2015) by Michael M. Wolf, Jonathan W. Berry, Dylan T. Stark
     * Related presentation: [Task Parallel Approach to the Linear Algebra-Based Implementation of miniTri](https://www.osti.gov/servlets/purl/1369523) (SIAM Annual Meeting 2016) by Michael M. Wolf
+    * Related presentation: [Fast	Linear	Algebra-Based	Triangle	Counting	with	KokkosKernels](https://www.osti.gov/servlets/purl/1470929) (IEEE	HPEC/DARPA/Amazon	Graph	Challenge at HPEC 2017) by Michael Wolf et al.
 
 ### Other
 
