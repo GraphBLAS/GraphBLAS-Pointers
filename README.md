@@ -159,6 +159,7 @@ Notation:
      * a [fork](https://github.com/cvdlab/SuiteSparseGraphBLAS.jl) aiming to provide a more Julian interface
 * [rustgraphblas](https://github.com/fabianmurariu/rustgraphblas): a Rust wrapper
 * [graphblas-java-native](https://github.com/fabianmurariu/graphblas-java-native): a Java wrapper
+  * [artifact at the Maven Central](https://search.maven.org/search?q=a:graphblas-java-native)
 * MATLAB wrapper
   * built-in for SuiteSparse:GraphBLAS
 
