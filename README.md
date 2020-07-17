@@ -240,3 +240,6 @@ The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be
   * [Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs](https://dl.acm.org/doi/10.1145/3302424.3303962) (EuroSys 2019) by Fuad Jamour, Ibrahim Abdelaziz, Yuanzhao Chen, Panos Kalnis
   * [Algorithms and Frameworks for Graph Analytics at Scale](https://repository.kaust.edu.sa/bitstream/handle/10754/631280/FuadJamourThesis.pdf?sequence=3) (PhD thesis, 2019) by Fuad Jamour
 * [Parallel and Scalable Sparse Basic Linear Algebra Subprograms](https://folk.idi.ntnu.no/weifengl/thesis/phdthesis_liu.pdf) (PhD thesis, 2015) by Weifeng Liu
+* Connection of relational joins (join-project, projected join) and sparse matrix multiplication:
+  * [Faster join-projects and sparse matrix multiplications](https://www.itu.dk/people/pagh/papers/joinproject.pdf) (ICDT 2009) by Rasmus Resen Amossen and Rasmus Pagh
+  * [Fast Join Project Query Evaluation using Matrix Multiplication](https://users.cs.duke.edu/~xh102/sigmod2020.pdf) (SIGMOD 2020) by Shaleen Deep et al.
