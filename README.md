@@ -179,7 +179,7 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
 * Combinatorial BLAS (CombBLAS): "An extensible distributed-memory library offering a small but powerful set of linear algebraic operations specifically targeting graph analytics." _Influences the development of GraphBLAS._
     * Paper - Aydın Buluç, John R. Gilbert: [The Combinatorial BLAS: design, implementation, and applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.916.6801&rep=rep1&type=pdf), Int. J. High Perform. Comput. Appl. 2011 ([paper entry at the publisher's site](https://journals.sagepub.com/doi/10.1177/1094342011403516)). This paper is referred to as a "strawman proposal" on GraphBLAS.org
     * [Documentation](https://people.eecs.berkeley.edu/~aydin/CombBLAS/html/)
-    * [Slides](https://people.eecs.berkeley.edu/~aydin/talks/CombBLAS_Nov11.pdf)
+    * [Presentation](https://people.eecs.berkeley.edu/~aydin/talks/CombBLAS_Nov11.pdf)
 * Viral B. Shah, Alan Edelman, Stefan Karpinski, Jeff Bezanson, Jeremy Kepner: [Novel algebras for advanced analytics in Julia](https://dspace.mit.edu/handle/1721.1/115964), HPEC 2013
     * [Repository](https://github.com/JuliaComputing/SemiringAlgebra.jl)
 * A Hybrid GraphBLAS in C++11: specification, design, implementation, and performance (a work-in-progress distributed C++11 GraphBLAS implementation)
@@ -188,10 +188,10 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
 ### RedisGraph
 
 * [Deep Dive into RedisGraph](https://www.youtube.com/watch?v=4KS2MRccQX4) (RedisConf 2019) by Roi Lipman
-    * [Slides](https://www.slideshare.net/RedisLabs/redisgraph-internals-roi-lipman)
+    * [Presentation](https://www.slideshare.net/RedisLabs/redisgraph-internals-roi-lipman)
 * [Lower Latency Graph Queries in Cypher with Redis Graph](https://www.youtube.com/watch?v=xnez6tloNSQ) (RedisConf 2018) by Roi Lipman and Tim Davis
     * [GraphBLAS section](https://www.youtube.com/watch?v=xnez6tloNSQ?t=304)
-    * [Slides](https://www.slideshare.net/RedisLabs/redisconf18-lower-latency-graph-queries-in-cypher-with-redis-graph)
+    * [Presentation](https://www.slideshare.net/RedisLabs/redisconf18-lower-latency-graph-queries-in-cypher-with-redis-graph)
 * [Evaluating Cypher queries and procedures as algebraic operations within RedisGraph](http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=106233859&preview=/106233859/111706128/LDBC-July-2019.pdf) (12th LDBC TUC, 2019) by Roi Lipman
 
 ### Graphulo
