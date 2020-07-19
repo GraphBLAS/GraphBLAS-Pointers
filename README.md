@@ -62,7 +62,8 @@ Notation:
 
 ### Connected components
 
-* :hammer_and_wrench: [FastSV: A Distributed-Memory Connected Component Algorithm with Fast Convergence](https://arxiv.org/abs/1910.05971) (preprint) by Yongzhe Zhang, Ariful Azad, Zhenjiang Hu
+* :hammer_and_wrench: [Parallel algorithms for finding connected components using linear algebra](https://escholarship.org/content/qt8ms106vm/qt8ms106vm.pdf) (Journal of Parallel and Distributed Computing 2020) by Yongzhe Zhang, Ariful Azad, Aydın Buluç
+* :hammer_and_wrench: [FastSV: A Distributed-Memory Connected Component Algorithm with Fast Convergence](https://arxiv.org/abs/1910.05971) (PP 2020) by Yongzhe Zhang, Ariful Azad, Zhenjiang Hu
 * :hammer_and_wrench: [LACC: A Linear-Algebraic Algorithm for Finding Connected Components in Distributed Memory](https://people.eecs.berkeley.edu/~aydin/LACC.pdf) (IPDPS 2019) by Ariful Azad and Aydın Buluç
 
 ### Triangle counting, k-truss, clustering coefficient
