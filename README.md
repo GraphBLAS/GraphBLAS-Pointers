@@ -1,4 +1,4 @@
-# GraphBLAS Pointers
+l# GraphBLAS Pointers
 
 Notation:
 * :star: if you're new to GraphBLAS, check out these pointers first
@@ -43,6 +43,7 @@ Notation:
 
 * :wrench: :star: LAGraph – A library of algorithms for GraphBLAS, similar to LAPACK for BLAS
     * [Repository on GitHub](https://github.com/GraphBLAS/LAGraph)
+    * [LAGraph Working Group](https://github.com/GraphBLAS/LAGraph-Working-Group): Public document and planning repository for the LAGraph Working Group
     * [LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/lagraph-grapl19.pdf) (GrAPL @ IPDPS 2019) by Tim Mattson et al.
 
 ### Generic
