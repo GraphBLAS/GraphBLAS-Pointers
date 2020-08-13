@@ -155,7 +155,8 @@ Notation:
 * Python wrappers:
     * :star: [pygraphblas](https://github.com/michelp/pygraphblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a Pythonic API
       * [GraphBLAS Programmability: Python and MATLAB Interfaces](https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/HPEC20_Python_and_MATLAB.pdf) by Tim Mattson, Michel Pelletier, Tim Davis (preprint)
-    * [grblas](https://github.com/jim22k/grblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a 1:1 mapping from the C API to Python
+    * :star: [grblas](https://github.com/metagraph-dev/grblas): a Python wrapper for SuiteSparse:GraphBLAS with a new high-level syntax that provides a 1:1 mapping between the C API and Python
+        * This library and all dependencies can be installed with [conda](https://docs.conda.io/projects/conda/en/latest/) for OS X and Linux
     * [PyGB](https://github.com/jessecoleman/gbtl-python-bindings): a Python wrapper for GBTL
 * [SuiteSparseGraphBLAS.jl](https://github.com/abhinavmehndiratta/SuiteSparseGraphBLAS.jl): a Julia wrapper for SuiteSparse:GraphBLAS
      * a [fork](https://github.com/cvdlab/SuiteSparseGraphBLAS.jl) aiming to provide a more Julian interface
