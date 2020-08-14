@@ -145,7 +145,7 @@ Notation:
 ### Other implementations
 
 * [IBM GraphBLAS](https://github.com/IBM/ibmgraphblas): C++ implementation in approx. 6000 lines of code.
-* [GraphBLAS C99](https://github.com/bobcgausa/GraphBLAS): "C99 prototype implementation of enough of GraphBLAS standard to run first two examples in Appendix A of the standard." Consists of <800 lines of code. Only support vxm.
+* [GraphBLAS C99](https://github.com/bobcgausa/GraphBLAS): "C99 prototype implementation of enough of GraphBLAS standard to run first two examples in Appendix A of the standard." Consists of <800 lines of code. Only supports vxm.
 * [GraphMat](https://github.com/narayanan2004/GraphMat/): linear algebra-based graph analytics framework prototype by Intel
     * [GraphMat: High performance graph analytics made productive](http://www.vldb.org/pvldb/vol8/p1214-sundaram.pdf) (VLDB 2015) by Narayanan Sundaram
     * [GraphPad: Optimized Graph Primitives for Parallel and Distributed Platforms](https://ieeexplore.ieee.org/abstract/document/7516027) (IPDPS 2016) by Michael J. Anderson et al.
