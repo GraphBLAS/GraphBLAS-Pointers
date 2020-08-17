@@ -165,6 +165,7 @@ Notation:
   * [artifact at the Maven Central](https://search.maven.org/search?q=a:graphblas-java-native)
 * MATLAB wrapper
   * built-in for SuiteSparse:GraphBLAS
+* [Docker containers on Docker Hub](https://hub.docker.com/r/graphblas/)
 
 See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berkeley.edu/~demmel/ma221_Spr20/GraphBLASCppAPI20.pdf).
 
