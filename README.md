@@ -9,6 +9,7 @@ Notation:
 
 ## Community sites
 
+* :bird: [GraphBLAS Twitter page](https://twitter.com/GraphBLAS)
 * [GraphBLAS.org](http://graphblas.org/)
 * [HPC Graph Analysis](http://www.graphanalysis.org/)
 
