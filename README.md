@@ -43,9 +43,14 @@ Notation:
 ## Algorithms
 
 * :wrench: :star: LAGraph – A library of algorithms for GraphBLAS, similar to LAPACK for BLAS
-    * [Repository on GitHub](https://github.com/GraphBLAS/LAGraph)
-    * [LAGraph Working Group](https://github.com/GraphBLAS/LAGraph-Working-Group): Public document and planning repository for the LAGraph Working Group
-    * [LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/lagraph-grapl19.pdf) (GrAPL @ IPDPS 2019) by Tim Mattson et al.
+  * [Repository on GitHub](https://github.com/GraphBLAS/LAGraph)
+  * [LAGraph Working Group](https://github.com/GraphBLAS/LAGraph-Working-Group): Public document and planning repository for the LAGraph Working Group
+  * [LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/lagraph-grapl19.pdf) (GrAPL @ IPDPS 2019) by Tim Mattson et al.
+* Context-Free Path Querying (CFPQ)
+  * [Context-Free Path Querying with Single-Path Semantics by Matrix Multiplication](https://dl.acm.org/doi/abs/10.1145/3398682.3399163) (GRADES-NDA 2020) by Arseniy Terekhov et al.
+  * [Context-Free Path Querying by Kronecker Product](https://link.springer.com/chapter/10.1007%2F978-3-030-54832-2_6) (ADBIS 2020) by Egor Orachev et al.
+  * [Path Querying with Conjunctive Grammars by Matrix Multiplication](https://link.springer.com/content/pdf/10.1134/S0361768819070041.pdf) (Programming and Computer Software 2019) by Rustam Azimov and Semyon Grigorev
+  * [CFPQ algorithm implementations using pygraphblas](https://github.com/JetBrains-Research/CFPQ_PyAlgo)
 
 ### Generic
 
