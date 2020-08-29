@@ -46,11 +46,6 @@ Notation:
   * [Repository on GitHub](https://github.com/GraphBLAS/LAGraph)
   * [LAGraph Working Group](https://github.com/GraphBLAS/LAGraph-Working-Group): Public document and planning repository for the LAGraph Working Group
   * [LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/lagraph-grapl19.pdf) (GrAPL @ IPDPS 2019) by Tim Mattson et al.
-* Context-Free Path Querying (CFPQ)
-  * [Context-Free Path Querying with Single-Path Semantics by Matrix Multiplication](https://dl.acm.org/doi/abs/10.1145/3398682.3399163) (GRADES-NDA 2020) by Arseniy Terekhov et al.
-  * [Context-Free Path Querying by Kronecker Product](https://link.springer.com/chapter/10.1007%2F978-3-030-54832-2_6) (ADBIS 2020) by Egor Orachev et al.
-  * [Path Querying with Conjunctive Grammars by Matrix Multiplication](https://link.springer.com/content/pdf/10.1134/S0361768819070041.pdf) (Programming and Computer Software 2019) by Rustam Azimov and Semyon Grigorev
-  * [CFPQ algorithm implementations using pygraphblas](https://github.com/JetBrains-Research/CFPQ_PyAlgo)
 
 ### Generic
 
@@ -59,19 +54,19 @@ Notation:
 
 ### Traversals and shortest paths
 
-* :hammer_and_wrench: [Optimal algebraic Breadth-First Search for sparse graphs](https://arxiv.org/pdf/1906.03113.pdf) (preprint, 2019) by Paul Burkhardt 
-* :hammer_and_wrench: [Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations](https://arxiv.org/pdf/1911.06895.pdf) (GrAPL @ IPDPS 2019) by Upasana Sridhar et al.
-* :hammer: [Linear Algebraic Depth-First Search](https://dl.acm.org/doi/10.1145/3315454.3329962) (ARRAY workshop @ PLDI 2019), Daniele G. Spampinato et al.
+* :hammer_and_wrench: `[BFS]` [Optimal algebraic Breadth-First Search for sparse graphs](https://arxiv.org/pdf/1906.03113.pdf) (preprint, 2019) by Paul Burkhardt 
+* :hammer_and_wrench: `[BFS]` [Implementing Push-Pull Efficiently in GraphBLAS](https://arxiv.org/pdf/1804.03327.pdf) (ICPP 2018) by Carl Yang, Aydın Buluç, John D. Owens
+* :hammer: `[DFS]` [Linear Algebraic Depth-First Search](https://dl.acm.org/doi/10.1145/3315454.3329962) (ARRAY workshop @ PLDI 2019) by Daniele G. Spampinato et al.
   * :movie_camera: [Video](https://www.youtube.com/watch?v=fKim6IKdr8U)
-* :hammer_and_wrench: [Implementing Push-Pull Efficiently in GraphBLAS](https://arxiv.org/pdf/1804.03327.pdf) (ICPP 2018) by Carl Yang, Aydın Buluç, John D. Owens
+* :hammer_and_wrench: `[SSSP]` [Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations](https://arxiv.org/pdf/1911.06895.pdf) (GrAPL @ IPDPS 2019) by Upasana Sridhar et al.
   * This paper forms the basis of Chapter 5 in Carl Yang's PhD thesis, [High-Performance Linear Algebra-based Graph Framework on the GPU](https://escholarship.org/content/qt37j8j27d/qt37j8j27d.pdf) (2019). The figures in the conference paper have some coloring issues that have been amended in the thesis.
   * [Presentation](https://www.ece.ucdavis.edu/~ctcyang/pub/icpp-slides2018.pdf)
 
 ### Connected components
 
-* :hammer_and_wrench: [Parallel algorithms for finding connected components using linear algebra](https://escholarship.org/content/qt8ms106vm/qt8ms106vm.pdf) (Journal of Parallel and Distributed Computing 2020) by Yongzhe Zhang, Ariful Azad, Aydın Buluç
-* :hammer_and_wrench: [FastSV: A Distributed-Memory Connected Component Algorithm with Fast Convergence](https://arxiv.org/abs/1910.05971) (PP 2020) by Yongzhe Zhang, Ariful Azad, Zhenjiang Hu
-* :hammer_and_wrench: [LACC: A Linear-Algebraic Algorithm for Finding Connected Components in Distributed Memory](https://people.eecs.berkeley.edu/~aydin/LACC.pdf) (IPDPS 2019) by Ariful Azad and Aydın Buluç
+* :hammer_and_wrench: `[CC]` [Parallel algorithms for finding connected components using linear algebra](https://escholarship.org/content/qt8ms106vm/qt8ms106vm.pdf) (Journal of Parallel and Distributed Computing 2020) by Yongzhe Zhang, Ariful Azad, Aydın Buluç
+* :hammer_and_wrench: `[CC]` [FastSV: A Distributed-Memory Connected Component Algorithm with Fast Convergence](https://arxiv.org/abs/1910.05971) (PP 2020) by Yongzhe Zhang, Ariful Azad, Zhenjiang Hu
+* :hammer_and_wrench: `[CC]` [LACC: A Linear-Algebraic Algorithm for Finding Connected Components in Distributed Memory](https://people.eecs.berkeley.edu/~aydin/LACC.pdf) (IPDPS 2019) by Ariful Azad and Aydın Buluç
 
 ### Triangle counting, k-truss, clustering coefficient
 
@@ -80,12 +75,24 @@ Notation:
     * [First look: Linear algebra-based triangle counting without matrix multiplication](http://spiral.ece.cmu.edu:8080/pub-spiral/pubfile/hpec_2017_low_289.pdf) (HPEC 2017) by Tze Meng Low et al.
     * [A Family of Provably Correct Algorithms for Exact Triangle Counting](https://dl.acm.org/doi/10.1145/3145344.3145484) (Correctness @ SC 2017) by Matthew Lee and Tze Meng Low
         * [Presentation](https://correctness-workshop.github.io/2017/papers/low.pdf)
-    * If you're interested in this work, it's recommended to read both papers. If you only have time to read one, here's how to choose. For a quick overview on how to compute triangle count without matrix multiplication, the HPEC 2017 paper is better as it contains an actual implementation in C. However, the presentation of the triangle count algorithm is a bit more polished in the Correctness 2017 paper which discusses the algorithm in the context of the FLAME (Formal	Linear	Algebra	Methods	Environment) API. A followup to this work is the [HPEC 2018 paper on computing k-truss](https://users.ece.cmu.edu/~franzf/papers/hpec_2018_tml.pdf) (sharing many authors with the papers above).
+    * [Linear Algebraic Formulation of Edge-centric K-truss Algorithms with Adjacency Matrices](https://users.ece.cmu.edu/~franzf/papers/hpec_2018_tml.pdf) (HPEC 2018) by Tze Meng Low et al.
 * :hammer: [Parallel Triangle Counting and Enumeration Using Matrix Algebra](https://crd.lbl.gov/assets/pubs_presos/triangles-gabb.pdf) (GABB @ IPDPS 2015) by Ariful Azad, Aydın Buluç, John R. Gilbert
-    * This paper introduced _masked matrix multiplication_ as a primitive.
+    * This paper introduced _masked matrix multiplication_ which became an important primitive in GraphBLASs.
 * :hammer: [A task-based linear algebra building blocks approach for scalable graph analytics](https://www.osti.gov/servlets/purl/1531050) (HPEC 2015) by Michael M. Wolf, Jonathan W. Berry, Dylan T. Stark
     * Related presentation: [Task Parallel Approach to the Linear Algebra-Based Implementation of miniTri](https://www.osti.gov/servlets/purl/1369523) (SIAM Annual Meeting 2016) by Michael M. Wolf
-    * Related presentation: [Fast	Linear	Algebra-Based	Triangle	Counting	with	KokkosKernels](https://www.osti.gov/servlets/purl/1470929) (IEEE	HPEC/DARPA/Amazon	Graph	Challenge at HPEC 2017) by Michael Wolf et al.
+    * Related presentation: [Fast Linear Algebra-Based Triangle Counting with KokkosKernels](https://www.osti.gov/servlets/purl/1470929) (IEEE	HPEC/DARPA/Amazon	Graph	Challenge at HPEC 2017) by Michael Wolf et al.
+
+### Context-free path querying (CFPQ)
+
+* :hammer_and_wrench: [Context-Free Path Querying with Single-Path Semantics by Matrix Multiplication](https://dl.acm.org/doi/abs/10.1145/3398682.3399163) (GRADES-NDA 2020) by Arseniy Terekhov et al.
+* ::hammer_and_wrench:: [Context-Free Path Querying by Kronecker Product](https://link.springer.com/chapter/10.1007%2F978-3-030-54832-2_6) (ADBIS 2020) by Egor Orachev et al.
+* :hammer: [Path Querying with Conjunctive Grammars by Matrix Multiplication](https://link.springer.com/content/pdf/10.1134/S0361768819070041.pdf) (Programming and Computer Software 2019) by Rustam Azimov and Semyon Grigorev
+* :wrench: [CFPQ algorithm implementations using pygraphblas](https://github.com/JetBrains-Research/CFPQ_PyAlgo)
+
+
+### Community detection
+
+* :hammer_and_wrench: [Linear Algebraic Louvain Method in Python](https://ieeexplore.ieee.org/document/9150366) (GrAPL 2020) by Tze Meng Low et al.
 
 ### Other
 
