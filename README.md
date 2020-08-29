@@ -103,7 +103,8 @@ Notation:
 ### Other
 
 * :hammer_and_wrench: [A GraphBLAS Approach for Subgraph Counting](https://arxiv.org/pdf/1903.04395.pdf) (preprint) by Langshi Chen et al.
-* :wrench: [Write Quick, Run Fast: Sparse Deep Neural Network in 20 Minutes of Development Time via SuiteSparse:GraphBLAS](http://faculty.cse.tamu.edu/davis/publications_files/HPEC19.pdf) (HPEC 2019) by Tim Davis, Mohsen Aznaveh, Scott P. Kolodziej
+* :hammer_and_wrench: [Write Quick, Run Fast: Sparse Deep Neural Network in 20 Minutes of Development Time via SuiteSparse:GraphBLAS](http://faculty.cse.tamu.edu/davis/publications_files/HPEC19.pdf) (HPEC 2019) by Tim Davis, Mohsen Aznaveh, Scott P. Kolodziej
+* :hammer_and_wrench: [Graph Coloring on the GPU](https://people.eecs.berkeley.edu/~aydin/coloring.pdf) (GrAPL 2019) by Muhammad Osama et al.
 
 ## Presentations
 
