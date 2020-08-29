@@ -51,6 +51,12 @@ Notation:
 
 * :wrench: [Parallel GraphBLAS with OpenMP](http://faculty.cse.tamu.edu/davis/publications_files/CSC20_OpenMP_GraphBLAS.pdf) (SIAM Workshop on Combinatorial Scientific Computing, CSC 2020) by Mohsen Aznaveh et al.
 * :hammer: [GraphBLAS: Handling performance concerns in large graph analytics](https://www.ibm.com/university/power/images/CF2018.pdf) (Computing Frontiers 2018) by Manoj Kumar, José Moreira, Pratap Pattnaik
+* Many algorithms are described as an example in the specification and in papers about frameworks:
+  * The [specification](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v13.pdf) has BFS (levels/parents), betwenness centrality, maximal independent set (Luby's algorithm) and triangle count
+  * The [GraphBLAS CF paper](https://www.ibm.com/university/power/images/CF2018.pdf) has deep neural network (feed-forward pass), betweenness centrality and PageRank.
+  * The [SuiteSparse TOMS paper](https://people.engr.tamu.edu/davis/GraphBLAS_files/toms_graphblas.pdf) has BFS and maximal independent set (Luby's algorithm).
+  * The [GraphBLAS Template Library](https://github.com/cmu-sei/gbtl) has many textbook algorithms including maxflow and minimum spanning tree (Prim's).
+  * LAGraph has many algorithms including [community detection using label propagation](https://github.com/GraphBLAS/LAGraph/blob/master/Source/Algorithm/LAGraph_cdlp.c) and an [SCC algorithm](https://github.com/GraphBLAS/LAGraph/blob/master/Source/Algorithm/LAGraph_scc.c).
 
 ### Traversals and shortest paths
 
@@ -192,7 +198,7 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
     * [D4M.py](https://github.com/Accla/D4M.py): Python implementation
 * [pggraphblas](https://github.com/michelp/pggraphblas): Postgres extension for using GraphBLAS
 * Combinatorial BLAS (CombBLAS): "An extensible distributed-memory library offering a small but powerful set of linear algebraic operations specifically targeting graph analytics." _Influences the development of GraphBLAS._
-    * Paper - Aydın Buluç, John R. Gilbert: [The Combinatorial BLAS: design, implementation, and applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.916.6801&rep=rep1&type=pdf), Int. J. High Perform. Comput. Appl. 2011 ([paper entry at the publisher's site](https://journals.sagepub.com/doi/10.1177/1094342011403516)). This paper is referred to as a "strawman proposal" on GraphBLAS.org
+    * Aydın Buluç, John R. Gilbert: [The Combinatorial BLAS: design, implementation, and applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.916.6801&rep=rep1&type=pdf), Int. J. High Perform. Comput. Appl. 2011 ([paper entry at the publisher's site](https://journals.sagepub.com/doi/10.1177/1094342011403516)). This paper is referred to as a "strawman proposal" on GraphBLAS.org
     * [Documentation](https://people.eecs.berkeley.edu/~aydin/CombBLAS/html/)
     * [Presentation](https://people.eecs.berkeley.edu/~aydin/talks/CombBLAS_Nov11.pdf)
 * Viral B. Shah, Alan Edelman, Stefan Karpinski, Jeff Bezanson, Jeremy Kepner: [Novel algebras for advanced analytics in Julia](https://dspace.mit.edu/handle/1721.1/115964), HPEC 2013
