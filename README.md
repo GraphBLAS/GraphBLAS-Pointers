@@ -71,7 +71,7 @@ Notation:
 ### Triangle counting, k-truss, clustering coefficient
 
 * :wrench: [Graph algorithms via SuiteSparse:GraphBLAS: Triangle counting and K-truss](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/Davis_HPEC18.pdf) (HPEC 2018) by Tim Davis
-* :hammer_and_wrench: Tze Meng Low et al.'s work on triangle counting
+* :hammer_and_wrench: Tze Meng Low et al.'s work on triangle counting:
     * [First look: Linear algebra-based triangle counting without matrix multiplication](http://spiral.ece.cmu.edu:8080/pub-spiral/pubfile/hpec_2017_low_289.pdf) (HPEC 2017) by Tze Meng Low et al.
     * [A Family of Provably Correct Algorithms for Exact Triangle Counting](https://dl.acm.org/doi/10.1145/3145344.3145484) (Correctness @ SC 2017) by Matthew Lee and Tze Meng Low
         * [Presentation](https://correctness-workshop.github.io/2017/papers/low.pdf)
@@ -85,10 +85,9 @@ Notation:
 ### Context-free path querying (CFPQ)
 
 * :hammer_and_wrench: [Context-Free Path Querying with Single-Path Semantics by Matrix Multiplication](https://dl.acm.org/doi/abs/10.1145/3398682.3399163) (GRADES-NDA 2020) by Arseniy Terekhov et al.
-* ::hammer_and_wrench:: [Context-Free Path Querying by Kronecker Product](https://link.springer.com/chapter/10.1007%2F978-3-030-54832-2_6) (ADBIS 2020) by Egor Orachev et al.
+* :hammer_and_wrench: [Context-Free Path Querying by Kronecker Product](https://link.springer.com/chapter/10.1007%2F978-3-030-54832-2_6) (ADBIS 2020) by Egor Orachev et al.
 * :hammer: [Path Querying with Conjunctive Grammars by Matrix Multiplication](https://link.springer.com/content/pdf/10.1134/S0361768819070041.pdf) (Programming and Computer Software 2019) by Rustam Azimov and Semyon Grigorev
 * :wrench: [CFPQ algorithm implementations using pygraphblas](https://github.com/JetBrains-Research/CFPQ_PyAlgo)
-
 
 ### Community detection
 
@@ -104,12 +103,12 @@ Notation:
 ### Overviews on GraphBLAS and linear algebra-based graph processing
 
 * :hammer: :star: Gábor Szárnyas: [GraphBLAS: A linear algebraic approach for high-performance graph algorithms](http://mit.bme.hu/~szarnyas/grb/graphblas-introduction.pdf) (introduction to GraphBLAS, 200+ slides), :movie_camera: [Talk at FOSDEM 2020's HPC room](https://fosdem.org/2020/schedule/event/graphblas/) (abridged version)
-* John R. Gilbert's talks
+* John R. Gilbert's talks:
   * :hammer_and_wrench: :star: [GraphBLAS: Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/Gilbert-27Jun2019.pdf) (2019)
   * :hammer: [Graph Algorithms in the Language of Linear Algebra: How did we get here, where do we go next?](https://pdfs.semanticscholar.org/e0e3/a850ca03f5092aaa45152e53bd77af689567.pdf) (GABB @ IPDPS 2018)
   * :hammer_and_wrench: [Building Blocks for Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/GilbertCIMI7July2015.pdf) (CIMI Workshop on Innovative Clustering Methods 2015)
   * :hammer_and_wrench: [Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/cs240a/slides/old/cs240a-GALA.pdf) (originally at Intel Non-Numeric Computing Workshop 2014)
-* Scott McMillan's talks
+* Scott McMillan's talks:
   * :hammer_and_wrench: :star: [Graph Algorithms on Future Architectures](https://resources.sei.cmu.edu/asset_files/Presentation/2015_017_001_446303.pdf) (CMU SEI Research Review 2015),
     :scroll: [Poster](https://resources.sei.cmu.edu/asset_files/Poster/2015_020_001_446691.pdf),
     :movie_camera: [Video](https://www.youtube.com/watch?v=-sIdS4cz7-4)
@@ -166,7 +165,7 @@ Notation:
 ## Wrappers
 
 * Python wrappers:
-    * :star: [pygraphblas](https://github.com/michelp/pygraphblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a Pythonic API
+    * :star: [pygraphblas](https://github.com/michelp/pygraphblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a Pythonic AP
       * [GraphBLAS Programmability: Python and MATLAB Interfaces](https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/HPEC20_Python_and_MATLAB.pdf) by Tim Mattson, Michel Pelletier, Tim Davis (preprint)
     * :star: [grblas](https://github.com/metagraph-dev/grblas): a Python wrapper for SuiteSparse:GraphBLAS with a new high-level syntax that provides a 1:1 mapping between the C API and Python
         * This library and all dependencies can be installed with [conda](https://docs.conda.io/projects/conda/en/latest/) for OS X and Linux
@@ -176,8 +175,7 @@ Notation:
 * [rustgraphblas](https://github.com/fabianmurariu/rustgraphblas): a Rust wrapper
 * [graphblas-java-native](https://github.com/fabianmurariu/graphblas-java-native): a Java wrapper
   * [artifact at the Maven Central](https://search.maven.org/search?q=a:graphblas-java-native)
-* MATLAB wrapper
-  * built-in for SuiteSparse:GraphBLAS
+* MATLAB wrapper: built-in for SuiteSparse:GraphBLAS
 * [Docker containers on Docker Hub](https://hub.docker.com/r/graphblas/)
 
 See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berkeley.edu/~demmel/ma221_Spr20/GraphBLASCppAPI20.pdf).
@@ -252,7 +250,7 @@ The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be
 * [graphblas-verif](https://github.com/jennalwise/graphblas-verif): Formal verification of the GraphBLAS C API implementation by Tim Davis using Frama-C/WP.
 * [LA3: A scalable link-and locality-aware linear algebra-based graph analytics system](http://www.vldb.org/pvldb/vol11/p920-ahmad.pdf) (VLDB 2018) by Yousuf Ahmad et al. 
 * [Efficient Distributed Graph Analytics using Triply Compressed Sparse Format](https://people.cs.pitt.edu/~hasanzadeh/files/papers/PID6084671.pdf) (CLUSTER 2019) by Mohammad Hasanzadeh Mofrad et al.
-* MAGiQ: a GraphBLAS-based RDF query engine
+* MAGiQ – a GraphBLAS-based RDF query engine:
   * [A Demonstration of MAGiQ: Matrix Algebra Approach for Solving RDF Graph Queries](http://www.vldb.org/pvldb/vol11/p1978-jamour.pdf) (demo at VLDB 2018) by Fuad Jamour, Ibrahim Abdelaziz, Panos Kalnis
   * [Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs](https://dl.acm.org/doi/10.1145/3302424.3303962) (EuroSys 2019) by Fuad Jamour, Ibrahim Abdelaziz, Yuanzhao Chen, Panos Kalnis
   * [Algorithms and Frameworks for Graph Analytics at Scale](https://repository.kaust.edu.sa/bitstream/handle/10754/631280/FuadJamourThesis.pdf?sequence=3) (PhD thesis, 2019) by Fuad Jamour
