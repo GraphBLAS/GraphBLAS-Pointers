@@ -99,7 +99,9 @@ Notation:
 ### Community detection
 
 * :hammer_and_wrench: [Linear Algebraic Louvain Method in Python](https://ieeexplore.ieee.org/document/9150366) (GrAPL 2020) by Tze Meng Low et al.
-
+  * :movie_camera: [Video](https://www.youtube.com/watch?v=BIu0m4Hchiw)
+  * [pygraphblas implementation](https://github.com/michelp/pygraphblas/blob/master/pygraphblas/demo/Louvain.ipynb)
+  
 ### Other
 
 * :hammer_and_wrench: [A GraphBLAS Approach for Subgraph Counting](https://arxiv.org/pdf/1903.04395.pdf) (preprint) by Langshi Chen et al.
