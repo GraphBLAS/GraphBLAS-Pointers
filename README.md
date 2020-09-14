@@ -93,8 +93,8 @@ Notation:
 ### Context-free path querying (CFPQ)
 
 * :hammer_and_wrench: [Context-Free Path Querying with Single-Path Semantics by Matrix Multiplication](https://dl.acm.org/doi/abs/10.1145/3398682.3399163) (GRADES-NDA 2020) by Arseniy Terekhov et al.
-* :hammer_and_wrench: [Context-Free Path Querying by Kronecker Product](https://link.springer.com/chapter/10.1007%2F978-3-030-54832-2_6) (ADBIS 2020) by Egor Orachev et al.
-* :hammer: [Path Querying with Conjunctive Grammars by Matrix Multiplication](https://link.springer.com/content/pdf/10.1134/S0361768819070041.pdf) (Programming and Computer Software 2019) by Rustam Azimov and Semyon Grigorev
+* :hammer_and_wrench: [Context-Free Path Querying by Kronecker Product](https://www.researchgate.net/profile/Semyon_Grigorev/publication/343687331_Context-Free_Path_Querying_by_Kronecker_Product/links/5f3e8981458515b72931fbf3/Context-Free-Path-Querying-by-Kronecker-Product.pdf) (ADBIS 2020) by Egor Orachev et al.
+* :hammer: [Path Querying with Conjunctive Grammars by Matrix Multiplication](https://www.researchgate.net/profile/Semyon_Grigorev/publication/337961820_Path_Querying_with_Conjunctive_Grammars_by_Matrix_Multiplication/links/5df9dde64585159aa48500d6/Path-Querying-with-Conjunctive-Grammars-by-Matrix-Multiplication.pdf) (Programming and Computer Software 2019) by Rustam Azimov and Semyon Grigorev
 * :wrench: [CFPQ algorithm implementations using pygraphblas](https://github.com/JetBrains-Research/CFPQ_PyAlgo)
 
 ### Community detection
