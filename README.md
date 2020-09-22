@@ -202,7 +202,7 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
     * [D4M.jl](https://github.com/Accla/D4M.jl): Julia implementation
     * [D4M.py](https://github.com/Accla/D4M.py): Python implementation
 * [pggraphblas](https://github.com/michelp/pggraphblas): Postgres extension for using GraphBLAS
-* Combinatorial BLAS (CombBLAS): "An extensible distributed-memory library offering a small but powerful set of linear algebraic operations specifically targeting graph analytics." _Influences the development of GraphBLAS._
+* [Combinatorial BLAS (CombBLAS)](https://github.com/PASSIONLab/CombBLAS): "An extensible distributed-memory library offering a small but powerful set of linear algebraic operations specifically targeting graph analytics." _Influences the development of GraphBLAS._
     * Aydın Buluç, John R. Gilbert: [The Combinatorial BLAS: design, implementation, and applications](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.916.6801&rep=rep1&type=pdf), Int. J. High Perform. Comput. Appl. 2011 ([paper entry at the publisher's site](https://journals.sagepub.com/doi/10.1177/1094342011403516)). This paper is referred to as a "strawman proposal" on GraphBLAS.org
     * [Documentation](https://people.eecs.berkeley.edu/~aydin/CombBLAS/html/)
     * [Presentation](https://people.eecs.berkeley.edu/~aydin/talks/CombBLAS_Nov11.pdf)
