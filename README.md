@@ -117,7 +117,7 @@ Notation:
 
 * :hammer: :star: Gábor Szárnyas: [GraphBLAS: A linear algebraic approach for high-performance graph algorithms](http://mit.bme.hu/~szarnyas/grb/graphblas-introduction.pdf) (introduction to GraphBLAS, 100+ slides), :movie_camera: [Talk at FOSDEM 2020's HPC room](https://fosdem.org/2020/schedule/event/graphblas/) (abridged version)
 * :hammer: :star: Jeremy Kepner: [Mathematical Foundations of the GraphBLAS and Big Data](https://github.com/johnrgilbert/MDS2020-linear-algebraic-graph-tools/blob/master/MS142-Kepner-Slides.pdf) (SIAM Minisymposium 2020 on Linear Algebraic Tools for Graph Computation)
-    :movie_camera: [Video](youtu.be/gZSNp6XbOK8?t=6)
+    :movie_camera: [Video](https://youtu.be/gZSNp6XbOK8?t=6)
 * John R. Gilbert's talks:
   * :hammer_and_wrench: :star: [GraphBLAS: Graph Algorithms in the Language of Linear Algebra](https://sites.cs.ucsb.edu/~gilbert/talks/Gilbert-27Jun2019.pdf) (2019)
   * :hammer: [Graph Algorithms in the Language of Linear Algebra: How did we get here, where do we go next?](https://pdfs.semanticscholar.org/e0e3/a850ca03f5092aaa45152e53bd77af689567.pdf) (GABB @ IPDPS 2018)
