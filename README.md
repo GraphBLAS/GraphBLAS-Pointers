@@ -135,6 +135,7 @@ Notation:
     :movie_camera: [Video](https://www.youtube.com/watch?v=tiKrQrYarmA)
   * :hammer_and_wrench: [GraphBLAS Updates](https://apps.dtic.mil/sti/pdfs/AD1088909.pdf), SC BoF: HPC Graph Toolkits and GraphBLAS Forum, 2019
 * Aydın Buluç's talks:
+  * :hammer_and_wrench: [Sparse Matrices Beyond Solvers: Graphs, Biology, and Machine Learning](https://youtu.be/8QFxuIwHZcA) (MIT CSAIL Fast Code Seminar, June 22 2020)
   * :hammer_and_wrench: [GraphBLAST: A high-performance C++ GPU library implementing GraphBLAS](https://ecpannualmeeting.com/assets/overview/sessions/Buluc-GraphBLAS-ECP.pdf) (ECP Annual Meeting 2020)
   * :hammer_and_wrench: :star: [GraphBLAS: Concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318) (Scheduling Workshop 2019)
   * :hammer_and_wrench: [Graph algorithms, computational motifs, and GraphBLAS](https://people.eecs.berkeley.edu/~aydin/ECP_GraphBLAS_Buluc.pdf) (ECP Annual Meeting 2018)
