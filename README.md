@@ -279,3 +279,4 @@ The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be
   * [Faster join-projects and sparse matrix multiplications](https://www.itu.dk/people/pagh/papers/joinproject.pdf) (ICDT 2009) by Rasmus Resen Amossen and Rasmus Pagh
   * [Fast Join Project Query Evaluation using Matrix Multiplication](https://users.cs.duke.edu/~xh102/sigmod2020.pdf) (SIGMOD 2020) by Shaleen Deep et al.
   * [SPORES: Sum-Product Optimization via Relational Equality Saturation for Large Scale Linear Algebra](http://www.vldb.org/pvldb/vol13/p1919-wang.pdf) (VLDB 2020) by Yisu Remy Wang et al.
+* [Semiring Provenance over Graph Databases](https://www.usenix.org/conference/tapp2018/presentation/ramusat) by Yann Ramusat et al.
