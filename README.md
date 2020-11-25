@@ -87,7 +87,7 @@ Notation:
         * [Presentation](https://correctness-workshop.github.io/2017/papers/low.pdf)
     * [Linear Algebraic Formulation of Edge-centric K-truss Algorithms with Adjacency Matrices](https://users.ece.cmu.edu/~franzf/papers/hpec_2018_tml.pdf) (HPEC 2018) by Tze Meng Low et al.
 * :hammer: [Parallel Triangle Counting and Enumeration Using Matrix Algebra](https://crd.lbl.gov/assets/pubs_presos/triangles-gabb.pdf) (GABB @ IPDPS 2015) by Ariful Azad, Aydın Buluç, John R. Gilbert
-    * This paper introduced _masked matrix multiplication_ which became an important primitive in GraphBLASs.
+    * This paper introduced _masked matrix multiplication_ which became an important primitive in GraphBLAS.
 * :hammer: [A task-based linear algebra building blocks approach for scalable graph analytics](https://www.osti.gov/servlets/purl/1531050) (HPEC 2015) by Michael M. Wolf, Jonathan W. Berry, Dylan T. Stark
     * Related presentation: [Task Parallel Approach to the Linear Algebra-Based Implementation of miniTri](https://www.osti.gov/servlets/purl/1369523) (SIAM Annual Meeting 2016) by Michael M. Wolf
     * Related presentation: [Fast Linear Algebra-Based Triangle Counting with KokkosKernels](https://www.osti.gov/servlets/purl/1470929) (IEEE	HPEC/DARPA/Amazon	Graph	Challenge at HPEC 2017) by Michael Wolf et al.
