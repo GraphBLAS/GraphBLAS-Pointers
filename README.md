@@ -16,7 +16,7 @@ Notation:
 ## Selected readings and presentations
 
 * :star: [GraphBLAS Wikipedia page](https://en.wikipedia.org/wiki/GraphBLAS)
-* :star: :camera: [Graph Analytics: A Foundational Building Block for the Data Analytics World](https://techdecoded.intel.io/big-picture/graph-analytics-a-foundational-building-block-for-the-data-analytics-world/), Tim Mattson, Henry Gabb (2020) 
+* :star: :movie_camera: [Graph Analytics: A Foundational Building Block for the Data Analytics World](https://techdecoded.intel.io/big-picture/graph-analytics-a-foundational-building-block-for-the-data-analytics-world/), Tim Mattson, Henry Gabb (2020) 
 * :star: [Introduction to GraphBLAS: A linear algebraic approach for concise, portable, and high-performance graph algorithms](https://zenodo.org/record/4318870) by Gábor Szárnyas
 
 ### GraphBLAS design papers
