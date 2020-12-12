@@ -16,7 +16,8 @@ Notation:
 ## Selected readings and presentations
 
 * :star: [GraphBLAS Wikipedia page](https://en.wikipedia.org/wiki/GraphBLAS)
-* :star: [Graph Analytics: A Foundational Building Block for the Data Analytics World](https://techdecoded.intel.io/big-picture/graph-analytics-a-foundational-building-block-for-the-data-analytics-world/), Tim Mattson, Henry Gabb (2020)
+* :star: :camera: [Graph Analytics: A Foundational Building Block for the Data Analytics World](https://techdecoded.intel.io/big-picture/graph-analytics-a-foundational-building-block-for-the-data-analytics-world/), Tim Mattson, Henry Gabb (2020) 
+* :star: [Introduction to GraphBLAS: A linear algebraic approach for concise, portable, and high-performance graph algorithms](https://zenodo.org/record/4318870) by Gábor Szárnyas
 
 ### GraphBLAS design papers
 
@@ -30,7 +31,7 @@ Notation:
 
 ### Tutorials
 
-* :hammer: :star: [Introduction to GraphBLAS: A linear algebraic approach for concise, portable, and high-performance graph algorithms](https://zenodo.org/record/4318870) by Gábor Szárnyas: an introduction to GraphBLAS with 100+ slides
+* :hammer: :star: [Introduction to GraphBLAS: A linear algebraic approach for concise, portable, and high-performance graph algorithms](https://zenodo.org/record/4318870) by Gábor Szárnyas: a tutorial with 180+ slides
   * :movie_camera: [Talk at FOSDEM 2020's HPC room](https://fosdem.org/2020/schedule/event/graphblas/) (abridged version)
   * [Case studies, algorithms, and other slide decks](http://mit.bme.hu/~szarnyas/grb/)
 * :hammer_and_wrench: :star: [Hands-on tutorial for GraphBLAS](https://github.com/tgmattso/GraphBLAS) (HPEC 2018-) by Scott McMillan and Tim Mattson
