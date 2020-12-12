@@ -30,7 +30,7 @@ Notation:
 
 ### Tutorials
 
-* :hammer: :star: [GraphBLAS: A linear algebraic approach for high-performance graph algorithms](http://mit.bme.hu/~szarnyas/grb/graphblas-introduction.pdf) by Gábor Szárnyas: an introduction to GraphBLAS with 100+ slides
+* :hammer: :star: [Introduction to GraphBLAS: A linear algebraic approach for concise, portable, and high-performance graph algorithms](https://zenodo.org/record/4318870) by Gábor Szárnyas: an introduction to GraphBLAS with 100+ slides
   * :movie_camera: [Talk at FOSDEM 2020's HPC room](https://fosdem.org/2020/schedule/event/graphblas/) (abridged version)
   * [Case studies, algorithms, and other slide decks](http://mit.bme.hu/~szarnyas/grb/)
 * :hammer_and_wrench: :star: [Hands-on tutorial for GraphBLAS](https://github.com/tgmattso/GraphBLAS) (HPEC 2018-) by Scott McMillan and Tim Mattson
