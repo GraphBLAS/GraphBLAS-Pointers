@@ -59,7 +59,7 @@ Notation:
   * The [GraphBLAS CF paper](https://www.ibm.com/university/power/images/CF2018.pdf) has deep neural network (feed-forward pass), betweenness centrality and PageRank.
   * The [SuiteSparse TOMS paper](https://people.engr.tamu.edu/davis/GraphBLAS_files/toms_graphblas.pdf) has BFS and maximal independent set (Luby's algorithm).
   * The [GraphBLAS Template Library](https://github.com/cmu-sei/gbtl) has many textbook algorithms including maxflow and minimum spanning tree (Prim's).
-  * LAGraph has many algorithms including [community detection using label propagation](https://github.com/GraphBLAS/LAGraph/blob/master/Source/Algorithm/LAGraph_cdlp.c) and an [SCC algorithm](https://github.com/GraphBLAS/LAGraph/blob/master/Source/Algorithm/LAGraph_scc.c).
+  * LAGraph has many algorithms including [community detection using label propagation](https://github.com/GraphBLAS/LAGraph/blob/master/Experimental/Algorithm/LAGraph_cdlp.c) and an [SCC algorithm](https://github.com/GraphBLAS/LAGraph/blob/master/Experimental/Algorithm/LAGraph_scc.c).
   * [BFS algorithm computing the DAG of the traversal](https://gist.github.com/szarnyasg/6ffccfd8963de7e1b58a6a7084d34b8b)
 
 ### Traversals and shortest paths
