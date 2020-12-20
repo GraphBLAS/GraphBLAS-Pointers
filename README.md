@@ -36,6 +36,7 @@ Notation:
   * [Case studies, algorithms, and other slide decks](http://mit.bme.hu/~szarnyas/grb/)
 * :hammer_and_wrench: :star: [Hands-on tutorial for GraphBLAS](https://github.com/tgmattso/GraphBLAS) (HPEC 2018-) by Scott McMillan and Tim Mattson
 * :wrench: :star: [Introduction to GraphBLAS with Python](https://www.youtube.com/watch?v=JUbXW_f03W0) (2019) by Michel Pelletier
+* :hammer: [The Algebraic Path Problem: Semirings](https://www.youtube.com/watch?v=ZzBWh6orSHk) by Fred Hamprecht at the HCI of Heidelberg University (2020)
 
 ### Specifications
 
