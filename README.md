@@ -245,7 +245,8 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 
 | year | IPDPS workshop                                              | HPEC                                                       |
 | ---- | ----------------------------------------------------------- | ---------------------------------------------------------- |
-| 2020 | [GrAPL](https://hpc.pnl.gov/grapl/)                         | [HPEC](http://www.ieee-hpec.org/)                          |
+| 2021 | [GrAPL](https://hpc.pnl.gov/grapl/)                         | TBA                                                        |
+| 2020 | [GrAPL](https://hpc.pnl.gov/grapl/previous/2020/index.html) | [HPEC](http://www.ieee-hpec.org/2020)                      |
 | 2019 | [GrAPL](https://hpc.pnl.gov/grapl/previous/2019/index.html) | [HPEC](http://www.ieee-hpec.org/2019/)                     |
 | 2018 | [GABB](http://graphanalysis.org/workshop2018.html)          | [HPEC](http://www.ieee-hpec.org/2018/)                     |
 | 2017 | [GABB](http://graphanalysis.org/workshop2017.html)          | [HPEC](http://ieee-hpec.org/2017/techprog2017/sept13.htm)  |
@@ -283,4 +284,4 @@ The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be
   * [Fast Join Project Query Evaluation using Matrix Multiplication](https://users.cs.duke.edu/~xh102/sigmod2020.pdf) (SIGMOD 2020) by Shaleen Deep et al.
   * [SPORES: Sum-Product Optimization via Relational Equality Saturation for Large Scale Linear Algebra](http://www.vldb.org/pvldb/vol13/p1919-wang.pdf) (VLDB 2020) by Yisu Remy Wang et al.
 * [Semiring Provenance over Graph Databases](https://www.usenix.org/conference/tapp2018/presentation/ramusat) (USENIX Workshop on the Theory and Practice of Provenance 2018) by Yann Ramusat et al.
-* [Querying Sparse Matrices for Information Retrieval](https://repository.tudelft.nl//islandora/object/uuid:d0ac16ca-3143-4a2f-9c7f-6e6eb480e6b5) by Roberto Cornacchia (Phd thesis, 2012)
+* [Querying Sparse Matrices for Information Retrieval](https://repository.tudelft.nl//islandora/object/uuid:d0ac16ca-3143-4a2f-9c7f-6e6eb480e6b5) by Roberto Cornacchia (PhD thesis, 2012)
