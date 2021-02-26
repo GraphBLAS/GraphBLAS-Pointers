@@ -283,4 +283,5 @@ The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be
   * [Fast Join Project Query Evaluation using Matrix Multiplication](https://users.cs.duke.edu/~xh102/sigmod2020.pdf) (SIGMOD 2020) by Shaleen Deep et al.
   * [SPORES: Sum-Product Optimization via Relational Equality Saturation for Large Scale Linear Algebra](http://www.vldb.org/pvldb/vol13/p1919-wang.pdf) (VLDB 2020) by Yisu Remy Wang et al.
 * [Semiring Provenance over Graph Databases](https://www.usenix.org/conference/tapp2018/presentation/ramusat) (USENIX Workshop on the Theory and Practice of Provenance 2018) by Yann Ramusat et al.
-* [Querying Sparse Matrices for Information Retrieval](https://repository.tudelft.nl//islandora/object/uuid:d0ac16ca-3143-4a2f-9c7f-6e6eb480e6b5) by Roberto Cornacchia (PhD thesis, 2012)
+* [Provenance-Based Algorithms for Rich Queries over Graph Databases](https://hal.inria.fr/hal-03140067/) (EDBT 2021) by Yann Ramusat et al.
+* [Querying Sparse Matrices for Information Retrieval](https://repository.tudelft.nl//islandora/object/uuid:d0ac16ca-3143-4a2f-9c7f-6e6eb480e6b5) (PhD thesis, 2012) by Roberto Cornacchia
