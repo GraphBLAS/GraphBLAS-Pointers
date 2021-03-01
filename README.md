@@ -152,6 +152,11 @@ Notation:
   * :hammer_and_wrench: [SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS Specification](https://github.com/johnrgilbert/MDS2020-linear-algebraic-graph-tools/blob/master/MS142-Davis-Slides.pdf) (SIAM Minisymposium 2020 on Linear Algebraic Tools for Graph Computation) :movie_camera: [Video](https://youtu.be/gZSNp6XbOK8?t=1721)
 * :hammer_and_wrench: [Multiplex graph analysis with GraphBLAS](https://fosdem.org/2019/schedule/event/graph_multiplex_analysis_graphblas/) (Graph Developer room @ FOSDEM 2019) by Gábor Szárnyas
 
+### Minisymposium at SIAM CSE'21: [GraphBLAS: Tools, Algorithms, and Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70090)
+
+* [Sparse Matrices for Scaling Data-Intensive Problems on Distributed-Memory Systems]() by Aydın Buluç
+* [SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS API]() by Tim Davis
+
 ### Books
 
 * [Graph Algorithms in the Language of Linear Algebra](https://epubs.siam.org/doi/book/10.1137/1.9780898719918) (SIAM, 2011) by Jeremy Kepner and John R. Gilbert
