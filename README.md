@@ -154,8 +154,8 @@ Notation:
 
 ### Minisymposium at SIAM CSE'21: [GraphBLAS: Tools, Algorithms, and Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70090)
 
-* [Sparse Matrices for Scaling Data-Intensive Problems on Distributed-Memory Systems]() by Aydın Buluç
-* [SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS API]() by Tim Davis
+* :hammer_and_wrench: [Sparse Matrices for Scaling Data-Intensive Problems on Distributed-Memory Systems](Slides/Buluc-CSE21.pdf) by Aydın Buluç
+* :wrench: [SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS API]() by Tim Davis
 
 ### Books
 
