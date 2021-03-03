@@ -69,6 +69,8 @@ Notation:
 * :hammer_and_wrench: `[BFS]` [Implementing Push-Pull Efficiently in GraphBLAS](https://arxiv.org/pdf/1804.03327.pdf) (ICPP 2018) by Carl Yang, Aydın Buluç, John D. Owens
   * This paper forms the basis of Chapter 5 in Carl Yang's PhD thesis, [High-Performance Linear Algebra-based Graph Framework on the GPU](https://escholarship.org/content/qt37j8j27d/qt37j8j27d.pdf) (2019). The figures in the conference paper have some coloring issues that have been amended in the thesis.
   * [Presentation](https://www.ece.ucdavis.edu/~ctcyang/pub/icpp-slides2018.pdf)
+* :hammer_and_wrench: `[BFS]` [A GraphBLAS solution to the SIGMOD 2014 Programming Contest using multi-source BFS](https://inf.mit.bme.hu/sites/default/files/publications/hpec2020-sigmod14-msbfs.pdf) (HPEC 2020) by Márton Elekes et al.
+  * [Presentation](http://home.mit.bme.hu/~szarnyas/grb/hpec2020-graphblas-msbfs-extended.pdf)
 * :hammer: `[DFS]` [Linear Algebraic Depth-First Search](https://dl.acm.org/doi/10.1145/3315454.3329962) (ARRAY workshop @ PLDI 2019) by Daniele G. Spampinato et al.
   * :movie_camera: [Video](https://www.youtube.com/watch?v=fKim6IKdr8U)
 * :hammer_and_wrench: `[SSSP]` [Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations](https://arxiv.org/pdf/1911.06895.pdf) (GrAPL @ IPDPS 2019) by Upasana Sridhar et al.
@@ -137,7 +139,7 @@ Notation:
     :movie_camera: [Video](https://www.youtube.com/watch?v=tiKrQrYarmA)
   * :hammer_and_wrench: [GraphBLAS Updates](https://apps.dtic.mil/sti/pdfs/AD1088909.pdf), SC BoF: HPC Graph Toolkits and GraphBLAS Forum, 2019
 * Aydın Buluç's talks:
-  * :hammer_and_wrench: [Sparse Matrices Beyond Solvers: Graphs, Biology, and Machine Learning](https://youtu.be/8QFxuIwHZcA) (MIT CSAIL Fast Code Seminar, June 22 2020)
+  * :hammer_and_wrench: [Sparse Matrices Beyond Solvers: Graphs, Biology, and Machine Learning](http://fast-code.csail.mit.edu/abstracts/Buluc-MIT-FastCode.pdf) (MIT CSAIL Fast Code Seminar, June 22 2020), :movie_camera: [Video](https://youtu.be/8QFxuIwHZcA)
   * :hammer_and_wrench: [GraphBLAST: A high-performance C++ GPU library implementing GraphBLAS](https://ecpannualmeeting.com/assets/overview/sessions/Buluc-GraphBLAS-ECP.pdf) (ECP Annual Meeting 2020)
   * :hammer_and_wrench: :star: [GraphBLAS: Concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318) (Scheduling Workshop 2019)
   * :hammer_and_wrench: [Graph algorithms, computational motifs, and GraphBLAS](https://people.eecs.berkeley.edu/~aydin/ECP_GraphBLAS_Buluc.pdf) (ECP Annual Meeting 2018)
@@ -163,7 +165,7 @@ Notation:
 * :wrench: [High-Performance Sparse Linear Algebra on NVIDIA GPUs with cuSPARSE] by Federico Busato
 * :hammer_and_wrench: [F-Dbscan: Fusing Dbscan with Accelerated Tree Traversal on GPUs] by Andrey Prokopenko
 * :hammer_and_wrench: [Implementing Graphblas Primitives on Distributed-Memory Systems] by Ben Brock
-* :hammer_and_wrench: [Dense Semiring Linear Algebra on Modern CUDA Hardware](Slides/SIAM CSE21 - GraphBlas cuASR.pdf) by Vijay Thakkar
+* :hammer_and_wrench: [Dense Semiring Linear Algebra on Modern CUDA Hardware](Slides/cuASR.pdf) by Vijay Thakkar
 
 ### Books
 
