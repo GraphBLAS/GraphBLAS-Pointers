@@ -162,7 +162,7 @@ Notation:
 * :hammer_and_wrench: [Vertex Centric and/or Graphblas – Why Choose One?] by Roger Pearce
 * :wrench: [Introduction to Pygraphblas] by Michel Pelletier
 * :hammer_and_wrench: [Bandwidth-Optimized Algorithms for Sparse Matrix-Matrix Multiplication](Slides/Azad-SIAM-CSE21.pdf) by Ariful Azad
-* :wrench: [High-Performance Sparse Linear Algebra on NVIDIA GPUs with cuSPARSE] by Federico Busato
+* :wrench: [High-Performance Sparse Linear Algebra on NVIDIA GPUs with cuSPARSE](Slides/SIAMCSE21-Nvidia-cuSPARSE.pdf) by Federico Busato
 * :hammer_and_wrench: [F-Dbscan: Fusing Dbscan with Accelerated Tree Traversal on GPUs] by Andrey Prokopenko
 * :hammer_and_wrench: [Implementing Graphblas Primitives on Distributed-Memory Systems] by Ben Brock
 * :hammer_and_wrench: [Dense Semiring Linear Algebra on Modern CUDA Hardware](Slides/cuASR.pdf) by Vijay Thakkar
