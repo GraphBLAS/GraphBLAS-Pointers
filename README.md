@@ -35,6 +35,7 @@ Notation:
   * :movie_camera: [Talk at FOSDEM 2020's HPC room](https://fosdem.org/2020/schedule/event/graphblas/) (abridged version)
   * [Case studies, algorithms, and other slide decks](http://mit.bme.hu/~szarnyas/grb/)
 * :hammer_and_wrench: :star: [Hands-on tutorial for GraphBLAS](https://github.com/tgmattso/GraphBLAS) (HPEC 2018-) by Scott McMillan and Tim Mattson
+  * [latest version](https://github.com/GraphBLAS/SIAM-Tutorial/blob/main/GraphBLAS_Tutorial_202103_python.pdf) presented at [SIAM CSE 2021](https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials)
 * :wrench: :star: [Introduction to GraphBLAS with Python](https://www.youtube.com/watch?v=JUbXW_f03W0) (2019) by Michel Pelletier
 * :hammer: [The Algebraic Path Problem: Semirings](https://www.youtube.com/watch?v=ZzBWh6orSHk) by Fred Hamprecht at the HCI of Heidelberg University (2020)
 
