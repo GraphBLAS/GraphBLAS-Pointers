@@ -29,6 +29,7 @@ Notation:
 * :hammer_and_wrench: [GraphBLAS C API: Ideas for future versions of the specification](https://people.eecs.berkeley.edu/~aydin/GrB_futures_hpec17.pdf) (HPEC 2017) by Tim Mattson et al.
 * :wrench: [Implementing the GraphBLAS C API](https://ieeexplore.ieee.org/document/8425425) (GABB @ IPDPS 2018) by José E. Moreira, Manoj Kumar, William P. Horn
 * :hammer: [Mathematics of Digital Hyperspace](https://arxiv.org/pdf/2103.15203.pdf) (GrAPL @ IPDPS 2020) by Jeremy Kepner et al., introducing the definition of semilinks
+
 ### Tutorials
 
 * :hammer: :star: [Introduction to GraphBLAS: A linear algebraic approach for concise, portable, and high-performance graph algorithms](https://zenodo.org/record/4318870) by Gábor Szárnyas: a tutorial with 180+ slides
@@ -51,6 +52,7 @@ Notation:
   * [Repository on GitHub](https://github.com/GraphBLAS/LAGraph)
   * [LAGraph Working Group](https://github.com/GraphBLAS/LAGraph-Working-Group): Public document and planning repository for the LAGraph Working Group
   * [LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/lagraph-grapl19.pdf) (GrAPL @ IPDPS 2019) by Tim Mattson et al.
+  * [LAGraph: Linear Algebra, Network Analysis Libraries, and the Study of Graph Algorithms](https://arxiv.org/pdf/2104.01661.pdf) (GrAPL @ IPDPS 2021) by Gábor Szárnyas et al.
 
 ### Generic
 
