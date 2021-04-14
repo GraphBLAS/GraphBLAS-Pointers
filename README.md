@@ -56,6 +56,7 @@ Notation:
 
 ### Generic
 
+* :hammer_and_wrench: [Large-scale graph representation learning and computational biology through sparse matrices](https://www.youtube.com/watch?v=zBDRD2jl8YY) by Aydın Buluç (NJIT Data Science Seminar Series, 2021)
 * :wrench: [Parallel GraphBLAS with OpenMP](http://faculty.cse.tamu.edu/davis/publications_files/CSC20_OpenMP_GraphBLAS.pdf) (SIAM Workshop on Combinatorial Scientific Computing, CSC 2020) by Mohsen Aznaveh et al.
 * :hammer: [GraphBLAS: Handling performance concerns in large graph analytics](https://www.ibm.com/university/power/images/CF2018.pdf) (Computing Frontiers 2018) by Manoj Kumar, José Moreira, Pratap Pattnaik
 * Many algorithms are described as an example in the specification and in papers about frameworks:
