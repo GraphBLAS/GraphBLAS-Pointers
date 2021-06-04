@@ -262,17 +262,17 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 
 ## Events
 
-| year | IPDPS workshop                                              | HPEC                                                       |
-| ---- | ----------------------------------------------------------- | ---------------------------------------------------------- |
-| 2021 | [GrAPL](https://hpc.pnl.gov/grapl/)                         | TBA                                                        |
-| 2020 | [GrAPL](https://hpc.pnl.gov/grapl/previous/2020/index.html) | [HPEC](http://www.ieee-hpec.org/2020)                      |
-| 2019 | [GrAPL](https://hpc.pnl.gov/grapl/previous/2019/index.html) | [HPEC](http://www.ieee-hpec.org/2019/)                     |
-| 2018 | [GABB](http://graphanalysis.org/workshop2018.html)          | [HPEC](http://www.ieee-hpec.org/2018/)                     |
-| 2017 | [GABB](http://graphanalysis.org/workshop2017.html)          | [HPEC](http://ieee-hpec.org/2017/techprog2017/sept13.htm)  |
-| 2016 | [GABB](http://graphanalysis.org/workshop2016.html)          | [HPEC](http://ieee-hpec.org/2016/techprog2016/sept14.htm)  |
-| 2015 | [GABB](http://www.graphanalysis.org/workshop2015.html)      | [HPEC](http://www.ieee-hpec.org/2015/)                     |
-| 2014 | [GABB](http://www.graphanalysis.org/workshop2014.html)      | [HPEC](http://www.ieee-hpec.org/2014/copy/agendatext.html) |
-| 2013 | −                                                           | [HPEC](http://ieee-hpec.org/2013/agenda.htm)               |
+| year | IPDPS workshop                                                   | HPEC                                                            |
+| ---- | ---------------------------------------------------------------- | --------------------------------------------------------------- |
+| 2021 | [GrAPL 2021](https://hpc.pnl.gov/grapl/)                         | [HPEC 2021](http://www.ieee-hpec.org/cfp.htm)                   |
+| 2020 | [GrAPL 2020](https://hpc.pnl.gov/grapl/previous/2020/index.html) | [HPEC 2020](http://www.ieee-hpec.org/2020)                      |
+| 2019 | [GrAPL 2019](https://hpc.pnl.gov/grapl/previous/2019/index.html) | [HPEC 2019](http://www.ieee-hpec.org/2019/)                     |
+| 2018 | [GABB 2018](http://graphanalysis.org/workshop2018.html)          | [HPEC 2018](http://www.ieee-hpec.org/2018/)                     |
+| 2017 | [GABB 2017](http://graphanalysis.org/workshop2017.html)          | [HPEC 2017](http://ieee-hpec.org/2017/techprog2017/sept13.htm)  |
+| 2016 | [GABB 2016](http://graphanalysis.org/workshop2016.html)          | [HPEC 2016](http://ieee-hpec.org/2016/techprog2016/sept14.htm)  |
+| 2015 | [GABB 2015](http://www.graphanalysis.org/workshop2015.html)      | [HPEC 2015](http://www.ieee-hpec.org/2015/)                     |
+| 2014 | [GABB 2014](http://www.graphanalysis.org/workshop2014.html)      | [HPEC 2014](http://www.ieee-hpec.org/2014/copy/agendatext.html) |
+| 2013 | −                                                                | [HPEC 2013](http://ieee-hpec.org/2013/agenda.htm)               |
 
 ## News, interviews, popular science
 
