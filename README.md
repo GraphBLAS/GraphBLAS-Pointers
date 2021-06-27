@@ -200,6 +200,8 @@ Notation:
 * [GraphMat](https://github.com/narayanan2004/GraphMat/): linear algebra-based graph analytics framework prototype by Intel
     * [GraphMat: High performance graph analytics made productive](http://www.vldb.org/pvldb/vol8/p1214-sundaram.pdf) (VLDB 2015) by Narayanan Sundaram
     * [GraphPad: Optimized Graph Primitives for Parallel and Distributed Platforms](https://ieeexplore.ieee.org/abstract/document/7516027) (IPDPS 2016) by Michael J. Anderson et al.
+* [EJML (Efficient Java Matrix Library)](http://ejml.org/): partial Java implementation
+    * :wrench: [A GraphBLAS implementation in pure Java](https://dl.acm.org/doi/abs/10.1145/3461837.3464627) (GRADES-NDA 2021) by Florentin Dörre et al.
 
 ## Wrappers
 
