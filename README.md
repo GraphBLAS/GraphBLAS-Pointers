@@ -179,9 +179,9 @@ Notation:
     * An updated version of paper [Mathematical Foundations of the GraphBLAS](https://people.eecs.berkeley.edu/~aydin/GraphBLAS-Math.pdf) is reprinted in this book (Chapter 6, p81-113)
     * This book is currently the latest detailed reference on semiring-based computations, including graph algorithms. It also covers many other topics such as associative arrays. The book is not intended to be a GraphBLAS reference, but it can be used for providing a background in linear algebra (see e.g. Chapter 8, "Visualizing the Algebra of Associative Arrays").
 * [Path Problems in Networks](https://www.morganclaypool.com/doi/abs/10.2200/S00245ED1V01Y201001CNT003) (Morgan & Claypool Publishers, 2010) by John S. Baras and George Theodorakopoulos.    
-    * This book is about algebraic path problem --- a semiring-based generalization of shortest path problem. Mathematical foundations of semiring-based graph analysis are described. Basic ideas to create new semirings to solve new problems are described.
-    * The section 3.1 "Alternative viewpoints: paths and matrices" (p17-19) provide a matrix-based framework for algebraic path problem which is highly relevant to GraphBLAS.
-    * Table on pages 58-59 contains 29 different semirings and respective applied problems.
+    * This book is about the algebraic path problem – a semiring-based generalization of shortest path problem. The mathematical foundations of semiring-based graph analysis are described. Basic ideas to create new semirings to solve new problems are described.
+    * The section 3.1 "Alternative viewpoints: paths and matrices" (p17-19) provides a matrix-based framework for the algebraic path problem which is highly relevant to GraphBLAS.
+    * The table on pages 58-59 contains 29 different semirings and respective applied problems.
 
 
 ## Implementations
