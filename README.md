@@ -216,8 +216,8 @@ Notation:
     * :star: [grblas](https://github.com/metagraph-dev/grblas): a Python wrapper for SuiteSparse:GraphBLAS with a new high-level syntax that provides a 1:1 mapping between the C API and Python
         * This library and all dependencies can be installed with [conda](https://docs.conda.io/projects/conda/en/latest/) for OS X and Linux
     * [PyGB](https://github.com/jessecoleman/gbtl-python-bindings): a Python wrapper for GBTL
-* [SuiteSparseGraphBLAS.jl](https://github.com/abhinavmehndiratta/SuiteSparseGraphBLAS.jl): a Julia wrapper for SuiteSparse:GraphBLAS
-     * a [fork](https://github.com/cvdlab/SuiteSparseGraphBLAS.jl) aiming to provide a more Julian interface
+* [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl): a Julia wrapper for SuiteSparse:GraphBLAS
+     * :tv: [JuliaCon talk](https://live.juliacon.org/talk/YFPXCU) by William Kimmerer
 * [rustgraphblas](https://github.com/fabianmurariu/rustgraphblas): a Rust wrapper
 * [graphblas-java-native](https://github.com/fabianmurariu/graphblas-java-native): a Java wrapper
   * [artifact at the Maven Central](https://search.maven.org/search?q=a:graphblas-java-native)
