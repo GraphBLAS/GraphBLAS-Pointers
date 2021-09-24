@@ -32,6 +32,7 @@ Notation:
 
 ### Tutorials
 
+* :octocat: [GraphBLAS tutorials (GitHub organization)](https://github.com/GraphBLAS-Tutorials)
 * :hammer: :star: [Introduction to GraphBLAS: A linear algebraic approach for concise, portable, and high-performance graph algorithms](https://zenodo.org/record/4318870) by Gábor Szárnyas: a tutorial with 180+ slides
   * :movie_camera: [Talk at FOSDEM 2020's HPC room](https://fosdem.org/2020/schedule/event/graphblas/) (abridged version)
   * [Case studies, algorithms, and other slide decks](http://mit.bme.hu/~szarnyas/grb/)
@@ -303,7 +304,7 @@ The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be
   * [A Demonstration of MAGiQ: Matrix Algebra Approach for Solving RDF Graph Queries](http://www.vldb.org/pvldb/vol11/p1978-jamour.pdf) (demo at VLDB 2018) by Fuad Jamour, Ibrahim Abdelaziz, Panos Kalnis
   * [Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs](https://dl.acm.org/doi/10.1145/3302424.3303962) (EuroSys 2019) by Fuad Jamour, Ibrahim Abdelaziz, Yuanzhao Chen, Panos Kalnis
   * [Algorithms and Frameworks for Graph Analytics at Scale](https://repository.kaust.edu.sa/bitstream/handle/10754/631280/FuadJamourThesis.pdf?sequence=3) (PhD thesis, 2019) by Fuad Jamour
-* [Parallel and Scalable Sparse Basic Linear Algebra Subprograms](https://folk.idi.ntnu.no/weifengl/thesis/phdthesis_liu.pdf) (PhD thesis, 2015) by Weifeng Liu
+* [Parallel and Scalable Sparse Basic Linear Algebra Subprograms](https://nbi.ku.dk/english/theses/phd-theses/weifeng-liu/weifeng_liu.pdf) (PhD thesis, 2015) by Weifeng Liu
 * [Density-Aware Linear Algebra in a Column-Oriented In-Memory Database System](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-210043) (PhD thesis, 2016) by David Kernert
 * Connection of relational joins (join-project, projected join) and sparse matrix multiplication:
   * [A relational approach to the compilation of sparse matrix programs](https://link.springer.com/chapter/10.1007%2FBFb0002751) (Euro-Par 1997) by Vladimir Kotlyar et al.
