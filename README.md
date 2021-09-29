@@ -87,7 +87,7 @@ Notation:
 * :hammer_and_wrench: `[CC]` [FastSV: A Distributed-Memory Connected Component Algorithm with Fast Convergence](https://arxiv.org/pdf/1910.05971.pdf) (PP 2020) by Yongzhe Zhang, Ariful Azad, Zhenjiang Hu
 * :hammer_and_wrench: `[CC]` [LACC: A Linear-Algebraic Algorithm for Finding Connected Components in Distributed Memory](https://people.eecs.berkeley.edu/~aydin/LACC.pdf) (IPDPS 2019) by Ariful Azad and Aydın Buluç
 
-### Triangle counting, k-truss, clustering coefficient
+### Triangle counting, k-truss, clustering coefficient, etc.
 
 * :wrench: [Graph algorithms via SuiteSparse:GraphBLAS: Triangle counting and K-truss](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/Davis_HPEC18.pdf) (HPEC 2018) by Tim Davis
 * :hammer_and_wrench: Tze Meng Low et al.'s work on triangle counting:
@@ -100,6 +100,8 @@ Notation:
 * :hammer: [A task-based linear algebra building blocks approach for scalable graph analytics](https://www.osti.gov/servlets/purl/1531050) (HPEC 2015) by Michael M. Wolf, Jonathan W. Berry, Dylan T. Stark
     * Related presentation: [Task Parallel Approach to the Linear Algebra-Based Implementation of miniTri](https://www.osti.gov/servlets/purl/1369523) (SIAM Annual Meeting 2016) by Michael M. Wolf
     * Related presentation: [Fast Linear Algebra-Based Triangle Counting with KokkosKernels](https://www.osti.gov/servlets/purl/1470929) (IEEE	HPEC/DARPA/Amazon	Graph	Challenge at HPEC 2017) by Michael Wolf et al.
+* :hammer_and_wrench: [A GraphBLAS Implementation of Triangle Centrality](https://davidbader.net/publication/2021-lb/2021-lb.pdf) by Fuhuan Li, David A. Bader
+* :hammer_and_wrench: The GraphBLAS in Julia and Python:the PageRank and Triangle Centralities (HPEC 2021) by Michel Pelletier et al. (link pending)
 
 ### Context-free path querying (CFPQ)
 
