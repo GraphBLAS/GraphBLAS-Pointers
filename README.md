@@ -57,7 +57,8 @@ Notation:
 
 ### Generic
 
-* :hammer_and_wrench: [Large-scale graph representation learning and computational biology through sparse matrices](https://www.youtube.com/watch?v=zBDRD2jl8YY) by Aydın Buluç (NJIT Data Science Seminar Series, 2021)
+* :hammer_and_wrench: [Delayed Asynchronous Iterative Graph Algorithms](https://arxiv.org/pdf/2110.01409.pdf) (HPEC 2021) by Mark P. Blanco, , Scott McMillan, and Tze Meng Low
+* :hammer_and_wrench: [Large-scale graph representation learning and computational biology through sparse matrices](https://www.youtube.com/watch?v=zBDRD2jl8YY) (NJIT Data Science Seminar Series, 2021 by Aydın Buluç
 * :wrench: [Parallel GraphBLAS with OpenMP](http://faculty.cse.tamu.edu/davis/publications_files/CSC20_OpenMP_GraphBLAS.pdf) (SIAM Workshop on Combinatorial Scientific Computing, CSC 2020) by Mohsen Aznaveh et al.
 * :hammer: [GraphBLAS: Handling performance concerns in large graph analytics](https://www.ibm.com/university/power/images/CF2018.pdf) (Computing Frontiers 2018) by Manoj Kumar, José Moreira, Pratap Pattnaik
 * Many algorithms are described as an example in the specification and in papers about frameworks:
@@ -68,8 +69,9 @@ Notation:
   * LAGraph has many algorithms including [community detection using label propagation](https://github.com/GraphBLAS/LAGraph/blob/master/Experimental/Algorithm/LAGraph_cdlp.c) and an [SCC algorithm](https://github.com/GraphBLAS/LAGraph/blob/master/Experimental/Algorithm/LAGraph_scc.c).
   * [BFS algorithm computing the DAG of the traversal](https://gist.github.com/szarnyasg/6ffccfd8963de7e1b58a6a7084d34b8b)
 
-### Traversals and shortest paths
+### Traversals, max-flow, and shortest paths
 
+* [Usability Study of GraphBLAS Through MulticoreMax-Flow](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2787253) (Master's thesis, Norwegian University of Science and Technology, 2021) by Zawadi Berg Svela
 * :hammer_and_wrench: `[BFS]` [Optimal algebraic Breadth-First Search for sparse graphs](https://arxiv.org/pdf/1906.03113.pdf) (preprint, 2019) by Paul Burkhardt 
 * :hammer_and_wrench: `[BFS]` [Implementing Push-Pull Efficiently in GraphBLAS](https://arxiv.org/pdf/1804.03327.pdf) (ICPP 2018) by Carl Yang, Aydın Buluç, John D. Owens
   * This paper forms the basis of Chapter 5 in Carl Yang's PhD thesis, [High-Performance Linear Algebra-based Graph Framework on the GPU](https://escholarship.org/content/qt37j8j27d/qt37j8j27d.pdf) (2019). The figures in the conference paper have some coloring issues that have been amended in the thesis.
