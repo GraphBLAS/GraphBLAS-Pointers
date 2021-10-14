@@ -304,6 +304,7 @@ The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be
 * [graphblas-verif](https://github.com/jennalwise/graphblas-verif): Formal verification of the GraphBLAS C API implementation by Tim Davis using Frama-C/WP.
 * [LA3: A scalable link-and locality-aware linear algebra-based graph analytics system](http://www.vldb.org/pvldb/vol11/p920-ahmad.pdf) (VLDB 2018) by Yousuf Ahmad et al. 
 * [Efficient Distributed Graph Analytics using Triply Compressed Sparse Format](https://people.cs.pitt.edu/~hasanzadeh/files/papers/PID6084671.pdf) (CLUSTER 2019) by Mohammad Hasanzadeh Mofrad et al.
+* [Magas: matrix-based asynchronous graph analytics on shared memory systems](https://link.springer.com/article/10.1007/s11227-021-04091-x) (Journal of Supercomputing, 2021) by Le Luo et al.
 * MAGiQ – a GraphBLAS-based RDF query engine:
   * [A Demonstration of MAGiQ: Matrix Algebra Approach for Solving RDF Graph Queries](http://www.vldb.org/pvldb/vol11/p1978-jamour.pdf) (demo at VLDB 2018) by Fuad Jamour, Ibrahim Abdelaziz, Panos Kalnis
   * [Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs](https://dl.acm.org/doi/10.1145/3302424.3303962) (EuroSys 2019) by Fuad Jamour, Ibrahim Abdelaziz, Yuanzhao Chen, Panos Kalnis
