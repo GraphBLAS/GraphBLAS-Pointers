@@ -213,6 +213,7 @@ Notation:
     * [GraphPad: Optimized Graph Primitives for Parallel and Distributed Platforms](https://ieeexplore.ieee.org/abstract/document/7516027) (IPDPS 2016) by Michael J. Anderson et al.
 * [EJML (Efficient Java Matrix Library)](http://ejml.org/): partial Java implementation
     * :wrench: [A GraphBLAS implementation in pure Java](https://dl.acm.org/doi/abs/10.1145/3461837.3464627) (GRADES-NDA 2021) by Florentin Dörre et al.
+* [Introducing Lucata's GraphBLAS](Slides/LAGraph-2021-10-13-Lucata-GraphBLAS.pdf) by Jason Riedy and Shannon Kuntz ([SlideShare](https://www.slideshare.net/jasonriedy/lagraph-20211013))
 
 ## Wrappers
 
