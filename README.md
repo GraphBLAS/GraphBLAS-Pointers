@@ -73,7 +73,8 @@ Notation:
 
 ### Traversals, max-flow, and shortest paths
 
-* [Usability Study of GraphBLAS Through MulticoreMax-Flow](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2787253) (Master's thesis, Norwegian University of Science and Technology, 2021) by Zawadi Berg Svela
+* [Multicore Max-Flow using GraphBLAS: A Usability Study](https://ejournal.iartem.org/index.php/NIK/article/view/914) (Norsk informatikkonferanse 2021) by Zawadi Svela and Anne C. Elster
+  * [Usability Study of GraphBLAS Through MulticoreMax-Flow](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2787253) (Master's thesis, Norwegian University of Science and Technology, 2021) by Zawadi Berg Svela
 * :hammer_and_wrench: `[BFS]` [Optimal algebraic Breadth-First Search for sparse graphs](https://arxiv.org/pdf/1906.03113.pdf) (preprint, 2019) by Paul Burkhardt 
 * :hammer_and_wrench: `[BFS]` [Implementing Push-Pull Efficiently in GraphBLAS](https://arxiv.org/pdf/1804.03327.pdf) (ICPP 2018) by Carl Yang, Aydın Buluç, John D. Owens
   * This paper forms the basis of Chapter 5 in Carl Yang's PhD thesis, [High-Performance Linear Algebra-based Graph Framework on the GPU](https://escholarship.org/content/qt37j8j27d/qt37j8j27d.pdf) (2019). The figures in the conference paper have some coloring issues that have been amended in the thesis.
