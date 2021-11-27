@@ -124,6 +124,7 @@ Notation:
 ### Other
 
 * :wrench: [GraphLily: Accelerating Graph Linear Algebra on HBM-Equipped FPGAs](https://huyuwei.github.io/files/graphlily-iccad2021.pdf) (ICCAD 2021) by Yuwei Hu et al.
+  * [Presentation](https://huyuwei.github.io/files/graphlily-iccad2021-slides.pdf)
   * :movie_camera: [Video](https://www.youtube.com/watch?v=hszSqrCG5nU)
 * :hammer_and_wrench: [A GraphBLAS Approach for Subgraph Counting](https://arxiv.org/pdf/1903.04395.pdf) (preprint) by Langshi Chen et al.
 * :hammer_and_wrench: [Write Quick, Run Fast: Sparse Deep Neural Network in 20 Minutes of Development Time via SuiteSparse:GraphBLAS](http://faculty.cse.tamu.edu/davis/publications_files/HPEC19.pdf) (HPEC 2019) by Tim Davis, Mohsen Aznaveh, Scott P. Kolodziej
