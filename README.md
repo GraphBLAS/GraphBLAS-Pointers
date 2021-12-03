@@ -328,3 +328,8 @@ The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be
 * [Semiring Provenance over Graph Databases](https://www.usenix.org/conference/tapp2018/presentation/ramusat) (USENIX Workshop on the Theory and Practice of Provenance 2018) by Yann Ramusat et al.
 * [Provenance-Based Algorithms for Rich Queries over Graph Databases](https://hal.inria.fr/hal-03140067/) (EDBT 2021) by Yann Ramusat et al.
 * [Querying Sparse Matrices for Information Retrieval](https://repository.tudelft.nl//islandora/object/uuid:d0ac16ca-3143-4a2f-9c7f-6e6eb480e6b5) (PhD thesis, 2012) by Roberto Cornacchia
+
+
+## Source code
+
+The source of this page is available at <https://github.com/graphblas/graphblas-pointers>.
