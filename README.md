@@ -43,8 +43,8 @@ Notation:
 
 ### Specifications
 
-* :hammer_and_wrench: :book: [The GraphBLAS C API Specification, v2.0](https://github.com/GraphBLAS/graphblas-api-c/files/7541426/GraphBLAS_API_C_2.0.0.pdf) by Benjamin Brock, Aydın Buluç, Timothy Mattson, Scott McMillan, and José Moreira
-* :hammer_and_wrench: :book: [The GraphBLAS C API Specification, v1.3](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_API_C_v13.pdf) by Aydın Buluç, Tim Mattson, Scott McMillan, José Moreira, Carl Yang
+* :hammer_and_wrench: :book: [The GraphBLAS C API Specification, v2.0.0](https://graphblas.org/docs/GraphBLAS_API_C_v2.0.0.pdf) by Benjamin Brock, Aydın Buluç, Timothy Mattson, Scott McMillan, and José Moreira
+* :hammer_and_wrench: :book: [The GraphBLAS C API Specification, v1.3.0](https://graphblas.org/docs/GraphBLAS_API_C_v1.3.0.pdf) by Aydın Buluç, Tim Mattson, Scott McMillan, José Moreira, Carl Yang
   * Summary paper: [Design of the GraphBLAS API for C](https://people.eecs.berkeley.edu/~aydin/GABB17.pdf) (GABB @ IPDPS 2017)
 * [Introduction to GraphBLAS 2.0](https://people.eecs.berkeley.edu/~brock/papers/Introduction_to_GraphBlas_2.0.pdf) (GrAPL @ IPDPS 2021) by Benjamin Brock et al.
 * :hammer_and_wrench: :book: [SuiteSparse:GraphBLAS User Guide](https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/GraphBLAS_UserGuide.pdf) by Tim Davis
