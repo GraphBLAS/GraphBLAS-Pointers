@@ -230,6 +230,7 @@ Notation:
       * [GraphBLAS Programmability: Python and MATLAB Interfaces](https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/HPEC20_Python_and_MATLAB.pdf) by Tim Mattson, Michel Pelletier, Tim Davis (preprint)
     * :star: [grblas](https://github.com/metagraph-dev/grblas): a Python wrapper for SuiteSparse:GraphBLAS with a new high-level syntax that provides a 1:1 mapping between the C API and Python
         * This library and all dependencies can be installed with [conda](https://docs.conda.io/projects/conda/en/latest/) for OS X and Linux
+    * [dask-grblas](https://github.com/eriknw/dask-grblas): mirrors the grblas API and uses dask for out-of-core or distributed computation
     * [PyGB](https://github.com/jessecoleman/gbtl-python-bindings): a Python wrapper for GBTL
 * [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl): a Julia wrapper for SuiteSparse:GraphBLAS
      * :tv: [JuliaCon talk](https://live.juliacon.org/talk/YFPXCU) by William Kimmerer
