@@ -333,4 +333,4 @@ The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be
 
 ## Source code
 
-The source of this page is available at <https://github.com/graphblas/graphblas-pointers>.
+The source of this page is available at <https://github.com/GraphBLAS/GraphBLAS-Pointers>.
