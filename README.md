@@ -304,7 +304,7 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 * [GraphBLAS: Building Blocks For High Performance Graph Analytics](https://crd.lbl.gov/news-and-publications/news/2017/graphblas-building-blocks-for-high-performance-graph-analytics/) – Berkeley Lab Researchers Contribute to GraphBLAS and Will Leverage it for Exascale Applications
 * [ACM's interview with Tim Davis](https://www.acm.org/articles/people-of-acm/2019/tim-davis)
 * [First Person: Tim Davis](https://www.americanscientist.org/article/first-person-tim-davis), American Scientist
-* [The Applications of Matrices | What I wish my teachers told me way earlier (Networks segment)](https://www.youtube.com/watch?v=rowWM-MijXU) by Zach Star (2019)
+* [The Applications of Matrices | What I wish my teachers told me way earlier (Networks segment)](https://www.youtube.com/watch?v=rowWM-MijXU) by Zach Star (2019), the section on networks and graph theory start at 15:55
 
 ## Typesetting
 
