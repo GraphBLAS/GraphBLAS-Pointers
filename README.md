@@ -288,7 +288,8 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 
 | year | IPDPS workshop                                                   | HPEC                                                            |
 | ---- | ---------------------------------------------------------------- | --------------------------------------------------------------- |
-| 2021 | [GrAPL 2021](https://hpc.pnl.gov/grapl/)                         | [HPEC 2021](http://www.ieee-hpec.org/cfp.htm)                   |
+| 2022 | [GrAPL 2022](https://hpc.pnl.gov/grapl/)                         | HPEC 2022: TBA                                                  |
+| 2021 | [GrAPL 2021](https://hpc.pnl.gov/grapl/previous/2021/index.html) | [HPEC 2021](http://www.ieee-hpec.org/cfp.htm)                   |
 | 2020 | [GrAPL 2020](https://hpc.pnl.gov/grapl/previous/2020/index.html) | [HPEC 2020](http://www.ieee-hpec.org/2020)                      |
 | 2019 | [GrAPL 2019](https://hpc.pnl.gov/grapl/previous/2019/index.html) | [HPEC 2019](http://www.ieee-hpec.org/2019/)                     |
 | 2018 | [GABB 2018](http://graphanalysis.org/workshop2018.html)          | [HPEC 2018](http://www.ieee-hpec.org/2018/)                     |
