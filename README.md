@@ -46,6 +46,7 @@ Notation:
 * :hammer_and_wrench: :book: [The GraphBLAS C API Specification, v2.0.0](https://graphblas.org/docs/GraphBLAS_API_C_v2.0.0.pdf) by Benjamin Brock, Aydın Buluç, Timothy Mattson, Scott McMillan, and José Moreira
 * :hammer_and_wrench: :book: [The GraphBLAS C API Specification, v1.3.0](https://graphblas.org/docs/GraphBLAS_API_C_v1.3.0.pdf) by Aydın Buluç, Tim Mattson, Scott McMillan, José Moreira, Carl Yang
   * Summary paper: [Design of the GraphBLAS API for C](https://people.eecs.berkeley.edu/~aydin/GABB17.pdf) (GABB @ IPDPS 2017)
+  * [Proposals to the GraphBLAS specification](https://github.com/GraphBLAS/GraphBLAS_proposals)
 * [Introduction to GraphBLAS 2.0](https://people.eecs.berkeley.edu/~brock/papers/Introduction_to_GraphBlas_2.0.pdf) (GrAPL @ IPDPS 2021) by Benjamin Brock et al.
 * :hammer_and_wrench: :book: [SuiteSparse:GraphBLAS User Guide](https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/GraphBLAS_UserGuide.pdf) by Tim Davis
 
