@@ -107,7 +107,9 @@ Notation:
     * Related presentation: [Task Parallel Approach to the Linear Algebra-Based Implementation of miniTri](https://www.osti.gov/servlets/purl/1369523) (SIAM Annual Meeting 2016) by Michael M. Wolf
     * Related presentation: [Fast Linear Algebra-Based Triangle Counting with KokkosKernels](https://www.osti.gov/servlets/purl/1470929) (IEEE	HPEC/DARPA/Amazon	Graph	Challenge at HPEC 2017) by Michael Wolf et al.
 * :hammer_and_wrench: [A GraphBLAS Implementation of Triangle Centrality](https://davidbader.net/publication/2021-lb/2021-lb.pdf) by Fuhuan Li, David A. Bader
-* :hammer_and_wrench: The GraphBLAS in Julia and Python:the PageRank and Triangle Centralities (HPEC 2021) by Michel Pelletier et al. (link pending)
+* :hammer_and_wrench: [The GraphBLAS in Julia and Python:the PageRank and Triangle Centralities](https://ieeexplore.ieee.org/document/9622789) (HPEC 2021) by Michel Pelletier et al.
+* [The K-Core Decomposition Algorithm Under the Framework of GraphBLAS](https://ieeexplore.ieee.org/document/9622845) (HPEC 2021) by Longlong Li et al.
+* [A GraphBLAS Implementation of Triangle Centrality](https://ieeexplore.ieee.org/document/9622806) (HPEC 2021) by Fuhuan Li and David A. Bader
 
 ### Context-free path querying (CFPQ)
 
