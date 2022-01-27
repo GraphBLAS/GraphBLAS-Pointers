@@ -179,12 +179,12 @@ Notation:
 * :hammer_and_wrench: [Sparse Matrices for Scaling Data-Intensive Problems on Distributed-Memory Systems](Slides/Buluc-CSE21.pdf) by Aydın Buluç
 * :wrench: [SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS API](Slides/CSE21_Davis.pdf) by Tim Davis
 * :wrench: [LAGraph: Graph Algorithms as Linear Algebra](Slides/LAGraph_SIAM_CSE21_FINAL.pdf) by Scott McMillan
-* :hammer_and_wrench: Vertex Centric and/or Graphblas – Why Choose One? by Roger Pearce
-* :wrench: Introduction to Pygraphblas by Michel Pelletier
+* :hammer_and_wrench: Vertex Centric and/or GraphBLAS – Why Choose One? by Roger Pearce
+* :wrench: Introduction to pygraphblas by Michel Pelletier
 * :hammer_and_wrench: [Bandwidth-Optimized Algorithms for Sparse Matrix-Matrix Multiplication](Slides/Azad-SIAM-CSE21.pdf) by Ariful Azad
 * :wrench: [High-Performance Sparse Linear Algebra on NVIDIA GPUs with cuSPARSE](Slides/SIAMCSE21-Nvidia-cuSPARSE.pdf) by Federico Busato
 * :hammer_and_wrench: F-Dbscan: Fusing Dbscan with Accelerated Tree Traversal on GPUs by Andrey Prokopenko
-* :hammer_and_wrench: [Implementing Graphblas Primitives on Distributed-Memory Systems](Slides/Benjamin.Brock_SIAM.MS.GraphBLAS.pdf) by Ben Brock
+* :hammer_and_wrench: [Implementing GraphBLAS Primitives on Distributed-Memory Systems](Slides/Benjamin.Brock_SIAM.MS.GraphBLAS.pdf) by Ben Brock
 * :hammer_and_wrench: [Dense Semiring Linear Algebra on Modern CUDA Hardware](Slides/cuASR.pdf) by Vijay Thakkar
 
 ### Books
