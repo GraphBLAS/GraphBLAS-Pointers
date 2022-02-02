@@ -226,6 +226,7 @@ Notation:
 * [EJML (Efficient Java Matrix Library)](http://ejml.org/): partial Java implementation
     * :wrench: [A GraphBLAS implementation in pure Java](https://dl.acm.org/doi/abs/10.1145/3461837.3464627) (GRADES-NDA 2021) by Florentin Dörre et al.
 * [Introducing Lucata's GraphBLAS](Slides/LAGraph-2021-10-13-Lucata-GraphBLAS.pdf) by Jason Riedy and Shannon Kuntz ([SlideShare](https://www.slideshare.net/jasonriedy/lagraph-20211013))
+* [Bit-GraphBLAS: Bit-Level Optimizations of Matrix-Centric Graph Processing on GPU](https://arxiv.org/pdf/2201.08560.pdf) (IPDPS 2022) by Jou-An Chen et al.
 
 ## Wrappers
 
