@@ -231,10 +231,10 @@ Notation:
 ## Wrappers
 
 * Python wrappers:
-    * :star: [pygraphblas](https://github.com/michelp/pygraphblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a Pythonic AP
+    * :star: [pygraphblas](https://github.com/michelp/pygraphblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a Pythonic API
       * [GraphBLAS Programmability: Python and MATLAB Interfaces](https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/HPEC20_Python_and_MATLAB.pdf) by Tim Mattson, Michel Pelletier, Tim Davis (preprint)
-    * :star: [grblas](https://github.com/metagraph-dev/grblas): a Python wrapper for SuiteSparse:GraphBLAS with a new high-level syntax that provides a 1:1 mapping between the C API and Python
-        * This library and all dependencies can be installed from [conda-forge](https://anaconda.org/conda-forge/grblas) for Linux, macOS, and Windows
+    * :star: [python-graphblas](https://github.com/python-graphblas/python-graphblas): a Python wrapper for SuiteSparse:GraphBLAS with high-level syntax that adheres closely to the mathematical abstractions of GraphBLAS with natural syntax for masks, transpose descriptors, etc.
+        * This library and all dependencies can be installed from [conda-forge](https://anaconda.org/conda-forge/python-graphblas) for Linux, macOS, and Windows
         * conda-forge also has [standalone SuiteSparse:GraphBLAS packages](https://anaconda.org/conda-forge/graphblas) for Linux, macOS and Windows
     * [dask-grblas](https://github.com/eriknw/dask-grblas): mirrors the grblas API and uses dask for out-of-core or distributed computation
     * [PyGB](https://github.com/jessecoleman/gbtl-python-bindings): a Python wrapper for GBTL
