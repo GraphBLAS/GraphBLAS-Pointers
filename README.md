@@ -210,7 +210,8 @@ Notation:
     * :hammer_and_wrench: [Algorithm 10xx: SuiteSparse:GraphBLAS: parallel graph algorithms in the language of sparse linear algebra](https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/toms_parallel_grb.pdf) (preprint) by Tim Davis
     * The SuiteSparse:GraphBLAS library is released both as an individual package and (less frequently) as part of [SuiteSparse](http://faculty.cse.tamu.edu/davis/suitesparse.html).
     * This library can be installed on Debian-based distributions with the `libsuitesparse-dev` package. For example, Ubuntu 20.04's default repository contains SuiteSparse:GraphBLAS 3.2.0.
-* [GraphBLAS Template Library (GBTL)](https://github.com/cmu-sei/gbtl): C++ implementation (version 3.0 has been release in June 2020)
+* [GraphBLAS Template Library (GBTL)](https://github.com/cmu-sei/gbtl): C++ implementation (version 3.0 has been released in June 2020)
+    * [GraphBLAS: Building a C++ Matrix API for Graph Algorithms](https://www.youtube.com/watch?v=xMBNCtFV8sI) (CppCon 2021) by Benjamin Brock and Scott McMillan
 * [GraphBLAST](https://github.com/gunrock/graphblast)
     * [GraphBLAST: A High-Performance Linear Algebra-based Graph Framework on the GPU](https://arxiv.org/pdf/1908.01407.pdf), preprint by Carl Yang, Aydın Buluç, John D. Owens
     * [High-Performance Linear Algebra-based Graph Framework on the GPU](https://escholarship.org/content/qt37j8j27d/qt37j8j27d.pdf) (PhD dissertation, 2019) by Carl Yang
