@@ -253,6 +253,7 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
 
 ## Related libraries
 
+* [Graphony](https://github.com/Graphegon/Graphony): a Python library for doing high-performance graph analysis using the GraphBLAS over sparse and hypersparse data sets. It uses pygraphblas to store graph data in sparse GraphBLAS matrices and node and edge properties in PostgreSQL.
 * [RedisGraph](https://redislabs.com/redis-enterprise/redis-modules/redis-enterprise-modules/redisgraph/)
     * More pointers [below](#RedisGraph)
 * [Graphulo](https://graphulo.mit.edu/) (built for [Apache Accumulo](https://accumulo.apache.org/))
