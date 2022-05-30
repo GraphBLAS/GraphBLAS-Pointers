@@ -57,6 +57,7 @@ Notation:
   * [LAGraph Working Group](https://github.com/GraphBLAS/LAGraph-Working-Group): Public document and planning repository for the LAGraph Working Group
   * [LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/lagraph-grapl19.pdf) (GrAPL @ IPDPS 2019) by Tim Mattson et al.
   * [LAGraph: Linear Algebra, Network Analysis Libraries, and the Study of Graph Algorithms](https://arxiv.org/pdf/2104.01661.pdf) (GrAPL @ IPDPS 2021) by Gábor Szárnyas et al.
+  * [Intel Generic Implementation of LAGraph* for Go*](https://github.com/intel/forLAGraphGo), a port implemented in Go
 
 ### Generic
 
