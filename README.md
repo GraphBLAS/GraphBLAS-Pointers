@@ -220,7 +220,8 @@ Notation:
 
 ### Other implementations
 
-* [Huawei's GraphBLAS implementation](https://gitee.com/CSL-ALP/graphblas): C++ implementation
+* [Huawei's GraphBLAS implementation](https://github.com/Algebraic-Programming/ALP): C++ implementation
+   * [gitee mirror](https://gitee.com/CSL-ALP/graphblas)
 * [IBM GraphBLAS](https://github.com/IBM/ibmgraphblas): C++ implementation in approx. 6000 lines of code.
 * [GraphBLAS C99](https://github.com/bobcgausa/GraphBLAS): "C99 prototype implementation of enough of GraphBLAS standard to run first two examples in Appendix A of the standard." Consists of <800 lines of code. Only supports vxm.
 * [GraphMat](https://github.com/narayanan2004/GraphMat/): linear algebra-based graph analytics framework prototype by Intel
