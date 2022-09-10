@@ -273,6 +273,7 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
 * A Hybrid GraphBLAS in C++11: specification, design, implementation, and performance (a work-in-progress distributed C++11 GraphBLAS implementation)
     * [A C++ GraphBLAS: specification, implementation, parallelisation, and evaluation](http://albert-jan.yzelman.net/PDFs/yzelman20.pdf) (preprint 2020) by Albert-Jan Yzelman et al.
     * [Nonblocking execution in GraphBLAS](http://albert-jan.yzelman.net/PDFs/mastoras22-pp.pdf) (GrAPL 2022)
+    * [Design and implementation for nonblocking execution in GraphBLAS: tradeoffs and performance](http://albert-jan.yzelman.net/PDFs/mastoras22a-rev.pdf) by Aristeidis Mastoras et al., ACM Transactions on Architecture and Code Optimization, 2022
     * [Poster](http://albert-jan.yzelman.net/slides/siam-pp20-poster.pdf) by Albert-Jan Yzelman and W. J. Suijlen
 
 ### RedisGraph
