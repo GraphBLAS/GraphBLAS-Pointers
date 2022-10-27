@@ -317,6 +317,7 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 * [ACM's interview with Tim Davis](https://www.acm.org/articles/people-of-acm/2019/tim-davis)
 * [First Person: Tim Davis](https://www.americanscientist.org/article/first-person-tim-davis), American Scientist
 * [The Applications of Matrices | What I wish my teachers told me way earlier (Networks segment)](https://www.youtube.com/watch?v=rowWM-MijXU) by Zach Star (2019), the section on networks and graph theory start at 15:55
+* [GraphBLAS and GraphChallenge Advance Network Frontiers](https://sinews.siam.org/Details-Page/graphblas-and-graphchallenge-advance-network-frontiers) by  Jeremy Kepner, David A. Bader, Tim Davis, Roger Pearce, and Michael M. Wolf
 
 ## Typesetting
 
