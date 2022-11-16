@@ -58,6 +58,8 @@ Notation:
   * [LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/lagraph-grapl19.pdf) (GrAPL @ IPDPS 2019) by Tim Mattson et al.
   * [LAGraph: Linear Algebra, Network Analysis Libraries, and the Study of Graph Algorithms](https://arxiv.org/pdf/2104.01661.pdf) (GrAPL @ IPDPS 2021) by Gábor Szárnyas et al.
   * [Intel Generic Implementation of LAGraph* for Go*](https://github.com/intel/forLAGraphGo), a port implemented in Go
+* :wrench: graphblas-algorithms - A library of algorithms written using python-graphblas
+  * [Repository on GitHub](https://github.com/python-graphblas/graphblas-algorithms)
 
 ### Generic
 
@@ -240,7 +242,7 @@ Notation:
     * :star: [python-graphblas](https://github.com/python-graphblas/python-graphblas): a Python wrapper for SuiteSparse:GraphBLAS with high-level syntax that adheres closely to the mathematical abstractions of GraphBLAS with natural syntax for masks, transpose descriptors, etc.
         * This library and all dependencies can be installed from [conda-forge](https://anaconda.org/conda-forge/python-graphblas) for Linux, macOS, and Windows
         * conda-forge also has [standalone SuiteSparse:GraphBLAS packages](https://anaconda.org/conda-forge/graphblas) for Linux, macOS and Windows
-    * [dask-grblas](https://github.com/eriknw/dask-grblas): mirrors the grblas API and uses dask for out-of-core or distributed computation
+    * [dask-grblas](https://github.com/eriknw/dask-grblas): mirrors the python-graphblas API and uses dask for out-of-core or distributed computation
     * [PyGB](https://github.com/jessecoleman/gbtl-python-bindings): a Python wrapper for GBTL
 * [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl): a Julia wrapper for SuiteSparse:GraphBLAS
      * :tv: [JuliaCon talk](https://live.juliacon.org/talk/YFPXCU) by William Kimmerer
