@@ -240,6 +240,7 @@ Notation:
     * :star: [pygraphblas](https://github.com/Graphegon/pygraphblas): a Python wrapper for SuiteSparse:GraphBLAS aiming to provide a Pythonic API
       * [GraphBLAS Programmability: Python and MATLAB Interfaces](https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/HPEC20_Python_and_MATLAB.pdf) by Tim Mattson, Michel Pelletier, Tim Davis (preprint)
     * :star: [python-graphblas](https://github.com/python-graphblas/python-graphblas): a Python wrapper for SuiteSparse:GraphBLAS with high-level syntax that adheres closely to the mathematical abstractions of GraphBLAS with natural syntax for masks, transpose descriptors, etc.
+        * [User Guide](https://python-graphblas.readthedocs.io/en/latest/) with API Reference
         * This library and all dependencies can be installed from [conda-forge](https://anaconda.org/conda-forge/python-graphblas) for Linux, macOS, and Windows
         * conda-forge also has [standalone SuiteSparse:GraphBLAS packages](https://anaconda.org/conda-forge/graphblas) for Linux, macOS and Windows
     * [dask-grblas](https://github.com/eriknw/dask-grblas): mirrors the python-graphblas API and uses dask for out-of-core or distributed computation
