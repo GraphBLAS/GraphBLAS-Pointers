@@ -85,7 +85,7 @@ Notation:
   * [Presentation](https://www.ece.ucdavis.edu/~ctcyang/pub/icpp-slides2018.pdf)
 * :hammer_and_wrench: `[BFS]` [A GraphBLAS solution to the SIGMOD 2014 Programming Contest using multi-source BFS](https://inf.mit.bme.hu/sites/default/files/publications/hpec2020-sigmod14-msbfs.pdf) (HPEC 2020) by Márton Elekes et al.
   * [Presentation](http://home.mit.bme.hu/~szarnyas/grb/hpec2020-graphblas-msbfs-extended.pdf)
-* :hammer: `[DFS]` [Linear Algebraic Depth-First Search](https://dl.acm.org/doi/10.1145/3315454.3329962) (ARRAY workshop @ PLDI 2019) by Daniele G. Spampinato et al.
+* :hammer: `[DFS]` [Linear Algebraic Depth-First Search](https://dl.acm.org/doi/pdf/10.1145/3315454.3329962) (ARRAY workshop @ PLDI 2019) by Daniele G. Spampinato et al.
   * :movie_camera: [Video](https://www.youtube.com/watch?v=fKim6IKdr8U)
 * :hammer_and_wrench: `[SSSP]` [Delta-Stepping SSSP: From Vertices and Edges to GraphBLAS Implementations](https://arxiv.org/pdf/1911.06895.pdf) (GrAPL @ IPDPS 2019) by Upasana Sridhar et al.
   * In its Preliminaries section, this paper contains the translation of a few vertex-centric and edge-centric design patterns to linear algebra.
@@ -101,7 +101,7 @@ Notation:
 * :wrench: [Graph algorithms via SuiteSparse:GraphBLAS: Triangle counting and K-truss](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/Davis_HPEC18.pdf) (HPEC 2018) by Tim Davis
 * :hammer_and_wrench: Tze Meng Low et al.'s work on triangle counting:
     * [First look: Linear algebra-based triangle counting without matrix multiplication](http://spiral.ece.cmu.edu:8080/pub-spiral/pubfile/hpec_2017_low_289.pdf) (HPEC 2017) by Tze Meng Low et al.
-    * [A Family of Provably Correct Algorithms for Exact Triangle Counting](https://dl.acm.org/doi/10.1145/3145344.3145484) (Correctness @ SC 2017) by Matthew Lee and Tze Meng Low
+    * [A Family of Provably Correct Algorithms for Exact Triangle Counting](https://dl.acm.org/doi/pdf/10.1145/3145344.3145484) (Correctness @ SC 2017) by Matthew Lee and Tze Meng Low
         * [Presentation](https://correctness-workshop.github.io/2017/papers/low.pdf)
     * [Linear Algebraic Formulation of Edge-centric K-truss Algorithms with Adjacency Matrices](https://users.ece.cmu.edu/~franzf/papers/hpec_2018_tml.pdf) (HPEC 2018) by Tze Meng Low et al.
 * :hammer: [Parallel Triangle Counting and Enumeration Using Matrix Algebra](https://crd.lbl.gov/assets/pubs_presos/triangles-gabb.pdf) (GABB @ IPDPS 2015) by Ariful Azad, Aydın Buluç, John R. Gilbert
@@ -116,7 +116,7 @@ Notation:
 
 ### Context-free path querying (CFPQ)
 
-* :hammer_and_wrench: [Context-Free Path Querying with Single-Path Semantics by Matrix Multiplication](https://dl.acm.org/doi/abs/10.1145/3398682.3399163) (GRADES-NDA 2020) by Arseniy Terekhov et al.
+* :hammer_and_wrench: [Context-Free Path Querying with Single-Path Semantics by Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3398682.3399163) (GRADES-NDA 2020) by Arseniy Terekhov et al.
 * :hammer_and_wrench: [Context-Free Path Querying by Kronecker Product](https://www.researchgate.net/profile/Semyon_Grigorev/publication/343687331_Context-Free_Path_Querying_by_Kronecker_Product/links/5f3e8981458515b72931fbf3/Context-Free-Path-Querying-by-Kronecker-Product.pdf) (ADBIS 2020) by Egor Orachev et al.
 * :hammer: [Path Querying with Conjunctive Grammars by Matrix Multiplication](https://www.researchgate.net/profile/Semyon_Grigorev/publication/337961820_Path_Querying_with_Conjunctive_Grammars_by_Matrix_Multiplication/links/5df9dde64585159aa48500d6/Path-Querying-with-Conjunctive-Grammars-by-Matrix-Multiplication.pdf) (Programming and Computer Software 2019) by Rustam Azimov and Semyon Grigorev
 * :wrench: [CFPQ algorithm implementations using pygraphblas](https://github.com/JetBrains-Research/CFPQ_PyAlgo)
@@ -162,7 +162,6 @@ Notation:
 * Aydın Buluç's talks:
   * :hammer_and_wrench: [Sparse Matrices Beyond Solvers: Graphs, Biology, and Machine Learning](http://fast-code.csail.mit.edu/abstracts/Buluc-MIT-FastCode.pdf) (MIT CSAIL Fast Code Seminar, June 22 2020), :movie_camera: [Video](https://youtu.be/8QFxuIwHZcA)
   * :hammer_and_wrench: [GraphBLAST: A high-performance C++ GPU library implementing GraphBLAS](https://ecpannualmeeting.com/assets/overview/sessions/Buluc-GraphBLAS-ECP.pdf) (ECP Annual Meeting 2020)
-  * :hammer_and_wrench: :star: [GraphBLAS: Concepts, algorithms, and applications](https://scheduling2019.sciencesconf.org/file/566318) (Scheduling Workshop 2019)
   * :hammer_and_wrench: [Graph algorithms, computational motifs, and GraphBLAS](https://people.eecs.berkeley.edu/~aydin/ECP_GraphBLAS_Buluc.pdf) (ECP Annual Meeting 2018)
   * :wrench: [Concepts in the GraphBLAS C API](https://people.eecs.berkeley.edu/~aydin/GraphBLAS_March2017.pdf) (2017)
   * :hammer: [Parallel Algorithms across the GraphBLAS Stack](https://people.eecs.berkeley.edu/~aydin/Buluc-ACS-June2017-web.pdf) (ACS HPC and Data Analytics Workshop 2017) co-authored by Ariful Azad
@@ -209,8 +208,7 @@ Notation:
 
 * [SuiteSparse:GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS.html)
     * [GitHub repository](https://github.com/DrTimothyAldenDavis/SuiteSparse/tree/master/GraphBLAS)
-    * :hammer_and_wrench: [Algorithm 1000: SuiteSparse:GraphBLAS: Graph algorithms in the language of sparse linear algebra](https://dl.acm.org/doi/10.1145/3322125), [preprint](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/toms_graphblas.pdf), (ACM Transactions on Mathematical Software, 2019) by Tim Davis
-    * :hammer_and_wrench: [Algorithm 10xx: SuiteSparse:GraphBLAS: parallel graph algorithms in the language of sparse linear algebra](https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/toms_parallel_grb.pdf) (preprint) by Tim Davis
+    * :hammer_and_wrench: [Algorithm 1000: SuiteSparse:GraphBLAS: Graph algorithms in the language of sparse linear algebra](https://dl.acm.org/doi/pdf/10.1145/3322125), [preprint](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/toms_graphblas.pdf), (ACM Transactions on Mathematical Software, 2019) by Tim Davis
     * The SuiteSparse:GraphBLAS library is released both as an individual package and (less frequently) as part of [SuiteSparse](http://faculty.cse.tamu.edu/davis/suitesparse.html).
     * This library can be installed on Debian-based distributions with the `libsuitesparse-dev` package. For example, Ubuntu 20.04's default repository contains SuiteSparse:GraphBLAS 3.2.0.
 * [GraphBLAS Template Library (GBTL)](https://github.com/cmu-sei/gbtl): C++ implementation (version 3.0 has been released in June 2020)
@@ -230,7 +228,7 @@ Notation:
     * [GraphMat: High performance graph analytics made productive](http://www.vldb.org/pvldb/vol8/p1214-sundaram.pdf) (VLDB 2015) by Narayanan Sundaram
     * [GraphPad: Optimized Graph Primitives for Parallel and Distributed Platforms](https://ieeexplore.ieee.org/abstract/document/7516027) (IPDPS 2016) by Michael J. Anderson et al.
 * [EJML (Efficient Java Matrix Library)](http://ejml.org/): partial Java implementation
-    * :wrench: [A GraphBLAS implementation in pure Java](https://dl.acm.org/doi/abs/10.1145/3461837.3464627) (GRADES-NDA 2021) by Florentin Dörre et al.
+    * :wrench: [A GraphBLAS implementation in pure Java](https://dl.acm.org/doi/pdf/10.1145/3461837.3464627) (GRADES-NDA 2021) by Florentin Dörre et al.
 * [Introducing Lucata's GraphBLAS](Slides/LAGraph-2021-10-13-Lucata-GraphBLAS.pdf) by Jason Riedy and Shannon Kuntz ([SlideShare](https://www.slideshare.net/jasonriedy/lagraph-20211013))
 * [Bit-GraphBLAS: Bit-Level Optimizations of Matrix-Centric Graph Processing on GPU](https://arxiv.org/pdf/2201.08560.pdf) (IPDPS 2022) by Jou-An Chen et al.
 
@@ -246,7 +244,6 @@ Notation:
     * [dask-grblas](https://github.com/eriknw/dask-grblas): mirrors the python-graphblas API and uses dask for out-of-core or distributed computation
     * [PyGB](https://github.com/jessecoleman/gbtl-python-bindings): a Python wrapper for GBTL
 * [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl): a Julia wrapper for SuiteSparse:GraphBLAS
-     * :tv: [JuliaCon talk](https://live.juliacon.org/talk/YFPXCU) by William Kimmerer
 * [rustgraphblas](https://github.com/fabianmurariu/rustgraphblas): a Rust wrapper
 * [graphblas-java-native](https://github.com/fabianmurariu/graphblas-java-native): a Java wrapper
   * [artifact at the Maven Central](https://search.maven.org/search?q=a:graphblas-java-native)
@@ -303,7 +300,8 @@ You can also find many papers, posters, and presentations in the [Accumulo repos
 
 | year | IPDPS workshop                                                   | HPEC                                                            |
 | ---- | ---------------------------------------------------------------- | --------------------------------------------------------------- |
-| 2022 | [GrAPL 2022](https://hpc.pnl.gov/grapl/)                         | [HPEC 2022](https://ieee-hpec.org/cfp.htm)                      |
+| 2023 | [GrAPL 2023](https://hpc.pnl.gov/grapl/)                         | [HPEC 2023](https://ieee-hpec.org/)                             |
+| 2022 | [GrAPL 2022](https://hpc.pnl.gov/grapl/previous/2022/index.html) | [HPEC 2022](http://www.ieee-hpec.org/2022)                      |
 | 2021 | [GrAPL 2021](https://hpc.pnl.gov/grapl/previous/2021/index.html) | [HPEC 2021](http://www.ieee-hpec.org/2021)                      |
 | 2020 | [GrAPL 2020](https://hpc.pnl.gov/grapl/previous/2020/index.html) | [HPEC 2020](http://www.ieee-hpec.org/2020)                      |
 | 2019 | [GrAPL 2019](https://hpc.pnl.gov/grapl/previous/2019/index.html) | [HPEC 2019](http://www.ieee-hpec.org/2019/)                     |
@@ -335,14 +333,14 @@ The [`nicematrix`](https://ctan.org/pkg/nicematrix?lang=en) LaTeX package can be
 * [Magas: matrix-based asynchronous graph analytics on shared memory systems](https://link.springer.com/article/10.1007/s11227-021-04091-x) (Journal of Supercomputing, 2021) by Le Luo et al.
 * MAGiQ – a GraphBLAS-based RDF query engine:
   * [A Demonstration of MAGiQ: Matrix Algebra Approach for Solving RDF Graph Queries](http://www.vldb.org/pvldb/vol11/p1978-jamour.pdf) (demo at VLDB 2018) by Fuad Jamour, Ibrahim Abdelaziz, Panos Kalnis
-  * [Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs](https://dl.acm.org/doi/10.1145/3302424.3303962) (EuroSys 2019) by Fuad Jamour, Ibrahim Abdelaziz, Yuanzhao Chen, Panos Kalnis
+  * [Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs](https://dl.acm.org/doi/pdf/10.1145/3302424.3303962) (EuroSys 2019) by Fuad Jamour, Ibrahim Abdelaziz, Yuanzhao Chen, Panos Kalnis
   * [Algorithms and Frameworks for Graph Analytics at Scale](https://repository.kaust.edu.sa/bitstream/handle/10754/631280/FuadJamourThesis.pdf?sequence=3) (PhD thesis, 2019) by Fuad Jamour
 * [Parallel and Scalable Sparse Basic Linear Algebra Subprograms](https://nbi.ku.dk/english/theses/phd-theses/weifeng-liu/weifeng_liu.pdf) (PhD thesis, 2015) by Weifeng Liu
 * [Density-Aware Linear Algebra in a Column-Oriented In-Memory Database System](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-210043) (PhD thesis, 2016) by David Kernert
 * Connection of relational joins (join-project, projected join) and sparse matrix multiplication:
   * [A relational approach to the compilation of sparse matrix programs](https://link.springer.com/chapter/10.1007%2FBFb0002751) (Euro-Par 1997) by Vladimir Kotlyar et al.
   * [Faster join-projects and sparse matrix multiplications](https://www.itu.dk/people/pagh/papers/joinproject.pdf) (ICDT 2009) by Rasmus Resen Amossen and Rasmus Pagh
-  * [Fast Join Project Query Evaluation using Matrix Multiplication](https://users.cs.duke.edu/~xh102/sigmod2020.pdf) (SIGMOD 2020) by Shaleen Deep et al.
+  * [Fast Join Project Query Evaluation using Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3318464.3380607) (SIGMOD 2020) by Shaleen Deep et al.
   * [SPORES: Sum-Product Optimization via Relational Equality Saturation for Large Scale Linear Algebra](http://www.vldb.org/pvldb/vol13/p1919-wang.pdf) (VLDB 2020) by Yisu Remy Wang et al.
 * [Semiring Provenance over Graph Databases](https://www.usenix.org/conference/tapp2018/presentation/ramusat) (USENIX Workshop on the Theory and Practice of Provenance 2018) by Yann Ramusat et al.
 * [Provenance-Based Algorithms for Rich Queries over Graph Databases](https://hal.inria.fr/hal-03140067/) (EDBT 2021) by Yann Ramusat et al.
