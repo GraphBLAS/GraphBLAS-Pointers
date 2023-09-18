@@ -57,7 +57,7 @@ Notation:
   * [LAGraph Working Group](https://github.com/GraphBLAS/LAGraph-Working-Group): Public document and planning repository for the LAGraph Working Group
   * [LAGraph: A Community Effort to Collect Graph Algorithms Built on Top of the GraphBLAS](http://faculty.cse.tamu.edu/davis/GraphBLAS_files/lagraph-grapl19.pdf) (GrAPL @ IPDPS 2019) by Tim Mattson et al.
   * [LAGraph: Linear Algebra, Network Analysis Libraries, and the Study of Graph Algorithms](https://arxiv.org/pdf/2104.01661.pdf) (GrAPL @ IPDPS 2021) by Gábor Szárnyas et al.
-  * [Intel Generic Implementation of LAGraph* for Go*](https://github.com/intel/forLAGraphGo), a port implemented in Go
+  * [Intel Generic Implementation of LAGraph for Go](https://github.com/intel/forLAGraphGo), a port implemented in Go
 * :wrench: graphblas-algorithms - A library of algorithms written using python-graphblas
   * [Repository on GitHub](https://github.com/python-graphblas/graphblas-algorithms)
 
@@ -213,7 +213,6 @@ Notation:
     * This library can be installed on Debian-based distributions with the `libsuitesparse-dev` package. For example, Ubuntu 20.04's default repository contains SuiteSparse:GraphBLAS 3.2.0.
 * [GraphBLAS Template Library (GBTL)](https://github.com/cmu-sei/gbtl): C++ implementation (version 3.0 has been released in June 2020)
     * [GraphBLAS: Building a C++ Matrix API for Graph Algorithms](https://www.youtube.com/watch?v=xMBNCtFV8sI) (CppCon 2021) by Benjamin Brock and Scott McMillan
-* [Intel Generic Implementation of GraphBLAS* for Go*](https://github.com/intel/forgraphblasgo)
 * [GraphBLAST](https://github.com/gunrock/graphblast)
     * [GraphBLAST: A High-Performance Linear Algebra-based Graph Framework on the GPU](https://arxiv.org/pdf/1908.01407.pdf), preprint by Carl Yang, Aydın Buluç, John D. Owens
     * [High-Performance Linear Algebra-based Graph Framework on the GPU](https://escholarship.org/content/qt37j8j27d/qt37j8j27d.pdf) (PhD dissertation, 2019) by Carl Yang
@@ -243,6 +242,7 @@ Notation:
         * conda-forge also has [standalone SuiteSparse:GraphBLAS packages](https://anaconda.org/conda-forge/graphblas) for Linux, macOS and Windows
     * [dask-grblas](https://github.com/eriknw/dask-grblas): mirrors the python-graphblas API and uses dask for out-of-core or distributed computation
     * [PyGB](https://github.com/jessecoleman/gbtl-python-bindings): a Python wrapper for GBTL
+* [Intel Generic Implementation of GraphBLAS for Go](https://github.com/intel/forgraphblasgo) - a Go binding for SuiteSparse:GraphBLAS
 * [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl): a Julia wrapper for SuiteSparse:GraphBLAS
 * [rustgraphblas](https://github.com/fabianmurariu/rustgraphblas): a Rust wrapper
 * [graphblas-java-native](https://github.com/fabianmurariu/graphblas-java-native): a Java wrapper
