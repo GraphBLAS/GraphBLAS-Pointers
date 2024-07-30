@@ -37,7 +37,7 @@ Notation:
   * :movie_camera: [Talk at FOSDEM 2020's HPC room](https://fosdem.org/2020/schedule/event/graphblas/) (abridged version)
   * [Case studies, algorithms, and other slide decks](http://mit.bme.hu/~szarnyas/grb/)
 * :hammer_and_wrench: :star: [Hands-on tutorial for GraphBLAS](https://github.com/tgmattso/GraphBLAS) (HPEC 2018-) by Scott McMillan and Tim Mattson
-  * [latest version](https://github.com/GraphBLAS/SIAM-Tutorial/blob/main/GraphBLAS_Tutorial_202103_python.pdf) presented at [SIAM CSE 2021](https://www.siam.org/conferences/cm/program/minitutorials/cse21-minitutorials)
+  * [latest version](https://github.com/GraphBLAS/SIAM-Tutorial/blob/main/GraphBLAS_Tutorial_202103_python.pdf) presented at SIAM CSE 2021
 * :wrench: :star: [Introduction to GraphBLAS with Python](https://www.youtube.com/watch?v=JUbXW_f03W0) (2019) by Michel Pelletier
 * :hammer: [The Algebraic Path Problem: Semirings](https://www.youtube.com/watch?v=ZzBWh6orSHk) by Fred Hamprecht at the HCI of Heidelberg University (2020)
 
@@ -82,7 +82,6 @@ Notation:
 * :hammer_and_wrench: `[BFS]` [Optimal algebraic Breadth-First Search for sparse graphs](https://arxiv.org/pdf/1906.03113.pdf) (preprint, 2019) by Paul Burkhardt 
 * :hammer_and_wrench: `[BFS]` [Implementing Push-Pull Efficiently in GraphBLAS](https://arxiv.org/pdf/1804.03327.pdf) (ICPP 2018) by Carl Yang, Aydın Buluç, John D. Owens
   * This paper forms the basis of Chapter 5 in Carl Yang's PhD thesis, [High-Performance Linear Algebra-based Graph Framework on the GPU](https://escholarship.org/content/qt37j8j27d/qt37j8j27d.pdf) (2019). The figures in the conference paper have some coloring issues that have been amended in the thesis.
-  * [Presentation](https://www.ece.ucdavis.edu/~ctcyang/pub/icpp-slides2018.pdf)
 * :hammer_and_wrench: `[BFS]` [A GraphBLAS solution to the SIGMOD 2014 Programming Contest using multi-source BFS](https://inf.mit.bme.hu/sites/default/files/publications/hpec2020-sigmod14-msbfs.pdf) (HPEC 2020) by Márton Elekes et al.
   * [Presentation](http://home.mit.bme.hu/~szarnyas/grb/hpec2020-graphblas-msbfs-extended.pdf)
 * :hammer: `[DFS]` [Linear Algebraic Depth-First Search](https://dl.acm.org/doi/pdf/10.1145/3315454.3329962) (ARRAY workshop @ PLDI 2019) by Daniele G. Spampinato et al.
@@ -170,7 +169,7 @@ Notation:
 * :hammer_and_wrench: [Task Parallel Approach to the Linear Algebra-Based Implementation of miniTri Michael Wolf](https://www.osti.gov/servlets/purl/1369523) (SIAM Annual Meeting, 2016) by Michael Wolf
 * Albert-Jan Yzelman's talks:
   * :hammer_and_wrench: [A foundational communication layer and a linear algebraic programming methodology](https://webspace.science.uu.nl/~bisse101/Education/PA/Yzelman_slides2019.pdf) (2019)
-  * :hammer_and_wrench: [Efficient sparse matrix computations and their generalization to graph computing applications](https://ldbcouncil.org/event/ninth-tuc-meeting/attachments/59277315/76021761.pdf) (Linked Data Benchmark Council, Technical User Community meeting, 2017)
+  * :hammer_and_wrench: [Efficient sparse matrix computations and their generalization to graph computing applications](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/ninth-tuc-meeting/attachments/59277315/76021761.pdf) (Linked Data Benchmark Council, Technical User Community meeting, 2017)
 * Tim Davis' talks:
   * :hammer_and_wrench: [SuiteSparse:GraphBLAS: Graph algorithms via sparse matrix operations on semirings](https://cerfacs.fr/wp-content/uploads/2017/09/S02E04-Davis.pdf) (Sparse Days @ CERFACS 2017)
   * :hammer_and_wrench: [SuiteSparse:GraphBLAS, a Parallel Implementation of the GraphBLAS Specification](https://github.com/johnrgilbert/MDS2020-linear-algebraic-graph-tools/blob/master/MS142-Davis-Slides.pdf) (SIAM Minisymposium 2020 on Linear Algebraic Tools for Graph Computation) :movie_camera: [Video](https://youtu.be/gZSNp6XbOK8?t=1721)
