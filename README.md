@@ -32,7 +32,7 @@ Notation:
 
 ### Tutorials
 
-* :octocat: [GraphBLAS tutorials (GitHub organization)](https://github.com/GraphBLAS-Tutorials)
+* :hammer: [GraphBLAS tutorials (GitHub organization)](https://github.com/GraphBLAS-Tutorials)
 * :hammer: :star: [Introduction to GraphBLAS: A linear algebraic approach for concise, portable, and high-performance graph algorithms](https://zenodo.org/record/4318870) by Gábor Szárnyas: a tutorial with 180+ slides
   * :movie_camera: [Talk at FOSDEM 2020's HPC room](https://fosdem.org/2020/schedule/event/graphblas/) (abridged version)
   * [Case studies, algorithms, and other slide decks](http://mit.bme.hu/~szarnyas/grb/)
