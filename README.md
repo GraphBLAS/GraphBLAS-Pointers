@@ -254,8 +254,8 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
 ## Related libraries
 
 * [Graphony](https://github.com/Graphegon/Graphony): a Python library for doing high-performance graph analysis using the GraphBLAS over sparse and hypersparse data sets. It uses pygraphblas to store graph data in sparse GraphBLAS matrices and node and edge properties in PostgreSQL.
-* [FalkorDB](https://github.com/falkordb/falkordb) - a queryable property graph database, previously known as RedisGraph
-    * More pointers [below](#RedisGraph)
+* [FalkorDB](https://github.com/falkordb/falkordb): a graph database that uses GraphBLAS under the hood for its sparse adjacency matrix graph.
+    * Note: Several developers of FalkorDB originally worked on [RedisGraph](#redisgraph) which was also powered by GraphBLAS.
 * [Graphulo](https://graphulo.mit.edu/) (built for [Apache Accumulo](https://accumulo.apache.org/))
     * More pointers [below](#Graphulo)
 * [D4M](http://www.mit.edu/~kepner/D4M/)
@@ -274,6 +274,10 @@ See also the [ongoing design of the GraphBLAS C++ API](https://people.eecs.berke
     * [Nonblocking execution in GraphBLAS](http://albert-jan.yzelman.net/PDFs/mastoras22-pp.pdf) (GrAPL 2022)
     * [Design and implementation for nonblocking execution in GraphBLAS: tradeoffs and performance](http://albert-jan.yzelman.net/PDFs/mastoras22a-rev.pdf) by Aristeidis Mastoras et al., ACM Transactions on Architecture and Code Optimization, 2022
     * [Poster](http://albert-jan.yzelman.net/slides/siam-pp20-poster.pdf) by Albert-Jan Yzelman and W. J. Suijlen
+
+### FalkorDB
+
+* [FalkorDB](https://www.falkordb.com/)
 
 ### RedisGraph
 
