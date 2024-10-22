@@ -229,6 +229,9 @@ Notation:
     * :wrench: [A GraphBLAS implementation in pure Java](https://dl.acm.org/doi/pdf/10.1145/3461837.3464627) (GRADES-NDA 2021) by Florentin Dörre et al.
 * [Introducing Lucata's GraphBLAS](Slides/LAGraph-2021-10-13-Lucata-GraphBLAS.pdf) by Jason Riedy and Shannon Kuntz ([SlideShare](https://www.slideshare.net/jasonriedy/lagraph-20211013))
 * [Bit-GraphBLAS: Bit-Level Optimizations of Matrix-Centric Graph Processing on GPU](https://arxiv.org/pdf/2201.08560.pdf) (IPDPS 2022) by Jou-An Chen et al.
+* **spla** is a generalized sparse linear algebra library with GPU-accelerated computations. C++ and OpenCL implementation. The library is vendor-agnostic: it can utilize GPUs by nvidia, Intel, AMD.
+   * [Source code](https://github.com/SparseLinearAlgebra/spla)
+   * [Generalized sparse linear algebra library with vendor-agnostic GPUs acceleration](https://dspace.spbu.ru/bitstream/11701/42658/2/Oracev_ES_VKR_Magistra.pdf) (master thesis, 2023) by Egor Orachev
 
 ## Wrappers
 
