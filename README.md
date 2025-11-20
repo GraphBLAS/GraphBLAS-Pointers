@@ -113,8 +113,15 @@ Notation:
 * [The K-Core Decomposition Algorithm Under the Framework of GraphBLAS](https://ieeexplore.ieee.org/document/9622845) (HPEC 2021) by Longlong Li et al.
 * [A GraphBLAS Implementation of Triangle Centrality](https://ieeexplore.ieee.org/document/9622806) (HPEC 2021) by Fuhuan Li and David A. Bader
 
-### Context-free path querying (CFPQ)
+### Formal language constarined path querying
 
+#### Regular path querying (RPQ)
+
+* :hammer_and_wrench: [Single-Source Regular Path Querying in Terms of Linear Algebra](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/LSGDA/LSGDA25_12.pdf) (LSGDA-2025) by Georgiy Belyanin et al.
+
+#### Context-free path querying (CFPQ)
+
+* :hammer_and_wrench: [Universal High-Performance CFL-Reachability via Matrix Multiplication](https://dl.acm.org/doi/10.1145/3735544.3735585) (SOAP-2025) by Ilia Muravev and Semyon Grigorev
 * :hammer_and_wrench: [Context-Free Path Querying with Single-Path Semantics by Matrix Multiplication](https://dl.acm.org/doi/pdf/10.1145/3398682.3399163) (GRADES-NDA 2020) by Arseniy Terekhov et al.
 * :hammer_and_wrench: [Context-Free Path Querying by Kronecker Product](https://www.researchgate.net/profile/Semyon_Grigorev/publication/343687331_Context-Free_Path_Querying_by_Kronecker_Product/links/5f3e8981458515b72931fbf3/Context-Free-Path-Querying-by-Kronecker-Product.pdf) (ADBIS 2020) by Egor Orachev et al.
 * :hammer: [Path Querying with Conjunctive Grammars by Matrix Multiplication](https://www.researchgate.net/profile/Semyon_Grigorev/publication/337961820_Path_Querying_with_Conjunctive_Grammars_by_Matrix_Multiplication/links/5df9dde64585159aa48500d6/Path-Querying-with-Conjunctive-Grammars-by-Matrix-Multiplication.pdf) (Programming and Computer Software 2019) by Rustam Azimov and Semyon Grigorev
